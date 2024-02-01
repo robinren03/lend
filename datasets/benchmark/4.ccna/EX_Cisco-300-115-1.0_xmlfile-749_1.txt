@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network engineer deployed an older switch with the same spanning-tree priority as the existing root, which caused a network outage.  In which two locations should the Spanning Tree Protocol root guard feature be implemented? (Choose two.)
+Choice index: A Choice content: on all of the non-root switch facing ports of the access layer
+Choice index: B Choice content: on Layer 3 boundaries in the distribution layer
+Choice index: C Choice content: on the designated root switch downlinks to the access layer
+Choice index: D Choice content: on the access layers root facing ports
+Choice index: E Choice content: globally on all network switches

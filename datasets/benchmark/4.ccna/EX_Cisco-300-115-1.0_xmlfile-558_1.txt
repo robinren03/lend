@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. If switch SW6 is operating VTP Server and the other devices have the same configuration as SW4, which statement about the VLANs network is true?
+(The given image is here)
+Choice index: A Choice content: Traffic on VLANs 1 through 9 is flooded to all switches in the network.
+Choice index: B Choice content: VLANs 1 through 101 are operational on all switch trunks.
+Choice index: C Choice content: VLANs 1 through 9 are pruned on the link between SW1 and SW4.
+Choice index: D Choice content: VLANs 1 through 101 are pruned on the link between SW1 and SW2.

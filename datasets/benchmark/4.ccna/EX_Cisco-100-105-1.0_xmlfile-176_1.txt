@@ -1,0 +1,13 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The junior network support staff provided the diagram as a recommended configuration for the first phase of a four-phase network expansion project. The entire network expansion will have over 1000 users on 14 network segments and has been allocated this IP address space.
+-> 192.168.1.1 through 192.168.5.255
+-> 192.168.100.1 through 192.168.100.255
+What are three problems with this design? (Choose three.)
+Choice index: A Choice content: The AREA 1 IP address space is inadequate for the number of users.
+Choice index: B Choice content: The AREA 3 IP address space is inadequate for the number of users.
+Choice index: C Choice content: AREA 2 could use a mask of /25 to conserve IP address space.
+Choice index: D Choice content: The network address space that is provided requires a single network-wide mask.
+Choice index: E Choice content: The router-to-router connection is wasting address space.
+Choice index: F Choice content: The broadcast domain in AREA 1 is too large for IP to function.

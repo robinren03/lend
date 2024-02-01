@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+A network associate needs to configure the switches and router in the graphic so that the hosts in VLAN3 and VLAN4 can communicate with the enterprise server in VLAN2. Which two Ethernet segments would need to be configured as trunk links? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: A
+Choice index: B Choice content: B
+Choice index: C Choice content: C
+Choice index: D Choice content: D
+Choice index: E Choice content: E
+Choice index: F Choice content: F

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the graphic. R1 is unable to establish an OSPF neighbor relationship with R3. What are possible reasons for this problem? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: All of the routers need to be configured for backbone Area 1.
+Choice index: B Choice content: R1 and R2 are the DR and BDR, so OSPF will not establish neighbor adjacency with R3.
+Choice index: C Choice content: A static route has been configured from R1 to R3 and prevents the neighbor adjacency from being established.
+Choice index: D Choice content: The hello and dead interval timers are not set to the same values on R1 and R3.
+Choice index: E Choice content: EIGRP is also configured on these routers with a lower administrative distance.
+Choice index: F Choice content: R1 and R3 are configured in different areas.

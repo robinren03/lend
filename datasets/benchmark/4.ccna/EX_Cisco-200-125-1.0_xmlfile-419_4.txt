@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the graphic. A static route to the 10.5.6.0/24 network is to be configured on the HFD router. Which commands will accomplish this? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: HFD(config)# ip route 10.5.6.0 0.0.0.255 fa0/0
+Choice index: B Choice content: HFD(config)# ip route 10.5.6.0 0.0.0.255 10.5.4.6
+Choice index: C Choice content: HFD(config)# ip route 10.5.6.0 255.255.255.0 fa0/0
+Choice index: D Choice content: HFD(config)# ip route 10.5.6.0 255.255.255.0 10.5.4.6
+Choice index: E Choice content: HFD(config)# ip route 10.5.4.6 0.0.0.255 10.5.6.0
+Choice index: F Choice content: HFD(config)# ip route 10.5.4.6 255.255.255.0 10.5.6.0

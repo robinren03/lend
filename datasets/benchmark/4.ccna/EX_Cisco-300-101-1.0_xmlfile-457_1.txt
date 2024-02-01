@@ -1,0 +1,5 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+IPv6 OSPF Virtual Link -
+(The given image is here)
+Acme is a small export company that has an existing enterprise network that is running IPv6 OSPFv3. Currently OSPF is configured on all routers. However, R4"˜s loopback address (FEC0:4:4) cannot be seen in R1"˜s IPv6 routing table. You are tasked with identifying the cause of this fault and implementing the needed corrective actions that uses OSPF features and does no change the current area assignments. You will know that you have corrected the fault when R4"˜s loopback address (FEC0:4:4) can be seen in the routing table of R1.

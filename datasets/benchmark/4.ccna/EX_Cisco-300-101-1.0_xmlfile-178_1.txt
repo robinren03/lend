@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. A network engineer has configured GRE between two IOS routers. The state of the tunnel interface is continuously oscillating between up and down. What is the solution to this problem?
+Choice index: A Choice content: Create a more specific ARP entry to define how to reach the remote router.
+Choice index: B Choice content: Save the configuration and reload the router.
+Choice index: C Choice content: Create a more specific static route to define how to reach the remote router.
+Choice index: D Choice content: Check whether the Internet service provider link is stable.

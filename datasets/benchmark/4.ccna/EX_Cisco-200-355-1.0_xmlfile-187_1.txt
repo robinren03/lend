@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+An engineer is implementing a new network design that includes a port channel to connect an MDS core switch and an VPN switch. Which two Fibre Channel port types must be used to create the Fibre Channel port channel? (Choose two.)
+Choice index: A Choice content: NL Port
+Choice index: B Choice content: F Port
+Choice index: C Choice content: NP Port
+Choice index: D Choice content: E Port
+Choice index: E Choice content: N Port
+Choice index: F Choice content: TL Port

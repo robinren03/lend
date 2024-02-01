@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A new TAC engineer came to you for advice. A GRE over IPsec tunnel was configured, but the tunnel is not coming up.
+What did the TAC engineer configure incorrectly?
+(The given image is here)
+Choice index: A Choice content: The crypto map is not configured correctly
+Choice index: B Choice content: The crypto ACL is not configured correctly.
+Choice index: C Choice content: The crypto map is not applied to the correct interface.
+Choice index: D Choice content: The OSPF network is not configured correctly.

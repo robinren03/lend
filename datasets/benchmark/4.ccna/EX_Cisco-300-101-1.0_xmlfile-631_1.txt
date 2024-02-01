@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+R1 is configured with VRF-Lite and can ping R2. R2 is fully configured, but it has no active EIGRP neighbors in vrf Yellow. If the configuration of r2 is complete, then which issue prevents the EIGRP 100 neighbor relationship in vrf Yellow from forming?
+Choice index: A Choice content: The interface IP address are not in the same subnet.
+Choice index: B Choice content: The no auto-summary command is preventing the EIGRP neighbor relationship from forming.
+Choice index: C Choice content: EIGRP 100 network 192.168.1.0/24 is configured in the global routing table on R1.
+Choice index: D Choice content: There is a Layer 1 issue that prevents the EIGRP neighbor relationship from forming.

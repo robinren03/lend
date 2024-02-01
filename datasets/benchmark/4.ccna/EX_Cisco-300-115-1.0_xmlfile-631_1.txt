@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+The headquarter office for a cement manufacturer is installing a temporary Catalyst 3550 in an IDF to connect 24 additional users. To prevent network corruption, it is important to have the correct configuration prior to connecting to the production network.
+It will be necessary to ensure that the switch does not participate in VTP but forwards VTP advertisements that are received on trunk ports. Because of errors that have been experienced on office computers, all non-trunking interfaces should transition immediately to the forwarding state of Spanning tree. Also configure the user ports (all FastEthernet ports) so that the ports are permanently non-trunking.
+(The given image is here)
+Requirements:
+You will configure FastEthernet ports 0/12 through 0/24 for users who belong to VLAN 20. Also all VLAN and VTP configurations are to be completed in global configuration mode as VLAN database mode is being deprecated by Cisco. You are required to accomplish the following tasks:
+1. Ensure the switch does not participate in VTP but forwards VTP advertisements received on trunk ports.
+2. Ensure all non-trunking interfaces (Fa0/1 to Fa0/24) transition immediately to the forwarding state of Spanning-Tree.
+3. Ensure all FastEthernet interfaces are in a permanent non-trunking mode.
+4. Place FastEthernet interfaces 0/12 through 0/24 in VLAN 20.

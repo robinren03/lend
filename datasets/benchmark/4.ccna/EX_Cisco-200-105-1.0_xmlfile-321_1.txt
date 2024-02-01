@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A network administrator is configuring the routers in the graphic for OSPF. The OSPF process has been started and the networks have been configured for Area 0 as shown in the diagram. The network administrator has several options for configuring RouterB to ensure that it will be preferred as the designated router (DR) for the 172.16.1.0 /24 LAN segment.
+What configuration tasks could be used to establish this preference? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: Configure the priority value of the Fa0/0 interface of RouterB to a higher value than any other interface on the Ethernet network.
+Choice index: B Choice content: Change the router id of Router B by assigning the IP address 172.16.1.130/24 to the Fa0/0 interface of RouterB.
+Choice index: C Choice content: Configure a loopback interface on RouterB with an IP address higher than any IP address on the other routers.
+Choice index: D Choice content: Change the priority value of the Fa0/0 interface of RouterB to zero.
+Choice index: E Choice content: Change the priority values of the Fa0/0 interfaces of RouterA and RouterC to zero.
+Choice index: F Choice content: No further configuration is necessary.

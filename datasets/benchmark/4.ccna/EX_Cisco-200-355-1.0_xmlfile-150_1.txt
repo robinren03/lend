@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A company added a Cisco Wireless LAN Controller to the network and converted all APs to lightweight APs. What is the hop order of the data packets when traveling from Client A to Client B, if the APs are in local mode?
+Choice index: A Choice content: AP Office 1, Switch, WLC, Switch, AP Office 2
+Choice index: B Choice content: AP Office 1, WLC, AP Office 2
+Choice index: C Choice content: AP Office 1, WLC, Switch, AP Office 2
+Choice index: D Choice content: AP Office 1, Switch, WLC, AP Office 2

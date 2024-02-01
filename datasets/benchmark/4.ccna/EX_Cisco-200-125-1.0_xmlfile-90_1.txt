@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A network administrator attempts to ping Host2 from Host1 and receives the results that are shown.
+What is the problem?
+(The given image is here)
+Choice index: A Choice content: The link between Host1 and Switch1 is down.
+Choice index: B Choice content: TCP/IP is not functioning on Host1
+Choice index: C Choice content: The link between Router1 and Router2 is down.
+Choice index: D Choice content: The default gateway on Host1 is incorrect.
+Choice index: E Choice content: Interface Fa0/0 on Router1 is shutdown.
+Choice index: F Choice content: The link between Switch1 and Router1 is down.

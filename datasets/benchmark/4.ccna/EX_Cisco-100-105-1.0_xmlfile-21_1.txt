@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which command is simplest to configure routing between the regional office network 10.89.0.0/20 and the corporate network?
+Choice index: A Choice content: router2(config)#ip route 0.0.0.0 0.0.0.0 10.89.16.1
+Choice index: B Choice content: router2(config)#ip route 10.89.3.0 255.255.0.0 10.89.16.2
+Choice index: C Choice content: router1(config)#ip route 10.89.0.0 255.255.240.0 10.89.16.1
+Choice index: D Choice content: router1(config)#ip route 10.89.0.0 255.255.240.0 10.89.16.2

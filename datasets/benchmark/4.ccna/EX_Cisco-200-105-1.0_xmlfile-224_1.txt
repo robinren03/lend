@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Lab -VTP Configuration -
+A new switch is being added to the River Campus LAN. You will work to complete this process by first configuring the building_210 switch with an IP address and default gateway. For the switch host address, you should use the last available IP address on the management subnet. In addition, the switch needs to be configured to be in the same VTP domain as the building_100 switch and also needs to be configured as a VTP client. Assume that the IP configuration and VTP configuration on building_100 are complete and correct.
+The configuration of the router is not accessible for this exercise. You must accomplish the following tasks:
+(The given image is here)
+(The given image is here)
+See the explanation below -

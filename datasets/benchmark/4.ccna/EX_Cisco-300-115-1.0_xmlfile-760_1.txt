@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+If all switches in this environment are running PVSTP+, which switch is elected as the STP root switch when a new VLAN is added to the network?
+Choice index: A Choice content: switch 1
+Choice index: B Choice content: switch 2
+Choice index: C Choice content: switch 3
+Choice index: D Choice content: switch 4
+Choice index: E Choice content: switch 5

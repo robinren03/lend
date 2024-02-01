@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. How can you configure this network so that customers can transparently extend their networks through the provider?
+(The given image is here)
+Choice index: A Choice content: Configure EIGRP OP on the CE routers.
+Choice index: B Choice content: Configure eBGP peering between the CE and PE routers.
+Choice index: C Choice content: Configure OSPF peering between the CE and PE routers.
+Choice index: D Choice content: Configure eBGP peering among the CE routers.

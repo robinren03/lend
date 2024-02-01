@@ -1,0 +1,5 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+How should the FastEthernet0/1 ports on the 2950 model switches that are shown in the exhibit be configured to allow connectivity between all devices?
+(The given image is here)
+Choice index: A Choice content: The ports only need to be connected by a crossover cable. B. <img alt="" src="/static/img/exams/Cisco-200-105-1.0/xmlfile-264_2.png] C. [Cisco-200-105-1.0/xmlfile-264_3.png] D. [Cisco-200-105-1.0/xmlfile-265_1.png"/>

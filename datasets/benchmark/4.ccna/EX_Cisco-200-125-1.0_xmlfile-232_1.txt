@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A technician is troubleshooting host connectivity issues on the switches. The hosts in VLANs 10 and 15 on Sw11 are unable to communicate with hosts in the same VLANs on Sw12. Hosts in the Admin VLAN are able to communicate. The port-to-VLAN assignments are identical on the two switches.
+What could be the problem?
+(The given image is here)
+Choice index: A Choice content: The Fa0/1 port is not operational on one of the switches.
+Choice index: B Choice content: The link connecting the switches has not been configured as a trunk.
+Choice index: C Choice content: At least one port needs to be configured in VLAN 1 for VLANs 10 and 15 to be able to communicate.
+Choice index: D Choice content: Port FastEthernet 0/1 needs to be configured as an access link on both switches.
+Choice index: E Choice content: A router is required for hosts on SW11 in VLANs 10 and 15 to communicate with hosts in the same VLAN on Sw12.

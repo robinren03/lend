@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. 
+If the hubs were replaced by switches, what would be virtually eliminated? Explain your choice.
+Choice index: A Choice content: broadcast domains
+Choice index: B Choice content: repeater domains
+Choice index: C Choice content: Ethernet collisions
+Choice index: D Choice content: signal amplification
+Choice index: E Choice content: Ethernet broadcasts

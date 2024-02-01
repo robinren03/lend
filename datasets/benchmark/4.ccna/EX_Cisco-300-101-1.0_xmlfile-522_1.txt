@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which statement is true?
+Choice index: A Choice content: RTA will redistribute the RIP routers into the NSSA as type 7 LSAs. RTB will translate the type 7 LSAs into type LSAs and flood them throughout the OSPF backbone.
+Choice index: B Choice content: RTA will redistribute the RIP routers into the NSSA as type 7 LSAs. RTB will flood the type 7 LSAs throughout the backbone.
+Choice index: C Choice content: RTA will redistribute the RIP routers into the NSSA as type 5 LSAs. RTB will flood the type 5 LSAs throughout the backbone.
+Choice index: D Choice content: RTA will redistribute the RIP routers into the NSSA as type 5 LSAs. RTB will translate the type of 5 LSAs unto type 7 LSAs and flood them throughout the OSPF backbone.
+Choice index: E Choice content: RTA will not redistribute the RIP routers into the NSSA.

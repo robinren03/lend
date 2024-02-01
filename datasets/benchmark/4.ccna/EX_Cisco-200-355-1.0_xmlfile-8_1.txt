@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network engineer needs the far end of a wireless bridge to receive at -45dBM. Based on the diagram, what value in dBm must the transmitter use to send to achieve the desired result?
+Choice index: A Choice content: -118
+Choice index: B Choice content: -28
+Choice index: C Choice content: -20
+Choice index: D Choice content: 20
+Choice index: E Choice content: 28
+Choice index: F Choice content: 118

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. HostA cannot ping HostB.
+Assuming routing is properly configured, what could be the cause of this problem?
+(The given image is here)
+Choice index: A Choice content: HostA is not on the same subnet as its default gateway.
+Choice index: B Choice content: The address of SwitchA is a subnet address.
+Choice index: C Choice content: The Fa0/0 interface on RouterA is on a subnet that can't be used.
+Choice index: D Choice content: The serial interfaces of the routers are not on the same subnet.
+Choice index: E Choice content: The Fa0/0 interface on RouterB is using a broadcast address.

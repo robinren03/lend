@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. All three PCs on the network are in different VLANs. If you want to permit PC A to communicate with PC C, but prevent communications from
+PC B to PC C, where on this network do you place a standard ACL?
+(The given image is here)
+Choice index: A Choice content: on interface S0/0 on R2
+Choice index: B Choice content: on interface F0/0 on R1
+Choice index: C Choice content: on interface F0/0 on R2
+Choice index: D Choice content: on interface S0/0 on R1

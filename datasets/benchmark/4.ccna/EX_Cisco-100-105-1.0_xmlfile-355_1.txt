@@ -1,0 +1,58 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario:
+You work for a company that provides managed network services, and of your real estate clients running a small office is experiencing network issues,
+Troubleshoot the network issues.
+Router R1 connects the main office to internet, and routers R2 and R3 are internal routers NAT is enabled on Router R1.
+The routing protocol that is enable between routers R1, R2, and R3 is RIPv2.
+R1 sends default route into RIPv2 for internal routers to forward internet traffic to R1.
+Server1 and Server2 are placed in VLAN 100 and 200 respectively, and dare still running router on stick configuration with router R2.
+You have console access on R1, R2, R3, and L2SW1 devices.
+Use only show commands to troubleshoot the issues.
+Instructions -
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> This task does not require device configuration.
+-> Click the device icon to gain access to the console of the device. No console or enable passwords are required.
+-> To access the multiple-choice questions, click the numbered boxes on the left of the top panel.
+There are four multiple-choice questions with this task. Be sure to answer all four questions before clicking Next.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Server1 and Server2 are unable to communicate with the rest of the network.
+Your initial check with system administrators shows that IP address settings are correctly configured on the server side.
+What could be an issue?
+Choice index: A Choice content: The VLAN encapsulation is misconfigured on the router subinterfaces.
+Choice index: B Choice content: The Router is missing subinterface configuration.
+Choice index: C Choice content: The Trunk is not configured on the L2SW1 switch.
+Choice index: D Choice content: The IP address is misconfigured on the primary router interface.

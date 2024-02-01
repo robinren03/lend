@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+What is the result of the configuration?
+Choice index: A Choice content: The EtherChannels would not form because the load-balancing method must match on the devices.
+Choice index: B Choice content: The EtherChannels would form and function properly even though the load-balancing and EtherChannel modes do not match.
+Choice index: C Choice content: The EtherChannels would form, but network loops would occur because the load-balancing methods do not match.
+Choice index: D Choice content: The EtherChannels would form and both devices would use the dst-ip load-balancing method because Switch1 is configured with EtherChannel mode active.

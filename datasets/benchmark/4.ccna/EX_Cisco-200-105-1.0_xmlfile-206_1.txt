@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+This item contains several questions that you must answer. You can view these questions by clicking on the corresponding button to the left. Changing questions can be accomplished by clicking the numbers to the left of each question. In order to complete the questions, you will need to refer to the topology.
+To gain access to the topology, click on the topology button at the bottom of the screen. When you have finished viewing the topology, you can return to your questions by clicking on the Questions button to the left.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Scenario -
+Refer to the topology. Using the information shown, answer the four questions shown on the Questions tab.
+(The given image is here)
+R1 is configured with the default configuration of OSPF.
+From the following list of IP addresses configured on R1, which address will the OSPF process select as the router ID?
+Choice index: A Choice content: 192.168.0.1
+Choice index: B Choice content: 172.16.1.1
+Choice index: C Choice content: 172.16.2.1
+Choice index: D Choice content: 172.16.2.225

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+The configuration of R1 to R6 are posted below for your reference, useless lines are omitted:
+(The given image is here)
+What type of route filtering is occurring on R6?
+Choice index: A Choice content: Distribute-list using an ACL
+Choice index: B Choice content: Distribute-list using a prefix-list
+Choice index: C Choice content: Distribute-list using a route-map
+Choice index: D Choice content: An ACL using a distance of 255

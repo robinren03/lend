@@ -1,0 +1,56 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+You work for a company that provides managed network services, and of your real estate clients running a small office is experiencing network issues,
+Troubleshoot the network issues.
+Router R1 connects the main office to internet, and routers R2 and R3 are internal routers NAT is enabled on Router R1.
+The routing protocol that is enable between routers R1, R2, and R3 is RIPv2.
+R1 sends default route into RIPv2 for internal routers to forward internet traffic to R1.
+Server1 and Server2 are placed in VLAN 100 and 200 respectively, and dare still running router on stick configuration with router R2.
+You have console access on R1, R2, R3, and L2SW1 devices.
+Use only show commands to troubleshoot the issues.
+Instructions -
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> This task does not require device configuration.
+-> Click the device icon to gain access to the console of the device. No console or enable passwords are required.
+-> To access the multiple-choice questions, click the numbered boxes on the left of the top panel.
+There are four multiple-choice questions with this task. Be sure to answer all four questions before clicking Next.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Examine R2 configuration, the traffic that is destined to R3 LAN network sourced from Router R2 is forwarded to R1 instead R3. What could be an issue?
+(The given image is here)
+Choice index: A Choice content: RIPv2 enabled on R3, but R3 LAN network that is not advertised into RIPv2 domain.
+Choice index: B Choice content: RIPv2 routing updates are suppressed between R2 and R3 using passive interface feature.
+Choice index: C Choice content: RIPv2 not enabled on R3.
+Choice index: D Choice content: No issue that is identified; this behavior is normal since default route propagated into RIPv2 domain by Router R1.

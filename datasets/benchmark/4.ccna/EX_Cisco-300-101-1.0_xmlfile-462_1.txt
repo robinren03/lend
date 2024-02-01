@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. All interfaces on each router are participating in the EIGRP 100 process. Interface Loopback 2 on NQ-R2 is currently in shutdown mode. An engineer issues the eigrp stub command on router BR1. Which statement about the query messages sent from router HQ-R2 for a route to reach the
+12.12.12.12/32 network is true?
+Choice index: A Choice content: Router HQ-R1 receives query messages from HQ-R2 for a route to 12.12.12.12/32 network.
+Choice index: B Choice content: Router HQ-R1 and BR1 receives query massages from HQ-R2 for a route 12.12.12.12/32 network.
+Choice index: C Choice content: Router HQ-R2 sends a query message to the feasible successor for a route to 12.12.12.12/32 network
+Choice index: D Choice content: BR1 receives query messages from HQ-R2 for route to 12.12.12.12/32 network

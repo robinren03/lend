@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The following commands are executed on interface fa0/1 of 2950 Switch.
+2950Switch(config-if)# switchport port-security
+2950Switch(config-if)# switchport port-security mac-address sticky
+2950Switch(config-if)# switchport port-security maximum 1
+The Ethernet frame that is shown arrives on interface fa0/1.
+What two functions will occur when this frame is received by 2950Switch? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The MAC address table will now have an additional entry of fa0/1 FFFF.FFFF.FFFF.
+Choice index: B Choice content: Only host A will be allowed to transmit frames onfa0/1.
+Choice index: C Choice content: This frame will be discarded when it is received by 2950Switch.
+Choice index: D Choice content: All frames arriving on 2950Switch with a destination of 0000.00aa.aaaa will be forwarded out fa0/1.
+Choice index: E Choice content: Hosts B and C may forward frames out fa0/1 but frames arriving from other switches will not be forwarded out fa0/1.
+Choice index: F Choice content: Only frames from source 0000.00bb.bbbb, the first learned MAC address of 2950Switch, will be forwarded out fa0/1.

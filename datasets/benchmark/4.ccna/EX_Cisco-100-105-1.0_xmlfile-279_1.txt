@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What value should be displayed in Box 1 of the ipconfig output of host A?
+(The given image is here)
+Choice index: A Choice content: 172.18.14.5
+Choice index: B Choice content: 172.18.14.6
+Choice index: C Choice content: 192.168.1.10
+Choice index: D Choice content: 192.168.1.11
+Choice index: E Choice content: 192.168.1.250
+Choice index: F Choice content: 192.168.1.254

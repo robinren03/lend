@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A company has a following network infrastructure. Refer to the exhibit:
+(The given image is here)
+To enable inter-VLAN routing on the distribution layer switch, which of the following commands should be used?
+Choice index: A Choice content: dlswitch# switchport mode access
+Choice index: B Choice content: dlswitch (config) # switchport mode trunk
+Choice index: C Choice content: dlswitch(config-if) # switchport mode trunk
+Choice index: D Choice content: dlswitch(config-if) # switchport mode access

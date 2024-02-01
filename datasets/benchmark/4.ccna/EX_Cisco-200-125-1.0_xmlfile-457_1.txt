@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Router edge-1 is unable to establish OSPF neighbor adjacency with router ISP-1. Which two configuration changes can you make on edge-1 to allow the two routers to establish adjacency? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Set the subnet mask on edge-1 to 255 255.255.252.
+Choice index: B Choice content: Reduce the MTU on edge-1 to 1514.
+Choice index: C Choice content: Set the OSPF cost on edge-1 to 1522.
+Choice index: D Choice content: Reduce the MTU on edge-1 to 1500.
+Choice index: E Choice content: Configure the ip ospf mtu-ignore command on the edge-1 Gi0/0 interface

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A technician pastes the configurations in the exhibit into the two new routers shown. Otherwise, the routers are configured with their default configurations. A ping from Host1 to Host2 fails, but the technician is able to ping the S0/0 interface of R2 from Host1.
+The configurations of the hosts have been verified as correct. What is the cause of the problem?
+(The given image is here)
+Choice index: A Choice content: The serial cable on R1 needs to be replaced.
+Choice index: B Choice content: The interfaces on R2 are not configured properly.
+Choice index: C Choice content: R1 has no route to the 192.168.1.128 network.
+Choice index: D Choice content: The IP addressing scheme has overlapping subnetworks.
+Choice index: E Choice content: The ip subnet-zero command must be configured on both routers.

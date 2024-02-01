@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. If the given network is in the process of being migrated from EIGRP to OSPF, includes external routes, and all routers are currently running both protocols, what action must you perform to complete the migration?
+Choice index: A Choice content: Change the IEGRP Administrative Distance to match the OSPF Administrative Distance, wait until all routers are present, and then change EIGRP Administrative Distance back to the default value.
+Choice index: B Choice content: Change the OSPF Administrative Distance to 91, wait until all routers are present, and then change it back the default value.
+Choice index: C Choice content: Change the OSPF Administrative Distance to 172, wait until all routers are present, and then change it back to the default value.
+Choice index: D Choice content: Change the EIGRP Administrative Distance to 111, wait until all routers are presents, and then change it back to the default value.

@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+ROUTE.com is a small IT corporation that has an existing enterprise network that is running Ipv6 0SPFv3. Currently OSPF is configured on all routers. However,
+R4"™s loopback address (FEC0:4:4) cannot be seen in R1"™s Ipv6 routing table. You are tasked with identifying the cause of this fault and implementing the needed corrective actions that uses OPSF features and does not change the current area assignments. You will know that you have corrected the fault when R4"™s loopback address (FEC0:4:4) can be seen in RTs Ipv6 routing table.
+Special Note: To gain the maximum number of points you must remove all incorrect or unneeded configuration statements related to this issue.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)

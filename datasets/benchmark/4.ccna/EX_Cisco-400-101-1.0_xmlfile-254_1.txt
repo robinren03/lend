@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Which statement about the 10.10.38.0/22 route is true?
+Choice index: A Choice content: It arrives at router R4 with the tag 30
+Choice index: B Choice content: It arrives at router R4 without a tag
+Choice index: C Choice content: It arrives at router R4 with the tag 20
+Choice index: D Choice content: It arrives at router R4 with the tag 10

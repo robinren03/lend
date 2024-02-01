@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+Which statement describes DLCI 17?
+(The given image is here)
+Choice index: A Choice content: DLCI 17 describes the ISDN circuit between R2 and R3.
+Choice index: B Choice content: DLCI 17 describes a PVC on R2. It cannot be used on R3 or R1.
+Choice index: C Choice content: DLCI 17 is the Layer 2 address used by R2 to describe a PVC to R3.
+Choice index: D Choice content: DLCI 17 describes the dial-up circuit from R2 and R3 to the service provider.

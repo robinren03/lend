@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which two statements about the given MPLS VPN are true? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: It includes two CEs and two PEs.
+Choice index: B Choice content: It includes four P routers.
+Choice index: C Choice content: It includes four CE routers.
+Choice index: D Choice content: Router A and router 1 must be BGP neighbors.
+Choice index: E Choice content: Only one connection is outside the ISP network.

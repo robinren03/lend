@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What kind of cable should be used to make each connection that is identified by the numbers shown?
+(The given image is here)
+Choice index: A Choice content: 1 - Ethernet Crossover cable 2 - Ethernet straight-through cable 3 - Fiber Optic cable 4 - Rollover cable
+Choice index: B Choice content: 1 - Ethernet straight-through cable 2 - Ethernet straight-through cable 3 - Serial cable 4 - Rollover cable
+Choice index: C Choice content: 1 - Ethernet rollover cable 2 - Ethernet crossover cable 3 - Serial cable 4 - Null-modem cable
+Choice index: D Choice content: 1 - Ethernet straight-through cable 2 - Ethernet Crossover cable 3 - Serial cable 4 - Rollover cable
+Choice index: E Choice content: 1 - Ethernet straight-through cable 2 - Ethernet Crossover cable 3 - Serial cable 4 - Ethernet Straight-through cable

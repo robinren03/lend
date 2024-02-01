@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The 6to4 overlay tunnel configuration has been applied on each router to join isolated IPv6 networks over a IPv4 network.
+Which statements regarding the 6to4 overlay tunnel is true?
+Choice index: A Choice content: The least significant 32 bits in the address referenced by the ipv6 route 2002::/16 Tunnel0 command will correspond to the interface E0/0 IPv4 address
+Choice index: B Choice content: The least significant 32 bits in the address referenced by the ipv6 route 2002::/16 Tunnel0 command will correspond to the IPv4 address assigned to the tunnel source
+Choice index: C Choice content: The configuration is invalid since the tunnel source command must be configured with an IPv6 address
+Choice index: D Choice content: This is actually a configuration example of an IPv4-compatible tunnel and not a 6to4 tunnel
+Choice index: E Choice content: This is actually a configuration example of an ISATAP overlay tunnel and not a 6to4 tunnel

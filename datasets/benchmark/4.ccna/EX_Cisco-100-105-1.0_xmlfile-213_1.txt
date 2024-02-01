@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A host is connected to switch port fa0/3. The host and switch have been fully configured for IP connectivity as shown. However, the indicator
+LED on switch port fa0/3 is not on, and the host cannot communicate with any other hosts including those connected to VLAN 2 on the same switch. Based on the given information, what is the problem?
+(The given image is here)
+Choice index: A Choice content: switch port fa0/3 is not configured as a trunk port
+Choice index: B Choice content: there is a bad cable
+Choice index: C Choice content: the switch has been assigned an incorrect subnet mask
+Choice index: D Choice content: switch port fa0/3 has been blocked by STP
+Choice index: E Choice content: the switch and the host must be in the same subnet

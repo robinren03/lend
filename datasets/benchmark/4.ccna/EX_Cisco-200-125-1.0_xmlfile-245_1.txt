@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Which statement about DTP is true?
+Choice index: A Choice content: It uses the native VLAN.
+Choice index: B Choice content: It negotiates a trunk link after VTP has been configured.
+Choice index: C Choice content: It uses desirable mode by default.
+Choice index: D Choice content: It sends data on VLAN 1.

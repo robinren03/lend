@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibits labeled A through E. All devices are to be connected over Ethernet. Which three device-to-device configurations are likely to require the use of a crossover connection? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: exhibit A
+Choice index: B Choice content: exhibit B
+Choice index: C Choice content: exhibit C
+Choice index: D Choice content: exhibit D
+Choice index: E Choice content: exhibit E

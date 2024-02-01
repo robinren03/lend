@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. A new subnet with 60 hosts has been added to the network. Which subnet address should this network use to provide enough usable addresses while wasting the fewest addresses?
+Choice index: A Choice content: 192.168.1.64/27
+Choice index: B Choice content: 192.168.1.56/26
+Choice index: C Choice content: 192.168.1.64/26
+Choice index: D Choice content: 192.168.1.56/27

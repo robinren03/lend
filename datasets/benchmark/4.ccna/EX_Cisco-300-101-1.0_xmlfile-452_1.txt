@@ -1,0 +1,19 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Policy Based Routing Sim -
+(The given image is here)
+Company A can has two links which can take it to the Internet. The company policy demands that you use web traffic to be forwarded only to Frame Relay link if available and other traffic can go through any links. No static or default routing is allowed.
+1) Access list that catches the HTTP traffic:
+BorderRouter(config)#access-list 101 permit tcp any any eq www
+2) Route map that sets the next hop address to be ISP1 and permits the rest of the traffic:
+BorderRouter(config)#route-map pbr permit 10
+BorderRouter(config-route-map)#match ip address 101
+BorderRouter(config-route-map)#set ip next-hop 10.1.101.1
+BorderRouter(config-route-map)#exit
+3) Apply the route-map on the interface to the server in the EIGRP Network:
+BorderRouter(config-route-map)#exit
+BorderRouter(config)#int fa0/0 -
+BorderRouter(config-if)#ip policy route-map pbr
+BorderRouter(config-if)#exit -
+BorderRouter(config)#exit -
+BorderRouter#show route-map -

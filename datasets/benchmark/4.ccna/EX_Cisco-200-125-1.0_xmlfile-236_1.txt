@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. How many broadcast domains exist in the exhibited topology?
+(The given image is here)
+Choice index: A Choice content: one
+Choice index: B Choice content: two
+Choice index: C Choice content: three
+Choice index: D Choice content: four
+Choice index: E Choice content: five
+Choice index: F Choice content: six

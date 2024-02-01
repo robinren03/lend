@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> Enter IOS commands on the Dubai router to verify network operation and answer for multiple-choice questions. THIS TASK DOES NOT REQUIRE DEVICE
+CONFIGURATION.
+-> Click on the Console PC to gain access to the console of the router. No console or enable passwords are required.
+-> To access the multiple-choice questions, click of the numbered boxes on the left of the top panel.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+What would be the destination Layer 2 address in the frame header for a frame that is being forwarded by Dubai to the host address of 172.30.4.4?
+Choice index: A Choice content: 825
+Choice index: B Choice content: 230
+Choice index: C Choice content: 694
+Choice index: D Choice content: 387

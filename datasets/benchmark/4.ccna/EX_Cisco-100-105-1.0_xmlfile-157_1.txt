@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The ports that are shown are the only active ports on the switch. The MAC address table is shown in its entirety. The Ethernet frame that is shown arrives at the switch. What two operations will the switch perform when it receives this frame? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The MAC address of 0000.00aa.aaaa will be added to the MAC address table.
+Choice index: B Choice content: The MAC address of 0000.00dd.dddd will be added to the MAC address table.
+Choice index: C Choice content: The frame will be forwarded out port fa0/3 only.
+Choice index: D Choice content: The frame will be forwarded out fa0/1, fa0/2, and fa0/3.
+Choice index: E Choice content: The frame will be forwarded out all the active ports.

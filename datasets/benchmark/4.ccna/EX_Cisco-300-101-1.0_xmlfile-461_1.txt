@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. After you apply this configuration to router R1, it fails to establish an eBGP neighbor relationship with R2. Which action do you take to correct the problem?
+Choice index: A Choice content: Configure the update-source for 10.1.1.2.
+Choice index: B Choice content: replace the maximum-paths command at the end of the configuration with maximum-paths ibgp 4 import 2.
+Choice index: C Choice content: Change the ebgp-multihop value to 1.
+Choice index: D Choice content: Add the no synchronization statement at the end of the configuration.

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+HostX is transferring a file to the FTP server. Point A represents the frame as it goes toward the Toronto router. What will the Layer 2 destination address be at this point?
+Choice index: A Choice content: abcd.1123.0045
+Choice index: B Choice content: 192.168.7.17
+Choice index: C Choice content: aabb.5555.2222
+Choice index: D Choice content: 192.168.1.1
+Choice index: E Choice content: abcd.2246.0035

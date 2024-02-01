@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. If the devices produced the given output, what is the cause of the EtherChannel problem?
+Choice index: A Choice content: There is an encapsulation mismatch between SW1"™s Fa0/1 and  SW2"™s Fa0/1 interfaces.
+Choice index: B Choice content: There is a speed mismatch between SW1"™s Fa0/1 and SW2"™s Fa0/1 interfaces.
+Choice index: C Choice content: There is an MTU mismatch between SW1"™s Fa0/1 and SW2"™s Fa0/1 interfaces.
+Choice index: D Choice content: SW1"™s Fa0/1 interface is administratively shut down.

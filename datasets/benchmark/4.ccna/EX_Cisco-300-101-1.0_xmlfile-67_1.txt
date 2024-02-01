@@ -1,0 +1,22 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+You have been asked to evaluate an OSPF network setup in a test lab and to answer questions a customer has about its operation. The customer has disabled your access to the show running-config command.
+Instructions -
+- Enter IOS commands on the device to verify network operation and answer for multiple-choice questions.
+- THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+- Click on the icon or the lab at the bottom of the screen to gain access to the console for each device.
+- No console or enable passwords are required.
+- To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+- There are four multiple-choice questions with this task. Be sure to answer all four questions before selecting the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+How old is the Type 4 LSA from Router 3 for area 1 on the router R5, based on the output you have examined?
+Choice index: A Choice content: 1858
+Choice index: B Choice content: 1601
+Choice index: C Choice content: 600
+Choice index: D Choice content: 1569

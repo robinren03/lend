@@ -1,0 +1,27 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Instructions -
+To configure a switch click on the console host icon in the topology.
+You can click on the buttons below to view the different windows.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Most commands that use the "Control" or "Escape" keys are not supported and are not necessary to complete this simulation. The help command does not display all commands of the help system.
+Console access is available to switches SW1, SW2 and SW3.
+The console password configured all switches is cisco.
+(Console cable connected between PC1 and SW1, PC2 and SW2 and PC3 and SW3.)
+Devices configurations are saved automatically and saving configurations is not required.
+Scenario:
+You work as Junior Network Engineer for RADO Network Ltd company. Your colleague has set up a Layer 2 network for testing purpose in one of your client locations.
+You must verify the configuration and fix if any issues identified as per customer requirements.
+Topology Details -
+-> Three switches (SW1, SW2, and SW3) are connected using Ethernet link as shown in the topology diagram.
+-> Server1 and PC1 are connected to SW1 and are assigned to VLAN 500 and VLAN 600 respectively.
+-> Server2 and PC2 are connected to SW2 and are assigned to VLAN 500 and VLAN 600 respectively.
+-> PC3 is connected to SW3 and assigned to VLAN 600.
+Customer requirements -
+-> Verify if switch ports are assigned in correct VLANs as per topology diagram. Identify and fix any misconfigurations found in three switches.
+Verify if trunk links are operational between switches and the IEEE 802.1q trunk encapsulation method is used. Identify and fix if any misconfigurations are
+(The given image is here) found in the trunk configuration.
+-> You must make sure the ports connected between switches are set as trunk ports.
+Special Note: To gain the maximum number of points you must make sure that VLANs are assigned to switch ports as per customer requirements and make sure the trunk links are operational between switches. Do not change VLAN names and VLAN number that are already configured in the switches.
+(The given image is here)
+(The given image is here)

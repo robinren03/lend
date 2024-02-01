@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network administrator normally establishes a Telnet session with the switch from host A. However, host A is unavailable. The administrator's attempt to telnet to the switch from host B fails, but pings to the other two hosts are successful. What is the issue?
+(The given image is here)
+Choice index: A Choice content: Host B and the switch need to be in the same subnet.
+Choice index: B Choice content: The switch interface connected to the router is down.
+Choice index: C Choice content: Host B needs to be assigned an IP address in VLAN 1.
+Choice index: D Choice content: The switch needs an appropriate default gateway assigned.
+Choice index: E Choice content: The switch interfaces need the appropriate IP addresses assigned.

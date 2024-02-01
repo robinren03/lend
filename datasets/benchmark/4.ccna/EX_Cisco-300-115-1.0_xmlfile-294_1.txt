@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+ABC, Inc. is a medium sized company, with an enterprise network (access, distribution and core switches) that provides LAN connectivity from user PCs to corporate servers. The distribution switches are configured to use HSRP to provide a high availability solution.
+-> DSW1 - primary device for VLAN 101 VLAN 102 and VLAN 105
+-> D""W2 - primary device for VLAN 103 and VLAN 104
+-> A failure""of GigabitEthemet1/0/1 on primary device should cause the primary device to release its status as the primary device, unless GigabitEthernet1/0/1 on backup device has also failed.
+Troubleshooting has identified several issues. Currently all interfaces are up. Using the running configurations and show commands, you have been asked to investigate and respond to the following question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+If GigabitEthemet1/0/1 on DSW2 is shutdown, what will be the resulting priority value of the VLAN 105 HSRP group on router DSW2?
+Choice index: A Choice content: 90
+Choice index: B Choice content: 100
+Choice index: C Choice content: 150
+Choice index: D Choice content: 200

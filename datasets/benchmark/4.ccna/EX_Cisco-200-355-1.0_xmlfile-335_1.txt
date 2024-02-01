@@ -1,0 +1,20 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There is two multiple-choice question with this task. Be sure to answer the question before selecting the Next button
+Scenario:
+A wireless LAN controller and AP are correctly configured. Verification is needed for the logging attributes while AP power adjustments are needed. Use the exhibits to resolve these issues.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+What APTx Power Level Assignment would be required to increase power by 3 dBm on 2.4GHz radio?
+Choice index: A Choice content: 1
+Choice index: B Choice content: 2
+Choice index: C Choice content: 3
+Choice index: D Choice content: 4
+Choice index: E Choice content: 5
+Choice index: F Choice content: 6
+Choice index: G Choice content: 7
+Choice index: H Choice content: 8

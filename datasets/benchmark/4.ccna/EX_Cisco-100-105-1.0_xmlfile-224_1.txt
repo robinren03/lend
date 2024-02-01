@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. When running OSPF, what would cause router A not to form an adjacency with router B?
+(The given image is here)
+Choice index: A Choice content: The loopback addresses are on different subnets.
+Choice index: B Choice content: The values of the dead timers on the routers are different.
+Choice index: C Choice content: Route summarization is enabled on both routers.
+Choice index: D Choice content: The process identifier on router A is different than the process identifier on router B.

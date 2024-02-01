@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+The configuration of R1 to R6 are posted below for your reference, useless lines are omitted:
+(The given image is here)
+Traffic from R1 to R61 s Loopback address is load shared between R1-R2-R4-R6 and R1- R3-R5-R6 paths. What is the ratio of traffic over each path?
+Choice index: A Choice content: 1:1
+Choice index: B Choice content: 1:5
+Choice index: C Choice content: 6:8
+Choice index: D Choice content: 19:80

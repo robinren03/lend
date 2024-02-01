@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A router has been configured to provide the nine users on the branch office LAN with Internet access, as shown in the diagram. It is found that some of the users on the LAN cannot reach the Internet.
+Based on the topology and router output shown, which command should be issued on the router to correct the problem?
+(The given image is here)
+Choice index: A Choice content: Branch(config-if)# no shutdown
+Choice index: B Choice content: Branch(config-if)# duplex full
+Choice index: C Choice content: Branch(config-if)# no keepalive
+Choice index: D Choice content: Branch(config-if)# ip address 192.168.10.30 255.255.255.240
+Choice index: E Choice content: Branch(config-if)# bandwidth 100
+Choice index: F Choice content: Branch(config-if)# encapsulation 802.3

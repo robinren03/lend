@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which two statements are true about interVLAN routing in the topology that is shown in the exhibit? (Choose two.)
+Choice index: A Choice content: Router1 and Switch2 should be connected via a crossover cable.
+Choice index: B Choice content: The FastEthernet0/0 interface on Router1 must be configured with subinterfaces.
+Choice index: C Choice content: Router1 needs more LAN interfaces to accommodate the VLANs that are shown in the exhibit.
+Choice index: D Choice content: Host E and host F use the same IP gateway address. play a role in communications between host A and host D.
+Choice index: F Choice content: The FastEthernet0/0 interface on Router1 and the FastEthernet0/1 interface on Switch2 trunk ports must be configured using the same encapsulation type.

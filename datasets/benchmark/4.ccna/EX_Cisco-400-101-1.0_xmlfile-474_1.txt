@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. You have noticed that when the link between R2 and R3 goes down, traffic to route 192.168.1.0/24 continues to exit R1 through interface
+F0/0. If all routers on the given network are running EIGRP, what is the most likely reason for the problem?
+(The given image is here)
+Choice index: A Choice content: R2 is failing to properly advertise 192.168.10.0/24 because it is configured as a hub router instead of a sub router
+Choice index: B Choice content: R2 is still advertising the summary route because one child route exists
+Choice index: C Choice content: The R3 metric for 192.168.10.0/24 is too high to be the preferred path
+Choice index: D Choice content: R3 waits until the R2 hold time expires before advertising its path

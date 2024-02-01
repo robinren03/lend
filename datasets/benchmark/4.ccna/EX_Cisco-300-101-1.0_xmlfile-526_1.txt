@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Will redistributed RIP routes from OSPF Area 2 be allowed in Area 1?
+(The given image is here)
+Choice index: A Choice content: Because Area 1 is an NSSA, redistributed RIP routes will not be allowed.
+Choice index: B Choice content: Redistributed RIP routes will be allowed in Area 1 because they will be changed into type 5 LSAs in Area 0 and passed on into Area 1.
+Choice index: C Choice content: Because NSSA will discard type 7 LSAs, redistributed RIP routes will not be allowed in Area 1.
+Choice index: D Choice content: Redistributed RIP routes will be allowed in Area 1 because they will be changed into type 7 LSAs in Area 0 and passed on into Area 1.
+Choice index: E Choice content: RIP routes will be allowed in Area 1 only if they are first redistributed into EIGRP.

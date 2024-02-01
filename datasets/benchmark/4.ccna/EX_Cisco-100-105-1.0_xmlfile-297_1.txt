@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+OSPF is configured using default classful addressing. With all routers and interfaces operational, how many networks will be in the routing table of R1 that are indicated to be learned by OSPF?
+(The given image is here)
+Choice index: A Choice content: 2
+Choice index: B Choice content: 3
+Choice index: C Choice content: 4
+Choice index: D Choice content: 5
+Choice index: E Choice content: 6
+Choice index: F Choice content: 7

@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which switch provides the spanning-tree designated port role for the network segment that services the printers?
+(The given image is here)
+Choice index: A Choice content: Switch1
+Choice index: B Choice content: Switch2
+Choice index: C Choice content: Switch3
+Choice index: D Choice content: Switch4

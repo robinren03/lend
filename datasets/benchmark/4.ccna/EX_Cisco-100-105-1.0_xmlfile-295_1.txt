@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+After the network has converged, what type of messaging, if any, occurs between R3 and R4?
+(The given image is here)
+Choice index: A Choice content: No messages are exchanged
+Choice index: B Choice content: Hellos are sent every 10 seconds.
+Choice index: C Choice content: The full database from each router is sent every 30 seconds.
+Choice index: D Choice content: The routing table from each router is sent every 60 seconds.

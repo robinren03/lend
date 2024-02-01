@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. After configuring GRE between two routers running EIGRP that are connected to each other via a WAN link, a network engineer notices that the two routers cannot establish the GRE tunnel to begin the exchange of routing updates. What is the reason for this?
+(The given image is here)
+Choice index: A Choice content: Either a firewall between the two routers or an ACL on the router is blocking IP protocol number 47.
+Choice index: B Choice content: Either a firewall between the two routers or an ACL on the router is blocking UDP 57.
+Choice index: C Choice content: Either a firewall between the two routers or an ACL on the router is blocking TCP 47.
+Choice index: D Choice content: Either a firewall between the two routers or an ACL on the router is blocking IP protocol number 57.

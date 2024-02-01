@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which one statement is true?
+Choice index: A Choice content: Traffic from the 172.16.0.0/16 network will be blocked by the ACL.
+Choice index: B Choice content: The 10.0.0.0/8 network will not be advertised by Router B because the network statement for the 10.0.0.0/8 network is missing from Router B.
+Choice index: C Choice content: The 10.0.0.0/8 network will not be in the routing table on Router B.
+Choice index: D Choice content: Users on the 10.0.0.0/8 network can successfully ping users on the 192.168.5.0/24 network, but users on the 192.168.5.0/24 cannot successfully ping users on the 10.0.0.0/8 network.
+Choice index: E Choice content: Router B will not advertise the 10.0.0.0/8 network because it is blocked by the ACL.

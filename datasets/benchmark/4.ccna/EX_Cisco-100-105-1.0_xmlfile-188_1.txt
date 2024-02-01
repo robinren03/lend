@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network device needs to be installed in the place of the icon labeled Network Device to accommodate a leased line attachment to the Internet. Which network device and interface configuration meets the minimum requirements for this installation?
+Choice index: A Choice content: a router with two Ethernet interfaces
+Choice index: B Choice content: a switch with two Ethernet interfaces
+Choice index: C Choice content: a router with one Ethernet and one serial interface
+Choice index: D Choice content: a switch with one Ethernet and one serial interface
+Choice index: E Choice content: a router with one Ethernet and one modem interface

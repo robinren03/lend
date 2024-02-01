@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which option prevents routing updates from being sent to the DHCP router, while still allowing routing update messages to flow to the Internet router and the distribution switches?
+(The given image is here)
+Choice index: A Choice content: CORE(config)# access-list "¦ deny CORE(config)# access-list "¦ permit CORE(config-router)# distribute-list .. out
+Choice index: B Choice content: CORE(config)# access-list "¦ deny CORE(config)# access-list "¦ permit CORE(config-if)# distribute-list .. out
+Choice index: C Choice content: DHCP(config)# access-list "¦ deny DHCP(config)# access-list "¦ permit CORE(config-router)# distribute-list .. out
+Choice index: D Choice content: CORE(config)# access-list "¦ deny CORE(config)# access-list "¦ permit DHCP(config-if)# distribute-list .. out

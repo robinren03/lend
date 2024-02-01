@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+What is the correct configuration to enable router P4 to exchange RIP routing updates with router P1 but not with router P3?
+Choice index: A Choice content: P4(Config)# interface fa0/0 P4(Config-if)# neighbor 192.168.10.3 P4(config-if)# passive-interface fa0/0
+Choice index: B Choice content: P4(config)# router rip P4(config-router)# neighbor 192.168.10.3 P4(Config-router)# passive-interface fa0/0
+Choice index: C Choice content: P4(config)# interface fa0/0 P4(config-if)# neighbor 192.168.10.3 P4(config-if)# passive interface 192.168.10.34
+Choice index: D Choice content: P4(config)# router rip P4(config-router)# neighbor 192.168.10.34 no broadcast P4(config-router)# passive-interface fa0/0

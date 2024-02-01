@@ -1,0 +1,18 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Instructions:
+- Enter IOS commands on the device to verify network operation and answer the multiple questions.
+- THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+- Click the device icon to gain access to the console device. No console or enable passwords are required.
+- To access the multiple choice questions, click the numbered boxes on the left of the top panel.
+- there are four multiple-choice questions with this task. Be sure to answer all four questions before clicking Next.
+Users in the main office complain that they are unable to reach Internet sites. You observe that Internet traffic that is destined towards ISP router is not forwarded correctly on R1. What could be an issue?
+Ping to Internet server shows the following results from R1:
+R1#ping 209.165.200.225 -
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 209.165.200.225, timeout is 2 seconds.
+Success rate is 0 percent (0/5)
+Choice index: A Choice content: The next-hop router address for the default route is incorrectly configured.
+Choice index: B Choice content: The default route that is to the ISP router is configured with an AD of 255.
+Choice index: C Choice content: The default route that is to the ISP router is not configured on R1.
+Choice index: D Choice content: R1 is configured as the DHCP client and is not receiving the default route via DHCP from the ISP router.

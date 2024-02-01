@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+OSPF Sim -
+(The given image is here)
+OSPF is configured on routers Amani and Lynaic. Amani"™s S0/0 interface and Lynaic"˜s S0/1 interface are in Area 0. Lynaic"˜s Loopback0 interface is in Area 2.
+Your task is to configure the following:
+Portland"™s S0/0 interface in Area 1 Amani"™s S0/1 interface in Area 1 Use the appropriate mask such that ONLY Portland"™s S0/0 and Amnani"™s S0/1 could be in
+Area 1. Area 1 should not receive any external or inter-area routes (except the default route).

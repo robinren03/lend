@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What two results would occur if the hub were to be replaced with a switch that is configured with one Ethernet VLAN? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The number of collision domains would decrease.
+Choice index: B Choice content: The number of collision domains would increase.
+Choice index: C Choice content: The number of broadcast domains would remain the same.
+Choice index: D Choice content: The number of collision domains would remain the same.
+Choice index: E Choice content: The number of broadcast domains would increase.

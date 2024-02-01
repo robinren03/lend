@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Assume that all router interfaces are operational and correctly configured. In addition, assume that OSPF has been correctly configured on router R2. How will the default route configured on R1 affect the operation of R2?
+(The given image is here)
+Choice index: A Choice content: Any packet destined for a network that is not directly connected to router R2 will be dropped immediately.
+Choice index: B Choice content: Any packet destined for a network that is not referenced in the routing table of router R2 will be directed to R1. R1 will then send that packet back to R2 and a routing loop will occur.
+Choice index: C Choice content: Any packet destined for a network that is not directly connected to router R1 will be dropped.
+Choice index: D Choice content: The networks directly connected to router R2 will not be able to communicate with the 172.16.100.0, 172.16.100.128, and 172.16.100.64 subnetworks.
+Choice index: E Choice content: Any packet destined for a network that is not directly connected to router R2 will be dropped immediately because of the lack of a gateway on R1.

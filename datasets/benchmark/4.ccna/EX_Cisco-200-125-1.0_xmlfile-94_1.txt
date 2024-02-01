@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which three statements correctly describe Network Device A? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: With a network wide mask of 255.255.255.128, each interface does not require an IP address.
+Choice index: B Choice content: With a network wide mask of 255.255.255.128, each interface does require an IP address on a unique IP subnet.
+Choice index: C Choice content: With a network wide mask of 255.255.255.0, must be a Layer 2 device for the PCs to communicate with each other.
+Choice index: D Choice content: With a network wide mask of 255.255.255.0, must be a Layer 3 device for the PCs to communicate with each other.
+Choice index: E Choice content: With a network wide mask of 255.255.254.0, each interface does not require an IP address.

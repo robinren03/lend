@@ -1,0 +1,12 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which option represents the minimal configuration that allows inbound traffic from the 172.16.1.0/24 network to successfully enter router R, while also limiting spoofed 10.0.0.0/8 hosts that could enter router R?
+A.
+(The given image is here)
+B.
+(The given image is here)
+C.
+(The given image is here)
+D.
+(The given image is here)

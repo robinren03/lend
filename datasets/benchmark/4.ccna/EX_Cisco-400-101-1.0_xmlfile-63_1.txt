@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. You have configured a VRF named Blue on R1 as shown. Which action must you take to enable uRPF on the R1 interface E1/0?
+Choice index: A Choice content: Configure the ip verify vrf Blue unicast source reachable-via rx allow-default command on interface E1/0.
+Choice index: B Choice content: Configure the ip verify unicast source reachable-via rx allow-default command under the VRF Blue process.
+Choice index: C Choice content: Configure the ip verify vrf Blue unicast source reachable-via rx allow-default command on interface E0/1.
+Choice index: D Choice content: Configure the ip verify unicast source reachable-via rx allow-default command on interface E1/0.
+Choice index: E Choice content: Configure the ip verify vrf Blue unicast source reachable-via rx allow-default command under the VRF Blue process.

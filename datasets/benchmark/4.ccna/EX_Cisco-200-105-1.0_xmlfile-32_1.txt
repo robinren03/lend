@@ -1,0 +1,25 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+Refer to the topology. Your company has connected the routers R1, R2, and R3 with serial links. R2 and R3 are connected to the switches SW1 and SW2, respectively. SW1 and SW2 are also connected to the routers R4 and R5.
+The EIGRP routing protocol is configured.
+You are required to troubleshoot and resolve the EIGRP issues between the various routers. Use the appropriate show commands to troubleshoot the issues.
+Instructions -
+Enter the IOS commands on the device to verify the network operations and to find the answers for the multiple-choice questions.
+THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+Click the device to gain access to the console of the device. No console or enable passwords are required.
+To access the multiple-choice questions, click the numbered boxes on the left of the top panel.
+There are four multiple-choice questions with this task. Be sure to answer all four questions before clicking the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Which path does traffic take from R1 to R5?
+Choice index: A Choice content: The traffic goes through R2.
+Choice index: B Choice content: The traffic goes through R3.
+Choice index: C Choice content: The traffic is equally load-balanced over R2 and R3
+Choice index: D Choice content: The traffic is unequally load-balanced over R2 and R3.

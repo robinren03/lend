@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Which of the following describes the roles of devices in a WAN? (Choose three.)
+Choice index: A Choice content: A CSU/DSU terminates a digital local loop.
+Choice index: B Choice content: A modem terminates a digital local loop.
+Choice index: C Choice content: A CSU/DSU terminates an analog local loop.
+Choice index: D Choice content: A modem terminates an analog local loop.
+Choice index: E Choice content: A router is commonly considered a DTE device.
+Choice index: F Choice content: A router is commonly considered a DCE device.

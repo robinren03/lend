@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+All interfaces on each router are participating in the EIGRP 100 process.
+An engineer issues the eigrp stub command on router BR1.
+What will the show ip route be on HQ-R1 look like?
+Choice index: A Choice content: HQ-R1 will install only route 12.12.12.12/32 network in its routing table
+Choice index: B Choice content: HQ-R1 will install routes 12.12.12.12/32 network and 192.168.10.0/24 in its routing table
+Choice index: C Choice content: HQ-R1 will install only route 192.168.10.0/24  network in its routing table
+Choice index: D Choice content: All routes will be installed in its routing table on HQ-R1

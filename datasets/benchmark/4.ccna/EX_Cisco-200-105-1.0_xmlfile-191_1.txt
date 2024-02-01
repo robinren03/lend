@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The ABC Company has the internetwork in the exhibit. The administrator would like to reduce the size of the routing table on the Central router. Which partial routing table entry in the Central router represents a route summary that represents the LANs in Phoenix but no additional subnets?
+(The given image is here)
+Choice index: A Choice content: 10.0.0.0/22 is subnetted, 1 subnets D 10.0.0.0 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1
+Choice index: B Choice content: 10.0.0.0/28 is subnetted, 1 subnets D 10.2.0.0 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1
+Choice index: C Choice content: 10.0.0.0/30 is subnetted, 1 subnets D 10.2.2.0 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1
+Choice index: D Choice content: 10.0.0.0/22 is subnetted, 1 subnets D 10.4.0.0 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1
+Choice index: E Choice content: 10.0.0.0/28 is subnetted, 1 subnets D 10.4.4.0 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1
+Choice index: F Choice content: 10.0.0.0/30 is subnetted, 1 subnets D 10.4.4.4 [90/20514560] via 10.2.0.2, 6w0d, Serial0/1

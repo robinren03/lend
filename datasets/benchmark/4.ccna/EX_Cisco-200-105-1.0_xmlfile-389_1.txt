@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which two statements are true about the loopback address that is configured on RouterB? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: It ensures that data will be forwarded by RouterB.
+Choice index: B Choice content: It provides stability for the OSPF process on RouterB.
+Choice index: C Choice content: It specifies that the router ID for RouterB should be 10.0.0.1.
+Choice index: D Choice content: It decreases the metric for routes that are advertised from RouterB.
+Choice index: E Choice content: It indicates that RouterB should be elected the DR for the LAN.

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The switches on a campus network have been interconnected as shown. All of the switches are running Spanning Tree Protocol with its default settings. Unusual traffic patterns are observed and it is discovered that Switch9 is the root bridge. Which change will ensure that Switch1 will be selected as the root bridge instead of Switch9?
+(The given image is here)
+Choice index: A Choice content: Raise the bridge priority on Switch1.
+Choice index: B Choice content: Lower the bridge priority on Switch9.
+Choice index: C Choice content: Raise the bridge priority on Switch9.
+Choice index: D Choice content: Physically replace Switch9 with Switch1 in the topology.
+Choice index: E Choice content: Disable spanning tree on Switch9.
+Choice index: F Choice content: Lower the bridge priority on Switch1.

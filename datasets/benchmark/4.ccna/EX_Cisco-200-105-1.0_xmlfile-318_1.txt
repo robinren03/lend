@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The user at Workstation B reports that Server A cannot be reached.
+What is preventing Workstation B from reaching Server A?
+(The given image is here)
+Choice index: A Choice content: The IP address for Server A is a broadcast address.
+Choice index: B Choice content: The IP address for Workstation B is a subnet address.
+Choice index: C Choice content: The gateway for Workstation B is not on the same subnet.
+Choice index: D Choice content: The gateway for Server A is not on the same subnet.

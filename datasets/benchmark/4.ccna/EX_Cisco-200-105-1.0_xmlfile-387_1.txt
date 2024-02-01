@@ -1,0 +1,12 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network associate is configuring OSPF on the Core router. All the connections to the branches should be participating in OSPF. The link to the ISP should NOT participate in OSPF and should only be advertised as the default route.
+What set of commands will properly configure the Core router?
+(The given image is here)
+A.
+(The given image is here)
+B.
+(The given image is here)
+C.
+(The given image is here)
+D.
+(The given image is here)

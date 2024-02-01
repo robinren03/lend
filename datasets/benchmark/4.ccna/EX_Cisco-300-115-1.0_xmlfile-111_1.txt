@@ -1,0 +1,23 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+-> Click on SW1, SW2, New_Switch or SW4 to gain access to the consoles of these devices. No console or enable passwords are required.
+To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+(The given image is here)
+-> There are four multiple-choice questions with this task. Be sure to answer all four questions before selecting the Next button
+Scenario -
+You have been asked to install and configure a new switch in a customer network. Use the console access to the existing and new switches to configure and verify correct device configuration.
+Topology -
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+You are adding new VLANs. VLAN500 and VLAN600 to the topology in such way that you need to configure SW1 as primary root for VLAN 500 and secondary for
+VLAN 600 and SW2 as primary root for VLAN 600 and secondary for VLAN 500. Which configuration step is valid?
+Choice index: A Choice content: Configure VLAN 500 & VLAN 600 on both SW1 & SW2
+Choice index: B Choice content: Configure VLAN 500 and VLAN 600 on SW1 only
+Choice index: C Choice content: Configure VLAN 500 and VLAN 600 on SW2 only
+Choice index: D Choice content: Configure VLAN 500 and VLAN 600 on SW1, SW2 and SW4
+Choice index: E Choice content: On SW2; configure vtp mode as off and configure VLAN 500 and VLAN 600; configure back to vtp server mode.

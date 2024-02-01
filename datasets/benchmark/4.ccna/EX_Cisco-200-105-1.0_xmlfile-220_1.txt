@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> Enter IOS commands on the Dubai router to verify network operation and answer for multiple-choice questions. THIS TASK DOES NOT REQUIRE DEVICE
+CONFIGURATION.
+-> Click on the Console PC to gain access to the console of the router. No console or enable passwords are required.
+To access the multiple-choice questions, click of the numbered boxes on the left of the top panel.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Choice index: A Choice content: frame-relay map ip 172.30.0.3 825 broadcast
+Choice index: B Choice content: frame-relay map ip 172.30.0.3 230 broadcast
+Choice index: C Choice content: frame-relay map ip 172.30.0.3 694 broadcast
+Choice index: D Choice content: frame-relay map ip 172.30.0.3 387 broadcast

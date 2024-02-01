@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Based on the information given, which switch will be elected root bridge and why?
+(The given image is here)
+Choice index: A Choice content: Switch A, because it has the lowest MAC address
+Choice index: B Choice content: Switch A, because it is the most centrally located switch
+Choice index: C Choice content: Switch B, because it has the highest MAC address
+Choice index: D Choice content: Switch C, because it is the most centrally located switch
+Choice index: E Choice content: Switch C, because it has the lowest priority
+Choice index: F Choice content: Switch D, because it has the highest priority

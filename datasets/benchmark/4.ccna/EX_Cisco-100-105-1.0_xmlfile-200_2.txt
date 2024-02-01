@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A person is trying to send a file from a host on Network A of the JAX Company to a server on Network Z of the XYZ Company. The file transfer fails. The host on
+Network A can communicate with other hosts on Network A. Which command, issued from router RTA, would be the most useful for troubleshooting this problem?
+Choice index: A Choice content: show flash:
+Choice index: B Choice content: show history
+Choice index: C Choice content: show version
+Choice index: D Choice content: show interfaces
+Choice index: E Choice content: show controllers serial

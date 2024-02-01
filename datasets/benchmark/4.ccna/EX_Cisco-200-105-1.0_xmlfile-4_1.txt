@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Which statement about the IP SLAs ICMP Echo operation is true?
+Choice index: A Choice content: The frequency of the operation is specified in milliseconds.
+Choice index: B Choice content: It is used to identify the best source interface from which to send traffic to a destination.
+Choice index: C Choice content: It is configured in enable mode.
+Choice index: D Choice content: It is used to determine the one-way delay between devices.

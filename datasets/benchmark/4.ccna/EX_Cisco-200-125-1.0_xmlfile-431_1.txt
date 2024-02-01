@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The speed of all serial links is E1 and the speed of all Ethernet links is 100 Mb/s. A static route will be established on the Manchester router to direct traffic toward the Internet over the most direct path available. What configuration on the Manchester router will establish a route toward the Internet for traffic that originates from workstations on the Manchester LAN?
+(The given image is here)
+Choice index: A Choice content: ip route 0.0.0.0 255.255.255.0 172.16.100.2
+Choice index: B Choice content: ip route 0.0.0.0 0.0.0.0 128.107.1.1
+Choice index: C Choice content: ip route 0.0.0.0 255.255.255.252 128.107.1.1
+Choice index: D Choice content: ip route 0.0.0.0 0.0.0.0 172.16.100.1
+Choice index: E Choice content: ip route 0.0.0.0 0.0.0.0 172.16.100.2
+Choice index: F Choice content: ip route 0.0.0.0 255.255.255.255 172.16.100.2

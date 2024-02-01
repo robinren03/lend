@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which description of the effect of entering the switchport trunk allowed vlan 2,3,4 command on FastEthernet0/2 on SW02 is true?
+(The given image is here)
+Choice index: A Choice content: The two workstations continue to communicate without a default gateway configured.
+Choice index: B Choice content: The command is unsupported on a trunk where VLANs have already been pruned manually.
+Choice index: C Choice content: The running configuration displays switch port trunk allowed vlan 1-5 for Fa0/2.
+Choice index: D Choice content: The two workstations stop communicating because they are on VLAN 5, which is not allowed on the trunk.

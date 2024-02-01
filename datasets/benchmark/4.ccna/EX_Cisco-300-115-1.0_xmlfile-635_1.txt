@@ -1,0 +1,12 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Acme is a small export company that has an existing enterprise network comprised of 5 switches;
+- CORE, DSW1, DSW2, ASW1 and ASW2.
+The topology diagram indicates their desired pre-VLAN spanning tree mapping.
+Previous configuration attempts have resulted in the following issues: "" CORE should be the root bridge for VLAN 20; however, DSW1 is currently the root bridge for VLAN 20. "" Traffic for VLAN 30 should be forwarding over the gig 1/0/6 trunk port between DSW1 and DSW2. However, VLAN 30 is currently using gig 1/0/5. "" Traffic for VLAN 40 should be forwarding over the gig 1/0/5 trunk port between DSW1 and DSW2. However, VLAN 40 is currently using gig 1/0/6.
+You have been tasked with isolating the cause of these issuer and implementing the appropriate solutions.
+You task is complicated by the fact that you only have full access to DSW1, with isolating the cause of these issues and implementing the appropriate solutions.
+Your task is complicated by the fact that you only have full access to DSW1, with the enable secret password cisco. Only limited show command access is provided on CORE, and DSW2 using the enable 2 level with a password of acme.
+No configuration changes will be possible on these routers.
+No access is provided to ASW1 or ASW2.
+(The given image is here)

@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Two routers named Atlanta and Brevard are connected by their serial interfaces as shown in the exhibit, but there is no data connectivity between them. The
+Atlanta router is known to have a correct configuration.
+(The given image is here)
+Given the partial configurations shown in the exhibit, what is the problem on the Brevard router that is causing the lack of connectivity?
+Choice index: A Choice content: A loopback is not set.
+Choice index: B Choice content: The IP address is incorrect.
+Choice index: C Choice content: The subnet mask is incorrect.
+Choice index: D Choice content: The serial line encapsulations are incompatible.
+Choice index: E Choice content: The maximum transmission unit (MTU) size is too large.
+Choice index: F Choice content: The bandwidth setting is incompatible with the connected interface.

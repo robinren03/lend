@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A network technician enters the following lines into the router.
+(The given image is here)
+(The given image is here)
+What is the effect of this configuration?
+Choice index: A Choice content: The change has no effect on the packets being filtered.
+Choice index: B Choice content: All traffic from the 192.168.254.0 LAN to the Internet is permitted.
+Choice index: C Choice content: Web pages from the Internet cannot be accessed by hosts in the 192.168.254.0 LAN.
+Choice index: D Choice content: No hosts in the 192.168.254.0 LAN except 192.168.254.7 can telnet to hosts on the Internet.

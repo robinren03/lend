@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. For security reasons, information about RTA, including platform and IP addresses, should not be accessible from the Internet. This information should, however, be accessible to devices on the internal networks of RTA. Which command or series of commands will accomplish these objectives?
+(The given image is here)
+Choice index: A Choice content: RTA(config)#no cdp run
+Choice index: B Choice content: RTA(config)#no cdp enable
+Choice index: C Choice content: RTA(config)#interface s0/0 RTA(config-if)#no cdp run
+Choice index: D Choice content: RTA(config)#interface s0/0 RTA(config-if)#no cdp enable

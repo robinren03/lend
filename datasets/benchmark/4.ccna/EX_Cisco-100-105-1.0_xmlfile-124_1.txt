@@ -1,0 +1,15 @@
+The given information is enough for you to answer the question. No explanation needed.
+For both the Router and the Switch the simulated console mode needs to start and remain in enabled mode.
+RouterA and SwitchA have been configured to operate in a private network which will connect to the Internet. You have been asked to review the configuration prior to cabling and implementation.
+This task requires the use of various IOS commands to access and inspect the running configuration of RouterA and SwitchA. No configuration changes are necessary.
+You will connect to RouterA and SwilchA via the console devices that are attached to each.
+There are 4 multiple-choice questions with this task. Be sure to answer all of them before leaving this item. In order to score the maximum points you will need to have accessed both SwitchA and RouterA.
+NOTE: The configuration command has been disabled for both the router and switch in this simulation.
+(The given image is here)
+Which three options are security issues with the current configuration of SwitchA? (Choose three.) The given information is enough for you to answer the question. No explanation needed.
+A. privilege mode is protected with an unencrypted password
+B. nappropriate wording in banner message
+C. virtual terminal lines are protected only by a password requirement
+D. both username and password are weak
+E. telnet connections can be used to remotely manage the switch
+F. cisco user will be granted privilege level 15 by default

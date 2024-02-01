@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A policy needs to be implemented on Router B so that any traffic sourced from 172.16.10.0/24 will be forwarded to Router C.
+(The given image is here)
+Which configuration on Router B will achieve the desired effect?
+Choice index: A Choice content: access-list 1 permit 172.16.10.0 0.0.0.255 interface S0 ip policy route-map policy route-map policy permit 10 match ip address 1 set ip next-hop 172.16.12.3
+Choice index: B Choice content: access-list 1 permit 172.16.10.0 0.0.0.255 interface E0 ip policy route-map policy route-map policy permit 10 match ip address 1 set ip next-hop 172.16.12.2
+Choice index: C Choice content: access-list 1 permit 172.16.10.0 0.0.0.255 !interface E0 ip policy route-map policy route-map policy permit 10 match ip address 1 set ip next-hop 172.16.14.4
+Choice index: D Choice content: access-list 1 deny 172.16.10.0 0.0.0.255 interface S0 ip policy route-map policy route-map policy permit 10 match ip address 1 set ip next-hop 172.16.12.2

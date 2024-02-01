@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+All of the routers in the network are configured with the ip subnet-zero command. Which network addresses should be used for Link A and Network A? (Choose two.)
+Choice index: A Choice content: Link A "" 172.16.3.0/30
+Choice index: B Choice content: Link A "" 172.16.3.112/30
+Choice index: C Choice content: Network A "" 172.16.3.48/26
+Choice index: D Choice content: Network A "" 172.16.3.128/25
+Choice index: E Choice content: Link A "" 172.16.3.40/30
+Choice index: F Choice content: Network A "" 172.16.3.192/26

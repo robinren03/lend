@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A network engineer is setting up a new switched network. The network is expected to grow and add many new VLANs in the future. Which Spanning Tree
+Protocol should be used to reduce switch resources and managerial burdens that are associated with multiple spanning-tree instances?
+Choice index: A Choice content: RSTP
+Choice index: B Choice content: PVST
+Choice index: C Choice content: MST
+Choice index: D Choice content: PVST+
+Choice index: E Choice content: RPVST+

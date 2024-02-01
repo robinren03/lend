@@ -1,0 +1,24 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Route.com is a small IT corporation that is attempting to implement the network shown in the exhibit. Currently the implementation is partially completed. OSPF has been configured on routers
+Chicago and NewYork. The SO/O interface on Chicago and the SO/1 interface on NewYork are in
+Area 0. The loopbackO interface on NewYork is in Area 1. However, they cannot ping from the serial interface of the Seattle router to the loopback interface of the NewYork router. You have been asked to complete the implementation to allow this ping.
+ROUTE.com"™s corporate implementation guidelines require:
+"¢ The OSPF process ID for all routers must be 10.
+"¢ The routing protocol for each interface must be enabled under the routing process. "¢ The routing protocol must be enabled for each interface using the most specific wildcard mask possible. "¢ The serial link between Seattle and Chicago must be in OSPF area 21. "¢ OSPF area 21 must not receive any inter-area or external routes.
+Network Information -
+Seattle -
+S0/0 192.168.16.5/30 "" Link between Seattle and Chicago
+Secret Password: cisco -
+Chicago -
+S0/0 192.168.54.9/30 "" Link between Chicago and New York
+S0/1 192.168.16.6/30 "" Link between Seattle and Chicago
+Secret Password: cisco -
+New York -
+S0/1 192.168.54.10/30 "" Link between Chicago and New York
+Loopback0 172.16.189.189 -
+Secret Password: cisco -
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)

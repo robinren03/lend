@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which statement is correct regarding the operation of NAT-PT between the IPv4 and IPv6 networks shown?
+Choice index: A Choice content: The router will determine the IPv4 destination address.
+Choice index: B Choice content: The source IPv6 host can use DNS to determine the IPv6-to-IPv4 address mapping.
+Choice index: C Choice content: The host is statically configured with the IPv6-to-IPv4 address mapping.
+Choice index: D Choice content: ICMP can be used to determine the IPv6-to-IPv4 address mapping.

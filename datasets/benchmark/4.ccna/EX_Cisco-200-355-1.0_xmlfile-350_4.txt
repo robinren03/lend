@@ -1,0 +1,22 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There is two multiple-choice question with this task. Be sure to answer the question before selecting the Next button
+Scenario:
+You are deploying a small wireless test network in a lab. The network is made up of a wireless LAN controller, a dual radio AP, and an iOS switch. You are testing the ability of wireless clients to access the network and are experiencing problems. Use the exhibits to resolve the issue.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Old 2.4-GHz wireless laptops are unable to connect. What is the most likely cause of this problem?
+Choice index: A Choice content: WLAN > General properties are incorrectly configured.
+Choice index: B Choice content: WLAN > QoS properties are incorrectly configured.
+Choice index: C Choice content: WLAN > Security properties are incorrectly configured.
+Choice index: D Choice content: WLAN > Advanced properties are incorrectly configured.
+Choice index: E Choice content: Wireless > AP > 802.11 b/g/n AP is incorrectly configured.
+Choice index: F Choice content: Wireless > AP > 802.11 b/g/n > Network is incorrectly configured.

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Switch 15 is configured as the root switch for VLAN 10 but not for VLAN 20. If the STP configuration is correct, what will be true about Switch
+15?
+(The given image is here)
+Choice index: A Choice content: All ports will be in forwarding mode.
+Choice index: B Choice content: All ports in VLAN 10 will be in forwarding mode.
+Choice index: C Choice content: All ports in VLAN 10 will be in forwarding mode and all ports in VLAN 20 will be in blocking mode.
+Choice index: D Choice content: All ports in VLAN 10 will be in forwarding mode and all ports in VLAN 20 will be in standby mode.

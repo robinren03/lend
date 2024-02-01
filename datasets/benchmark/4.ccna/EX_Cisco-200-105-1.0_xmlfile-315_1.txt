@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+Some 2950 series switches are connected to the conference area of the corporate headquarters network. The switches provide two to three jacks per conference room to host laptop connections for employees who visit the headquarters office. When large groups of employees come from other locations, the network administrator often finds that hubs have been connected to wall jacks in the conference area although the ports on the access layer switches were not intended to support multiple workstations.
+(The given image is here)
+What action could the network administrator take to prevent access by multiple laptops through a single switch port and still leave the switch functional for its intended use?
+Choice index: A Choice content: Configure static entries in the switch MAC address table to include the range of addresses used by visiting employees.
+Choice index: B Choice content: Configure an ACL to allow only a single MAC address to connect to the switch at one time.
+Choice index: C Choice content: Use the mac-address-table 1 global configuration command to limit each port to one source MAC address.
+Choice index: D Choice content: Implement Port Security on all interfaces and use the port-security maximum 1 command to limit port access to a single MAC address.
+Choice index: E Choice content: Implement Port Security on all interfaces and use the port-security mac-address sticky command to limit access to a single MAC address.
+Choice index: F Choice content: Implement Port Security at global configuration mode and use the port-security maximum 1 command to allow each switch only one attached hub.

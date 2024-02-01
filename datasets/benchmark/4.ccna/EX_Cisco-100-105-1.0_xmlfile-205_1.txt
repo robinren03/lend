@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The DHCP settings have recently been changed on the DHCP server and the client is no longer able to reach network resources. What should be done to correct this situation?
+Choice index: A Choice content: Verify that the DNS server address is correct in the DHCP pool.
+Choice index: B Choice content: Ping the default gateway to populate the ARP cache.
+Choice index: C Choice content: Use the tracert command on the DHCP client to first determine where the problem is located.
+Choice index: D Choice content: Clear all DHCP leases on the router to prevent address conflicts.
+Choice index: E Choice content: Issue the ipconfig command with the /release and /renew options in a command window.

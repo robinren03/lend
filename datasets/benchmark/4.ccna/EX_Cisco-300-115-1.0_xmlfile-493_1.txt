@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. BPDUGuard is enabled on both ports of SwitchA. Initially, LinkA is connected and forwarding traffic. A new LinkB is then attached between
+SwitchA and HubA.
+Which two statements about the possible result of attaching the second link are true? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The switch port attached to LinkB does not transition to up.
+Choice index: B Choice content: One or both of the two switch ports attached to the hub goes into the err-disabled state when a BPDU is received.
+Choice index: C Choice content: Both switch ports attached to the hub transitions to the blocking state.
+Choice index: D Choice content: A heavy traffic load could cause BPDU transmissions to be blocked and leave a switching loop.
+Choice index: E Choice content: The switch port attached to LinkA immediately transitions to the blocking state.

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A company has the following network infrastructure. (Refer to the exhibit.)
+(The given image is here)
+Router A is a GLBP active virtual gateway with priority level set to 250. Routers B and C are configured with the default GLPB configurations. The configuration of the active virtual gateway needs to be changed such that if the AVG fails, Router C should be elected to be used as an active virtual gateway. As the network administrator, you have been asked to make corresponding changes to the configuration.
+Which command would you use for this purpose on Router C, and where would the command be configured?
+Choice index: A Choice content: glbp 10 preempt (on Router B)
+Choice index: B Choice content: glbp 10 preempt (on Router C)
+Choice index: C Choice content: glbp 10 priority 200 (on Router B)
+Choice index: D Choice content: glbp 10 priority 200 (on Router C)

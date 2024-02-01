@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Pierre has just installed the mail server and Switch2. For security reasons UDP packets are not permitted outbound on the Fa0/1 router interface. Pierre is now at his workstation testing the new installation and is not able to establish SMTP communication to the mail server.
+(The given image is here)
+What is the most likely cause for lack of communication between Pierre's workstation and the mail server?
+Choice index: A Choice content: The crossover cable should be a straight-through cable.
+Choice index: B Choice content: UDP is blocked coming out of the Fa0/1 interface on the router.
+Choice index: C Choice content: The server should be directly connected to the router.
+Choice index: D Choice content: The IP addresses are all on the same network. No router is required.

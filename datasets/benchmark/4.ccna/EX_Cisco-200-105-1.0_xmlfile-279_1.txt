@@ -1,0 +1,15 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the graphic. A company wants to use NAT in the network shown. Which commands will apply the NAT configuration to the proper interfaces? (Choose two.)
+(The given image is here)
+A.
+(The given image is here)
+B.
+(The given image is here)
+C.
+(The given image is here)
+D.
+(The given image is here)
+E.
+(The given image is here)
+F.
+(The given image is here)

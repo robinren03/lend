@@ -1,0 +1,16 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+ABC, Inc. is a medium sized company, with an enterprise network (access, distribution and core switches) that provides LAN connectivity from user PCs to corporate servers. The distribution switches are configured to use HSRP to provide a high availability solution.
+-> DSW1 "" primary device for VLAN 101 VLAN 102 and VLAN 105
+-> DSW2 "" primary device for VLAN 103 and VLAN 104
+-> A failure of GigabitEthemet1/0/1 on primary device should cause the primary device to release its status as the primary device, unless GigabitEthernet1/0/1 on backup device has also failed.
+Troubleshooting has identified several issues. Currently all interfaces are up. Using the running configurations and show commands, you have been asked to investigate and respond to the following question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+During routine maintenance, it became necessary to shut down the GigabitEthernet1/0/1 interface on DSW1. All other interfaces were up. During this time, DSW1 remained the active device for the VLAN 102 HSRP group. You have determined that there is an issue with the decrement value in the track command for the
+VLAN 102 HSRP group. What needs to be done to make the group function properly?
+Choice index: A Choice content: The decrement value on DSW1 should be greaterthan 5 and less than 15. 0
+Choice index: B Choice content: The decrement value on DSW1 should be greaterthan 9 and less than 15.
+Choice index: C Choice content: The decrement value on DSW1 should be greaterthan 11 and less than 19.
+Choice index: D Choice content: The decrement value on DSWTs should be greaterthan 190 and less than 200.
+Choice index: E Choice content: The decrement value on DSWTs should be greaterthan 195 and less than 205.

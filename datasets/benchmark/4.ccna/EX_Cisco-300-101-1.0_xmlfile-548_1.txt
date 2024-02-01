@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+If R1 is configured for 6to4 tunneling, what will the prefix of its IPv6 network be?
+Choice index: A Choice content: 1723:1100:1::/48
+Choice index: B Choice content: FFFF:AC1F:6401::/16
+Choice index: C Choice content: AC1F:6401::/32
+Choice index: D Choice content: 2002:AC1F:6401::/48
+Choice index: E Choice content: 3FFE:AC1F:6401::/32

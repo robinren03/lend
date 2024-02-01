@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network has been planned as shown. Which three statements accurately describe the areas and devices in the network plan? (Choose three.)
+Choice index: A Choice content: Area 2 contains a Layer 2 device.
+Choice index: B Choice content: Network Device B is a hub.
+Choice index: C Choice content: Network Device A is a hub.
+Choice index: D Choice content: Network Device A is a switch.
+Choice index: E Choice content: Area 1 contains a Layer 2 device.
+Choice index: F Choice content: Network Device B is a switch.

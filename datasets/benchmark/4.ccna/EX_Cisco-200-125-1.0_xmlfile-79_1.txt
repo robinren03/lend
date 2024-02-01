@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which address range efficiently summarizes the routing table of the addresses for router Main?
+(The given image is here)
+Choice index: A Choice content: 172.16.0.0./21
+Choice index: B Choice content: 172.16.0.0./20
+Choice index: C Choice content: 172.16.0.0./16
+Choice index: D Choice content: 172.16.0.0/18

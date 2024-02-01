@@ -1,0 +1,15 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+You have been tasked with configuring multilayer SwitchC, which has a partial configuration and has been attached to RouterC as shown in the topology diagram.
+You need to configure SwitchC so that Hosts H1 and H2 can successfully ping the server S1. Also SwitchC needs to be able to ping server S1.
+Due to administrative restrictions and requirements you should not add/delete vlans or create trunk links. Company policies forbid the use of static or default routing. All routes must be learned via EIGRP 65010 routing protocol.
+You do not have access to RouteC. RouterC is correctly configured. No trunking has been configured on RouterC.
+Routed interfaces should use the lowest host on a subnet when possible. The following subnets are available to implement this solution: "" 10.10.10.0/24 "" 190.200.250.32/27 "" 190.200.250.64/27
+Hosts H1 and H2 are configured with the correct IP address and default gateway.
+SwitchC uses Cisco as the enable password.
+Routing must only be enabled for the specific subnets shown in the diagram.
+Note: Due to administrative restrictions and requirements you should not add or delete VLANs, changes VLAN port assignments or create trunks. Company policies forbid the use of static or default routing. All routes must be learned via the EIGRP routing protocol.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)

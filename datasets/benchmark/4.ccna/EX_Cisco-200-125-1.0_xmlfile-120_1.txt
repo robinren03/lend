@@ -1,0 +1,13 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+This item contains several questions that you must answer. You can view these questions by clicking on the corresponding button to the left. Changing questions can be accomplished by clicking the numbers to the left question. In order to complete the questions, you will need to refer to the topology.
+To gain access to the topology, click on the topology button of the screen. When you have finished viewing the topology, you can return to your questions by clicking on the Questions button to the left.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Scenario -
+Refer to the topology. The diagram represents a small network with a single connection to the Internet.
+(The given image is here)
+Users on the 192.168.1.0/24 network must access files located on the Server 1. What route could be configured on router R1 for file requests to reach the server?
+Choice index: A Choice content: ip route 0.0.0.0 0.0.0.0 s/0/0/0
+Choice index: B Choice content: ip route 0.0.0.0 0.0.0.0 209.265.200.226
+Choice index: C Choice content: ip route 209.165.200.0 255.255.255.0 192.168.1.250
+Choice index: D Choice content: ip route 192.168.1.0 255.255.255.0 209.165.100.250

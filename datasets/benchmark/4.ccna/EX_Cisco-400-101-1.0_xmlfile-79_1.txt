@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Each router is PIM RP in its own domain and all routers are MSDP peers. When the multicast source in PIM Domain A begins sending traffic, which three messages do the routers send? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: R2 sends an MSDP SA message
+Choice index: B Choice content: R1 sends a PIM (S,G) join message
+Choice index: C Choice content: R2 sends a PIM (*,G) join message
+Choice index: D Choice content: R2 sends a PIM (S,G) join message
+Choice index: E Choice content: R3 sends a PIM (S,G) join message
+Choice index: F Choice content: R1 sends an MSDP SA message

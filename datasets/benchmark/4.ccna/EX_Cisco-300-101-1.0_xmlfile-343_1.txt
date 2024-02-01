@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Which mode of uRPF causes a router interface to accept a packet, if the network to which the packet's source IP address belongs is found in the router's FIB?
+Choice index: A Choice content: Strict mode
+Choice index: B Choice content: Loose mode
+Choice index: C Choice content: Auto mode
+Choice index: D Choice content: Desirable mode

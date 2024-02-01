@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+This item contains several questions that you must answer. You can view these questions by clicking on the corresponding button to the left. Changing questions can be accomplished by clicking the numbers to the left question. In order to complete the questions, you will need to refer to the topology.
+To gain access to the topology, click on the topology button of the screen. When you have finished viewing the topology, you can return to your questions by clicking on the Questions button to the left.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Scenario -
+Refer to the topology. The diagram represents a small network with a single connection to the Internet.
+(The given image is here)
+If the router R1 has a packet with a destination address 192.168.1.255, what describes the operation of the network?
+Choice index: A Choice content: R1 will forward the packet out all interfaces.
+Choice index: B Choice content: R1 will drop this packet because this it is not a valid IP address.
+Choice index: C Choice content: As R1 forwards the frame containing this packet, Sw-A will add 192.168.1.255 to its MAC table.
+Choice index: D Choice content: R1 will encapsulate the packet in a frame with a destination MAC address of FF-FF-FF-FF-FF-FF.
+Choice index: E Choice content: As R1 forwards the frame containing this packet, Sw-A will forward it to the device assigned the IP address of 192.168.1.255.

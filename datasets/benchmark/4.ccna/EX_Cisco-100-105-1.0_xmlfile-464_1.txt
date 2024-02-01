@@ -1,0 +1,55 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+You work for a company that provides managed network services, and of your real estate clients running a small office is experiencing network issues,
+Troubleshoot the network issues.
+Router R1 connects the main office to internet, and routers R2 and R3 are internal routers NAT is enabled on Router R1.
+The routing protocol that is enable between routers R1, R2, and R3 is RIPv2.
+R1 sends default route into RIPv2 for internal routers to forward internet traffic to R1.
+Server1 and Server2 are placed in VLAN 100 and 200 respectively, and dare still running router on stick configuration with router R2.
+You have console access on R1, R2, R3, and L2SW1 devices.
+Use only show commands to troubleshoot the issues.
+Instructions -
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> This task does not require device configuration.
+-> Click the device icon to gain access to the console of the device. No console or enable passwords are required.
+-> To access the multiple-choice questions, click the numbered boxes on the left of the top panel.
+There are four multiple-choice questions with this task. Be sure to answer all four questions before clicking Next.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+What is the correct statement below after examining the R1 routing table?
+Choice index: A Choice content: Traffic that is destined to 10.10.10.0/24 from R1 LAN network uses static route instead RIPv2 because the static route AD that is configured is less than the AD of RIPv2
+Choice index: B Choice content: Traffic that is destined to 10.10.10.0/24 from R1 LAN network uses RIPv2 instead static route because the static route AD that is configured is higher than the AD of RIPv2
+Choice index: C Choice content: Traffic that is destined to 10.10.10.0/24 from R1 LAN network uses static route instead RIPv2 But the traffic is forwarded to the ISP instead of the internal network.
+Choice index: D Choice content: Traffic that is destined to 10.10.10.0/24 from R1 LAN network uses RIPv2 instead static route because the static route AD that is configured is 255

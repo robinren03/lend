@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which two problems can occur with this configuration? (Choose two.)
+Choice index: A Choice content: MPLS traffic from R1 to R5 takes a suboptimal path.
+Choice index: B Choice content: The MPLS path from R1 to R5 becomes unreachable.
+Choice index: C Choice content: The label for the R5 loopback address is filtering from other MPLS routers.
+Choice index: D Choice content: The label for the R1 loopback address is filtering from other MPLS routers.
+Choice index: E Choice content: R1 and R5 are unable to establish an LDP relationship.

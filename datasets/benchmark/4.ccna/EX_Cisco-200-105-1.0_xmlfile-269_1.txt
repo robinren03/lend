@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network shown in the exhibit has just been installed. Host B can access the Internet, but it is unable to ping host C.
+What is the problem with this configuration?
+(The given image is here)
+Choice index: A Choice content: Host B should be in VLAN 13.
+Choice index: B Choice content: The address of host C is incorrect.
+Choice index: C Choice content: The gateway for host B is in a different subnet than the host is on.
+Choice index: D Choice content: The switch port that sends VLAN 13 frames from the switch to the router is shut down.
+Choice index: E Choice content: The switch port connected to the router is incorrectly configured as an access port.

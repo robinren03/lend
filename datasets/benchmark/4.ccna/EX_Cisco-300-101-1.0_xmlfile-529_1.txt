@@ -1,0 +1,15 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Router RTA is configured as follows:
+RTA (config)# router rip -
+RTA(config-router)# network 10.0.0.0
+RTA(config-router)# distribute-list 44 in interface BRIO
+RTA(config-router)# exit -
+RTA(config)# access-list 44 deny 172.16.1.0 0.0.0.255
+RTA(config)# access-list 44 permit any
+(The given image is here)
+What are the effects of this RIP configuration on router RTA? (Choose two)
+Choice index: A Choice content: no routing updates will be sent from router RTA on interface BRIO to router RTX
+Choice index: B Choice content: router RTA will not advertise the 10.0.0.0 network to router RTX
+Choice index: C Choice content: the route to network 172.16.1.0 will not be entered into the routing table on router RTA
+Choice index: D Choice content: user traffic from the 172.16.1.0 network is denied by access-list 44
+Choice index: E Choice content: the routing table on router RTA will be updated with the route to router RTW

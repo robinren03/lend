@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Which statement about slow inter-VLAN forwarding is true?
+Choice index: A Choice content: The VLAN is experiencing slowness in the point-to-point collisionless connection.
+Choice index: B Choice content: The VLANs are experiencing slowness because multiple devices are connected to the same hub.
+Choice index: C Choice content: The local VLAN is working normally, but traffic to the alternate VLAN is forwarded slower than expected.
+Choice index: D Choice content: The entire VLAN is experiencing slowness.
+Choice index: E Choice content: The VLANs are experiencing slowness due to a duplex mismatch.

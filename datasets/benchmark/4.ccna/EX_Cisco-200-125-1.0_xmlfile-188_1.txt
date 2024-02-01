@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. At the end of an RSTP election process, which access layer switch port will assume the discarding role?
+(The given image is here)
+Choice index: A Choice content: Switch3, port fa0/1
+Choice index: B Choice content: Switch3, port fa0/12
+Choice index: C Choice content: Switch4, port fa0/11
+Choice index: D Choice content: Switch4, port fa0/2
+Choice index: E Choice content: Switch3, port Gi0/1
+Choice index: F Choice content: Switch3, port Gi0/2

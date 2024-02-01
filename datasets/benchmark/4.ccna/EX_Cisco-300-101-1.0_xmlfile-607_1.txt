@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Routers R2, R3, R4, and R5 have OSPF enabled.
+What should be configured on the routers in area 1 to ensure that all default summary routes and redistributed EIGRP routes will be forwarded from R6 to area 1, and only a default route for all other OSPF routes will be forwarded from R5 to area 1.
+Choice index: A Choice content: R5(config-router)# area 1 stub R6(config-router)# area 1 stub
+Choice index: B Choice content: R5(config-router)# area 1 stub no-summary R6(config-router)# area 1 stub
+Choice index: C Choice content: R5(config-router)# area 1 nssa R6(config-router)# area 1 nssa
+Choice index: D Choice content: R5(config-router)# area 1 nssa no-summary R6(config-router)# area 1 nssa

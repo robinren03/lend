@@ -1,0 +1,1 @@
+The labels under this benchmark is organized in YOLO format. Bounding boxes are given in xywh format.

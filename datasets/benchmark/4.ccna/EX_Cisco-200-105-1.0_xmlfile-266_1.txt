@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A junior network engineer has prepared the exhibited configuration file.
+What two statements are true of the planned configuration for interface fa0/1? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The two FastEthernet interfaces will require NAT configured on two outside serial interfaces.
+Choice index: B Choice content: Address translation on fa0/1 is not required for DMZ Devices to access the Internet.
+Choice index: C Choice content: The fa0/1 IP address overlaps with the space used by s0/0.
+Choice index: D Choice content: The fa0/1 IP address is invalid for the IP subnet on which it resides.
+Choice index: E Choice content: Internet hosts may not initiate connections to DMZ Devices through the configuration that is shown.

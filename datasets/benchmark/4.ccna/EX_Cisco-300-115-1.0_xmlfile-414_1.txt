@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which configuration ensures that the Cisco Discovery Protocol packet update frequency sent from DSW1 to ALS1 is half of the default value?
+Choice index: A Choice content: DSW1(config)#cdp timer 90
+Choice index: B Choice content: DSW1(config-if)#cdp holdtime 60
+Choice index: C Choice content: DSW1(config)#cdp timer 30
+Choice index: D Choice content: DSW1(config)#cdp holdtime 90
+Choice index: E Choice content: DSW1(config-if)#cdp holdtime 30
+Choice index: F Choice content: DSW1(config-if)#cdp timer 60

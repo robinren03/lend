@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. The Main1 and Branch1 switches are connected directly over an MPLS pseudowire, and both run UDLD. After router B1 reloads because of a power failure, the pseudowire is restored. However, the Branch1 switch is unable to reach the Main1 switch.
+Which two actions can you take to restore connectivity and prevent the problem from recurring? (Choose two.)
+Choice index: A Choice content: Issue the shutdown and no shutdown commands on the Branch1 switch uplink to the B1 router only.
+Choice index: B Choice content: Configure a backup GRE tunnel between the Main1 and Branch1switches.
+Choice index: C Choice content: Issue the shutdown and no shutdown commands on both the Branch1 switch uplink to the B1 router and the Main1 switch"™s uplink to the M1 router.
+Choice index: D Choice content: Configure a backup pseudowire between the Main1 and Branch1 switches.
+Choice index: E Choice content: Enable UDLD recovery on both the Main1 and Branch1 switches.
+Choice index: F Choice content: Enable errdisable recovery on both the Main1 and Branch1 switches.

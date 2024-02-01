@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to exhibit: Which destination addresses will be used by Host A to send data to Host C? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: the IP address of Switch 1
+Choice index: B Choice content: the MAC address of Switch 1
+Choice index: C Choice content: the IP address of Host C
+Choice index: D Choice content: the MAC address of Host C
+Choice index: E Choice content: the IP address of the router's E0 interface
+Choice index: F Choice content: the MAC address of the router's E0 interface

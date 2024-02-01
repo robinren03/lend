@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network engineer wants to analyze all incoming and outgoing packets for an interface that is connected to an access switch. Which three items must be configured to mirror traffic to a packet sniffer that is connected to the distribution switch? (Choose three.)
+Choice index: A Choice content: A monitor session on the distribution switch with a physical interface as the source and the remote SPAN VLAN as the destination
+Choice index: B Choice content: A remote SPAN VLAN on the distribution and access layer switch
+Choice index: C Choice content: A monitor session on the access switch with a physical interface source and the remote SPAN VLAN as the destination
+Choice index: D Choice content: A monitor session on the distribution switch with a remote SPAN VLAN as the source and physical interface as the destination
+Choice index: E Choice content: A monitor session on the access switch with a remote SPAN VLAN source and the physical interface as the destination
+Choice index: F Choice content: A monitor session on the distribution switch with a physical interface as the source and a physical interface as the destination

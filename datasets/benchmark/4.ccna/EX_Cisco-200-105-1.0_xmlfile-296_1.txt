@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The router has been configured with these commands:
+(The given image is here)
+What are the two results of this configuration? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The default route should have a next hop address of 64.100.0.3.
+Choice index: B Choice content: Hosts on the LAN that is connected to FastEthernet 0/1 are using public IP addressing.
+Choice index: C Choice content: The address of the subnet segment with the WWW server will support seven more servers.
+Choice index: D Choice content: The addressing scheme allows users on the Internet to access the WWW server.
+Choice index: E Choice content: Hosts on the LAN that is connected to FastEthernet 0/1 will not be able to access the Internet without address translation.

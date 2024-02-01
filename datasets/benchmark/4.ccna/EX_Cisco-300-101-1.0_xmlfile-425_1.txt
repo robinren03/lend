@@ -1,0 +1,113 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+FILL BLANK -
+Case study.
+(The given image is here)
+Some notices from above configuration:
++The OSPF network type berween R2&R3 is non broadcast.
+Q1: Show ip ospf database -
+Q2: Show ip ospf interface serial 1/0
+Q3: Show ip ospf -
+Q4: Show ip route -
+You have been asked to evaluate an OSPF network and to answer questions a customer has about its operation. Note: You are not allowed to use the show running-config command.
+(The given image is here)
+Although in this sim we are not allowed to use "show running-config" command but we post the configuration here so that you can understand more about the topology.
+R1 -
+interface Loopback0
+ip address 1.1.1.1 255.255.255.255
+no shut
+interface Serial0/0
+ip address 192.168.13.1 255.255.255.0
+ip ospf network non-broadcast
+no shut
+router ospf 1
+network 192.168.13.0 0.0.0.255 area 0
+network 1.1.1.1 0.0.0.0 area 0
+_______________________________________
+R2 -
+interface Loopback 0
+ip address 2.2.2.2 255.255.255.255
+no shut
+interface S0/0
+ip address 192.168.23.2 255.255.255.0
+ip ospf network non-broadcast
+no shut
+router ospf 1
+network 192.168.23.0 0.0.0.255 area 0
+network 2.2.2.2 0.0.0.0 area 0
+neighbor 192.168.23.3
+_________________________________________________
+R3 -
+interface Loopback 0
+ip address 3.3.3.3 255.255.255.255
+no shut
+interface fa0/0
+ip address 192.168.34.3 255.255.255.0
+no shut
+interface S0/1
+ip address 192.168.23.3 255.255.255.0
+ip ospf network non-broadcast
+no shut
+interface S0/0
+ip address 192.168.13.3 255.255.255.0
+ip ospf network non-broadcast
+no shut
+router ospf 1
+network 192.168.13.0 0.0.0.255 area 0
+network 192.168.23.0 0.0.0.255 area 0
+network 192.168.34.0 0.0.0.255 area 1
+network 3.3.3.3 0.0.0.0 area 0
+area 1 virtual-link 4.4.4.4
+neighbor 192.168.23.2
+_______________________________________________________________
+R4 -
+interface Loopback 0
+ip address 4.4.4.4 255.255.255.255
+interface FastEthernet0/0
+ip address 192.168.34.4 255.255.255.0
+interface Fa0/1
+ip address 192.168.45.4 255.255.255.0
+no shut
+interface Fa1/0
+ip address 192.168.46.4 255.255.255.0
+no shut
+router ospf 1
+network 192.168.34.0 0.0.0.255 area 1
+network 192.168.45.0 0.0.0.255 area 2
+network 192.168.46.0 0.0.0.255 area 3
+network 4.4.4.4 0.0.0.0 area 1
+area 1 virtual-link 3.3.3.3
+area 2 nssa
+area 3 stub no-summary
+_________________________________________________________________
+R5 -
+interface Loopback0
+ip address 5.5.5.5 255.255.255.255
+interface Loopback1
+ip address 5.5.1.1 255.255.255.255
+interface Loopback2
+ip address 5.5.2.1 255.255.255.255
+interface Loopback3
+ip address 5.5.3.1 255.255.255.255
+interface Loopback4
+ip address 5.5.4.1 255.255.255.255
+no shut
+interface Fa0/0
+ip address 192.168.45.5 255.255.255.0
+no shut
+router ospf 1
+network 192.168.45.0 0.0.0.255 area 2
+network 5.5.0.0 0.0.255.255 area 2
+area 2 nssa
+_______________________________________________
+R6 -
+interface Fa0/0
+ip address 192.168.46.6 255.255.255.0
+no shut
+interface Loopback 0
+ip address 6.6.6.6 255.255.255.255
+no shut
+router ospf 1
+network 192.168.46.0 0.0.0.255 area 3
+network 6.6.6.6 0.0.0.0 area 3
+area 3 stub
+How many times was SPF algorithm executed on R4 for Area 1?

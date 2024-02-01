@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Examine the network diagram and router output shown in the exhibit. Users on the BHM LAN are unable to access the server attached to the BHE router. What two things should be done to fix this problem? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Enter the configuration mode for interface fastethernet0/0.
+Choice index: B Choice content: Enter the configuration mode for interface serial0/0.
+Choice index: C Choice content: Enter the configuration mode for interface serial0/1.
+Choice index: D Choice content: Issue the run command.
+Choice index: E Choice content: Issue the enable command.
+Choice index: F Choice content: Issue the no shutdown command.

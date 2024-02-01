@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Your network uses an MPLS VPN backbone with OSPF between all PE and CE routers and on the 10Mb backup links between the CE routers. You notice that traffic from CE3 to CE2 and CE4 is flowing over the backup links instead of the higher-bandwidth MPLS VPN backbone even when the backbone is up. What change can you make to ensure that traffic uses the MPLS VPN backbone instead?
+Choice index: A Choice content: Configure internal BGP on PE2, PE3, and PE4.
+Choice index: B Choice content: Configure 1Gb sham links between PE3 and PE4 and between PC3 and PE2.
+Choice index: C Choice content: Configure 1Gb sham links between PE2 and PE4.
+Choice index: D Choice content: Configure a lower cost metric on the provider network"™s OSPF-to-BGP redistribution.

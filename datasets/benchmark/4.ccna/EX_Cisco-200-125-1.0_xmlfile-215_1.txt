@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The two exhibited devices are the only Cisco devices on the network. The serial network between the two devices has a mask of
+255.255.255.252. Given the output that is shown, what three statements are true of these devices? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: The Manchester serial address is 10.1.1.1.
+Choice index: B Choice content: The Manchester serial address is 10.1.1.2.
+Choice index: C Choice content: The London router is a Cisco 2610.
+Choice index: D Choice content: The Manchester router is a Cisco 2610.
+Choice index: E Choice content: The CDP information was received on port Serial0/0 of the Manchester router.
+Choice index: F Choice content: The CDP information was sent by port Serial0/0 of the London router.

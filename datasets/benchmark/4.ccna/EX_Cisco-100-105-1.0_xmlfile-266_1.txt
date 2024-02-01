@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the topology and partial configurations shown in the exhibit. The network administrator has finished configuring the NewYork and Sydney routers and issues the command ping Sydney from the NewYork router. The ping fails. What command or set of commands should the network administrator issue to correct this problem?
+(The given image is here)
+Choice index: A Choice content: Sydney(config)# interface s0/0 Sydney(config-if)# cdp enable
+Choice index: B Choice content: Sydney(config)# interface s0/0 Sydney(config-if)# no shut
+Choice index: C Choice content: Sydney(config)# line vty 0 4 Sydney(config)# login Sydney(config)# password Sydney
+Choice index: D Choice content: Sydney(config)# ip host Sydney 10.1.1.9
+Choice index: E Choice content: Sydney(config)# interface s0/0 Sydney(config-if)# ip address 10.1.1.5 255.255.255.252 NewYork(config)# ip host Sydney 10.1.1.5

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network administrator must establish a route by which London workstations can forward traffic to the Manchester workstations. What is the simplest way to accomplish this?
+(The given image is here)
+Choice index: A Choice content: Configure a dynamic routing protocol on London to advertise all routes to Manchester.
+Choice index: B Choice content: Configure a dynamic routing protocol on London to advertise summarized routes to Manchester.
+Choice index: C Choice content: Configure a dynamic routing protocol on Manchester to advertise a default route to the London router.
+Choice index: D Choice content: Configure a static default route on London with a next hop of 10.1.1.1.
+Choice index: E Choice content: Configure a static route on London to direct all traffic destined for 172.16.0.0/22 to 10.1.1.2.
+Choice index: F Choice content: Configure Manchester to advertise a static default route to London.

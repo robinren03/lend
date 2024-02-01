@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+You want to configure a switched internetwork with multiple VLANs as shown above. Which of the following commands should you issue on SwitchA for the port connected to SwitchB?
+(The given image is here)
+Choice index: A Choice content: switchport mode trunk
+Choice index: B Choice content: switchport access vlan 5
+Choice index: C Choice content: switchport mode access vlan 5
+Choice index: D Choice content: switchport trunk native vlan 5

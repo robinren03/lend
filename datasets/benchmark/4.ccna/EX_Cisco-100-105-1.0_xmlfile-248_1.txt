@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A company wants to use NAT in the network shown. Which commands will apply the NAT configuration to the proper interfaces? (Choose two.)
+Choice index: A Choice content: R1(config)# interface serial0/1 R1(config-if)# ip nat inside
+Choice index: B Choice content: R1(config)# interface serial0/1 R1(config-if)# ip nat outside
+Choice index: C Choice content: R1(config)# interface fastethernet0/0 R1(config-if)# ip nat inside
+Choice index: D Choice content: R1(config)# interface fastethernet0/0 R1(config-if)# ip nat outside
+Choice index: E Choice content: R1(config)# interface serial0/1 R1(config-if)# ip nat outside source pool 200.2.2.18 255.255.255.252
+Choice index: F Choice content: R1(config)# interface fastethernet0/0 R1(config-if)# ip nat inside source 10.10.0.0 255.255.255.0

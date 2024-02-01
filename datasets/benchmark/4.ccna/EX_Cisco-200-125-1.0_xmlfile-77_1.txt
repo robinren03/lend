@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A network administrator is adding two new hosts to Switch A . Which three values could be used for the configuration of these hosts? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: host A IP address: 192.168.1.79
+Choice index: B Choice content: host A IP address: 192.168.1.64
+Choice index: C Choice content: host A default gateway: 192.168.1.78
+Choice index: D Choice content: host B IP address: 192.168.1.128
+Choice index: E Choice content: host B default gateway: 192.168.1.129
+Choice index: F Choice content: host B IP address: 192.168.1.190

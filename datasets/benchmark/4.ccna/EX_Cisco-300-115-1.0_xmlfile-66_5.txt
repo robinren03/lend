@@ -1,0 +1,16 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Users of PC-1 experience slow connection when a webpage is requested from the server. To increase bandwidth, the network engineer configured an
+EtherChannel on interfaces Fa1/0 and Fa0/1 of the server farm switch, as shown here:
+Server_Switch#sh etherchannel load-balance
+EtherChannel Load-Balancing Operational State (src-mac):
+Non-IP: Source MAC address -
+IPv4: Source MAC address -
+IPv6: Source IP address -
+Server_Switch#
+HoweIer, traffic is still slow. Which action can the engineer take to resolve this issue?
+Choice index: A Choice content: Disable EtherChannel load balancing.
+Choice index: B Choice content: Upgrade the switch IOS to IP services image.
+Choice index: C Choice content: Change the load-balance method to dst-mac.
+Choice index: D Choice content: Contact Cisco TAC to report a bug on the switch.

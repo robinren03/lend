@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. The PC is experiencing intermittent connectivity failures to the Internet. If ADSL-R1 uses a PPPoE connection, what action can you take to correct the problem?
+Choice index: A Choice content: Configure OSPF on the connection between PC1 and HomeS1.
+Choice index: B Choice content: Configure the same OSPF process on HomeR1 and HomeS1.
+Choice index: C Choice content: Configure an MTU of 1492 on the dialer interface on ADSL-R1.
+Choice index: D Choice content: Replace the dialer interface with a virtual template.
+Choice index: E Choice content: Configure a system MTU of 1512 on ADSL-R1.

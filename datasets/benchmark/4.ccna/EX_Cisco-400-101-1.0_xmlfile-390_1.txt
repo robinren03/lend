@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+R1 is performing mutual redistribution, but OSPF routes from R3 are unable to reach R2. Which three options are possible reasons for this behavior? (Choose three.)
+Choice index: A Choice content: R1 and R3 have an MTU mismatch.
+Choice index: B Choice content: R1 is filtering OSPF routes when redistributing into RIP.
+Choice index: C Choice content: R1 requires a seed metric to redistribute RIP.
+Choice index: D Choice content: R3 and R1 have the same router ID.
+Choice index: E Choice content: R2 is configured to offset OSPF routes with a metric of 16.
+Choice index: F Choice content: The RIP version supports only classful subnet masks.

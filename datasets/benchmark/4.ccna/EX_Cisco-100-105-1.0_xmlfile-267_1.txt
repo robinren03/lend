@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Host B has just been added to the network and must acquire an IP address. Which two addresses are possible addresses that will allow host
+B to communicate with other devices in the network? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: 192.168.10.32
+Choice index: B Choice content: 192.168.10.38
+Choice index: C Choice content: 192.168.10.46
+Choice index: D Choice content: 192.168.10.47
+Choice index: E Choice content: 192.168.10.49
+Choice index: F Choice content: 192.168.10.51

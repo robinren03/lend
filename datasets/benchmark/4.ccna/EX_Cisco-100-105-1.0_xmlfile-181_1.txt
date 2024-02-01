@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+If host A sends an IP packet to host B, what will the source physical address be in the frame when it reaches host B?
+Choice index: A Choice content: 10.168.10.99
+Choice index: B Choice content: 10.168.11.88
+Choice index: C Choice content: A1:A1:A1:A1:A1:A1
+Choice index: D Choice content: B2:B2:B2:B2:B2:B2
+Choice index: E Choice content: C3:C3:C3:C3:C3:C3
+Choice index: F Choice content: D4:D4:D4:D4:D4:D4

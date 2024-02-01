@@ -1,0 +1,23 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+Refer to the topology. Your company has decided to connect the main office with three other remote branch offices using point-to-point serial links.
+You are required to troubleshoot and resolve OSPF neighbor adjacency issues between the main office and the routers located in the remote branch offices.
+Use appropriate show commands to troubleshoot the issues and answer all four questions.
+Instructions -
+-> Enter Cisco IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+-> Click on the device to gain access to the console of the device. No console or enable passwords are required.
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There are four multiple-choice questions with this task. Be sure to answer all four questions before clicking the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+R1 does not form an OSPF neighbor adjacency with R2. Which option would fix the issue?
+Choice index: A Choice content: R1 ethernet0/1 is shutdown. Configure the no shutdown command.
+Choice index: B Choice content: R1 ethernet0/l configured with a non-default OSPF hello interval of 25; configure no ip ospf hello-interval 25.
+Choice index: C Choice content: R2 ethernet0/1 and R3 ethernet0/0 are configured with a non-default OSPF hello interval of 25; configure no ip ospf hello-interval 25.
+Choice index: D Choice content: Enable OSPF for R1 ethernet0/l; configure ip ospf 1 area 0 command under ethernet0/1.

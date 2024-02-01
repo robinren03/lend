@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+How will the traffic reach the core switch from AS switch to DS core switch?
+(The given image is here)
+(Based on a topology shown with one core, two distribution and two access switches on each distribution switch, with redundant links and bandwidth mentioned.)
+Choice index: A Choice content: ASW1 to DWS1 to core
+Choice index: B Choice content: ASW1 to DWS2 to core
+Choice index: C Choice content: ASW1 to DSW1 to DSW2 to core
+Choice index: D Choice content: ASW1 to DSW2 to DSW1 to core

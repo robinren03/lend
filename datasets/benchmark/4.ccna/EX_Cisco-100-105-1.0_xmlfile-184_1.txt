@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The host in Kiev sends a request for an HTML document to the server in Minsk. What will be the source IP address of the packet as it leaves the Kiev router?
+Choice index: A Choice content: 10.1.0.1
+Choice index: B Choice content: 10.1.0.5
+Choice index: C Choice content: 10.1.0.6
+Choice index: D Choice content: 10.1.0.14
+Choice index: E Choice content: 10.1.1.16
+Choice index: F Choice content: 10.1.2.8

@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the graphic. Users on the Holyoke router are unable to access the intranet server attached to interface E0 of the Chicopee router. Inspection of the routing table of the Holyoke router shows that an entry for the Chicopee E0 network is missing.
+Which command will configure the Holyoke router with a path to the intranet server network?
+(The given image is here)
+Choice index: A Choice content: Holyoke(config)# ip host Chicopee 201.73.127.2
+Choice index: B Choice content: Holyoke(config)# ip host Chicopee 201.73.127.0 255.255.255.0
+Choice index: C Choice content: Holyoke(config)# ip network 202.18.38.0
+Choice index: D Choice content: Holyoke(config)# ip network 202.18.18.0 255.255.255.0
+Choice index: E Choice content: Holyoke(config)# ip route 202.18.18.0 255.255.255.0 201.73.127.2
+Choice index: F Choice content: Holyoke(config)# ip route 201.73.127.2 255.255.255.0 202.18.18.0

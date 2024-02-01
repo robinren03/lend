@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here) "" DSW1 (Distribution Switch 1) is the primary device for VLAN 101, 102, 105 "" DSW2 (Distribution Switch 2) is the primary device for VLAN 103 and 104 "" A failure on gig1/0/1 on primary device should cause the primary device to release its status as the primary device, unless GigabitEthernet 1/0/1 on backup device has also failed.
+During routine maintenance, G1/0/1 on DSW1 was shutdown. All other interfaces were up. DSW2 became the active HSRP device for Vlan101 as desired.
+However, after G1/0/1 on DSW1 was reactivated. DSW1 did not become the active HSRP device as desired.
+What need to be done to make the group for Vlan101 function properly?
+Choice index: A Choice content: Enable preempt in the VLAN 101 HSRP group on DSW1.
+Choice index: B Choice content: Disable preempt in the VLAN 101 HSRP group on DSW2's.
+Choice index: C Choice content: In the VLAN 101 HSRP group on DSW1, decrease the priority value to value that is less ' than the priority value configured in the VLAN 101 HSRP group on DSW2.
+Choice index: D Choice content: Decrease the decrement value in the track command for the VLAN 101 HSRP group on U DSWTs to a values less than the value in the track command for the VLAN 101 HSRP group on DSW2.

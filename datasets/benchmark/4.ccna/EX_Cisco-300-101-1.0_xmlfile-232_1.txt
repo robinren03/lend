@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Router DHCP is configured to lease IPv4 and IPv6 addresses to clients on ALS1 and ALS2. Clients on ALS2 receive IPv4 and IPv6 addresses. Clients on ALS1 receive IPv4 addresses. Which configuration on DSW1 allows clients on ALS1 to receive IPv6 addresses?
+Choice index: A Choice content: DSW1(config-if)# ipv6 dhcp relay destination2002:404:404::404:404 GigabitEthernet1/2
+Choice index: B Choice content: DSW1(config-if)# ipv6 helper address 2002:404:404::404:404
+Choice index: C Choice content: DSW1(config)# ipv6 route 2002:404:404::404:404/128 FastEthernet1/0
+Choice index: D Choice content: DSW1(dhcp-config)# default-router 2002:A04:A01::A04:A01

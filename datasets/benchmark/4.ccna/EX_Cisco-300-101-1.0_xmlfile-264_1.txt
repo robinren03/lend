@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. In the network diagram, Area 1 is defined as a stub area. Because redistribution is not allowed in the stub area, EIGRP routes cannot be propagated into the OSPF domain. How does defining area 1 as a not-so-stubby area (NSSA) make it possible to inject EIGRP routes into the OSPF NSSA domain?
+(The given image is here)
+Choice index: A Choice content: By creating type 5 LSAs
+Choice index: B Choice content: By creating type 7 LSAs
+Choice index: C Choice content: By creating a link between the EIGRP domain and the RIP domain, and redistributing EIGRP into RIP
+Choice index: D Choice content: By manually changing the routing metric of EIGRP so that it matches the routing metric of OSPF

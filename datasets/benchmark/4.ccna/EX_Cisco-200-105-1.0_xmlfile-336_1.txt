@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What statement is true of the configuration for this network?
+(The given image is here)
+Choice index: A Choice content: The configuration that is shown provides inadequate outside address space for translation of the number of inside addresses that are supported.
+Choice index: B Choice content: Because of the addressing on interface FastEthernet0/1, the Serial0/0 interface address will not support the NAT configuration as shown.
+Choice index: C Choice content: The number 1 referred to in the ip nat inside source command references access-list number 1.
+Choice index: D Choice content: ExternalRouter must be configured with static routes to networks 172.16.1.0/24 and 172.16.2.0/24.

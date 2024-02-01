@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The two connected ports on the switch are not turning orange or green. What would be the most effective steps to troubleshoot this physical layer problem? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: Ensure that the Ethernet encapsulations match on the interconnected router and switch ports.
+Choice index: B Choice content: Ensure that cables A and B are straight-through cables.
+Choice index: C Choice content: Ensure cable A is plugged into a trunk port.
+Choice index: D Choice content: Ensure the switch has power.
+Choice index: E Choice content: Reboot all of the devices.
+Choice index: F Choice content: Reseat all cables.

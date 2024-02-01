@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Each of these four switches has been configured with a hostname, as well as being configured to run RSTP. No other configuration changes have been made.
+Which three of these show the correct RSTP port roles for the indicated switches and interfaces? (Choose three.)
+Choice index: A Choice content: SwitchD. Gi0/2, root
+Choice index: B Choice content: SwitchA, Fa0/2, designated
+Choice index: C Choice content: SwitchB, Gi0/l, designated
+Choice index: D Choice content: SwitchA, Fa0/l, root
+Choice index: E Choice content: SwitchB, Gi0/2, root
+Choice index: F Choice content: SwitchC, Fa0/2, root

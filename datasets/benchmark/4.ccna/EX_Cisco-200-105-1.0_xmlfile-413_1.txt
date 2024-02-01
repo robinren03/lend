@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Assume that all of the router interfaces are operational and configured correctly.
+How will router R2 be affected by the configuration of R1 that is shown in the exhibit?
+(The given image is here)
+Choice index: A Choice content: Router R2 will not form a neighbor relationship with R1.
+Choice index: B Choice content: Router R2 will obtain a full routing table, including a default route, from R1.
+Choice index: C Choice content: R2 will obtain OSPF updates from R1, but will not obtain a default route from R1.
+Choice index: D Choice content: R2 will not have a route for the directly connected serial network, but all other directly connected networks will be present, as well as the two Ethernet networks connected to R1.

@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. R1 has an OSPF path to R2 and R3 for 10.1.0.0/24, but R1 has a routing entry for 10.1.0.0/24 from only one router at a time. Which option is the most likely cause?
+Choice index: A Choice content: The R1 maximum-path is set to 1.
+Choice index: B Choice content: R3 is using a filter list.
+Choice index: C Choice content: R2 is using an offset-list.
+Choice index: D Choice content: R3 has a higher administrative distance.

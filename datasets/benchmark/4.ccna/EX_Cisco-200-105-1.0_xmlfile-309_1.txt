@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A network administrator would like to implement NAT in the network shown in the graphic to allow inside hosts to use a private addressing scheme.
+Where should NAT be configured?
+(The given image is here)
+Choice index: A Choice content: Corporate router
+Choice index: B Choice content: Engineering router
+Choice index: C Choice content: Sales router
+Choice index: D Choice content: all routers
+Choice index: E Choice content: all routers and switches

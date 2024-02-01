@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The two routers have had their startup configurations cleared and have been restarted. At a minimum, which option below must the administrator do to enable
+CDP to exchange information between R1 and R2?
+Choice index: A Choice content: Configure the router with the cdp enable command.
+Choice index: B Choice content: Configure IP addressing and no shutdown commands on both the R1 and R2 fa0/1 interfaces.
+Choice index: C Choice content: Configure IP addressing and no shutdown commands on either of the R1 or R2 fa0/1 interfaces.
+Choice index: D Choice content: Enter no shutdown commands on the R1 and R2 fa0/1 interfaces.

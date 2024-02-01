@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. If the web server has been configured to listen only to TCP port 8080 for all HTTP requests, which command can you enter to allow Internet users to access the web server on HTTP port 80?
+Choice index: A Choice content: ip nat inside source static tcp 10.1.1.100 80 10.1.1.100 8080
+Choice index: B Choice content: ip nat outside source static tcp 10.1.1.100 80 10.1.1.100 8080
+Choice index: C Choice content: ip nat inside source static tcp 10.1.1.100 8080 10.1.1.100 80
+Choice index: D Choice content: ip nat outside source static tcp 10.1.1.100 8080 10.1.1.100 80

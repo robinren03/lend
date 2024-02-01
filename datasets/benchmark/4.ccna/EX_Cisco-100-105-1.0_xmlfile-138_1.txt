@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index, for example, 'A' or 'BCD'.
+Refer to the exhibit. The enterprise has decided to use the network address 172.16.0.0. The network administrator needs to design a classful addressing scheme to accommodate the three subnets. Which subnet mask would accommodate this network? Explain your choice.
+Choice index: A Choice content: 255.255.255.224
+Choice index: B Choice content: 255.255.255.240
+Choice index: C Choice content: 255.255.255.252
+Choice index: D Choice content: 255.255.255.248
+Choice index: E Choice content: 255.255.255.192

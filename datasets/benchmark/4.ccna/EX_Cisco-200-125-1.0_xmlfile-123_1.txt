@@ -1,0 +1,13 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+This item contains several questions that you must answer. You can view these questions by clicking on the corresponding button to the left. Changing questions can be accomplished by clicking the numbers to the left question. In order to complete the questions, you will need to refer to the topology.
+To gain access to the topology, click on the topology button of the screen. When you have finished viewing the topology, you can return to your questions by clicking on the Questions button to the left.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Scenario -
+Refer to the topology. The diagram represents a small network with a single connection to the Internet.
+(The given image is here)
+What must be configured on the network on order for users on the Internet to view web pages located on Web Server 2?
+Choice index: A Choice content: On Router R2, configure a default static route to the 192.168.1.0 network
+Choice index: B Choice content: On router R2, configure DNS to resolve the URL assigned to Web Server 2 to the 192.168.1.10 address.
+Choice index: C Choice content: On router R1, configure NAT to translate an address on the 209.165.100.0/24 network to 192.168.1.10.
+Choice index: D Choice content: On router R1, configure DHCP to assign a registered IP address on the 209.165.100.0/24 network to Web Server 2.

@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Assuming that all devices are running CDP in default configuration, which of them appear in the R1 show cdp neighbors table?
+(The given image is here)
+Choice index: A Choice content: Router 3 and Router 5 only
+Choice index: B Choice content: Router 2, Router 3, Router 5, and Switch A only
+Choice index: C Choice content: Router 2 and Switch A only
+Choice index: D Choice content: Router 2, Router 3, Router 4, and Router 5 only

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+An engineer is deploying lightweight access points for wireless services over a T1 connection. Which access point mode allows the traffic to be either switched at the AP port or tunneled back to the WLC?
+Choice index: A Choice content: SE-Connect
+Choice index: B Choice content: FlexConnect
+Choice index: C Choice content: local
+Choice index: D Choice content: monitor

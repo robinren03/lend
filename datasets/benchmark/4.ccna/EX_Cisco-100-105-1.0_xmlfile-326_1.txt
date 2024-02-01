@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the topology. Your company has decided to connect the main office with three other remote branch offices using point-to-point serial links. You are required to troubleshoot and resolve OSPF neighbor adjacency issues between the main office and the routers located in the remote branch offices.
+(The given image is here)
+R1 does not form an OSPF neighbor adjacency with R2. Which option would fix the issue?
+Choice index: A Choice content: R1 ethernetO/1 is shutdown. Configure no shutdown command.
+Choice index: B Choice content: R1 ethernetO/1 configured with a non-default OSPF hello interval of 25: configure no ip ospf hello-interval 25
+Choice index: C Choice content: R2 ethernetO/1 and R3 ethernetO/O are configured with a non-default OSPF hello interval of 25; configure no ip ospf hello-interval 25
+Choice index: D Choice content: Enable OSPF for R1 ethernetO/1; configure ip ospf 1 area 0 command under ethernetO/1

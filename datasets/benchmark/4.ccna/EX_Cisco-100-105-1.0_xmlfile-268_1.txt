@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. HostB is sending a file to HostA. B represents the frame as it leaves the Oshawa router. What is the Layer 2 destination address of the frame at this point?
+(The given image is here)
+Choice index: A Choice content: abcd.1123.0045
+Choice index: B Choice content: abcd.1234.5678
+Choice index: C Choice content: abcd.2246.0035
+Choice index: D Choice content: abcd.4444.0012
+Choice index: E Choice content: aabb.5555.2222

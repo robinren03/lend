@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+RTA is configured with a basic configuration. The link between the two routers is operational and no routing protocols are configured on either router. The line shown in the exhibit is then added to router RTA.
+Should interface Fa0/0 on router RTB shut down, what effect will the shutdown have on router RTA?
+Choice index: A Choice content: A route to 172.16.14.0/24 will remain in the RTA routing table.
+Choice index: B Choice content: Because router RTB will send a poison reverse packet to router RTA, RTA will remove the route.
+Choice index: C Choice content: Router RTA will send an ICMP packet to attempt to verify the route.
+Choice index: D Choice content: A packet to host 172.16.14.225 will be dropped by router RÐ¢Ð.

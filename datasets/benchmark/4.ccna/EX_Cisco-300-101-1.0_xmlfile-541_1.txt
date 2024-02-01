@@ -1,0 +1,12 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+R1 and R2 belong to the RIP routing domain that includes the networks 10.20.0.0/16 and 10.21.0.0/16.
+R3 and R4 are performing two-way route redistribution between OSPF and RIP.
+A network administrator has discovered that R2 is receiving OSPF routes for the networks 10.20.0.0/16 and 10.21.0.0/16 and a routing loop has occurred.
+Which action will correct this problem?
+Choice index: A Choice content: Apply an inbound ACL to the R2 serial interface.
+Choice index: B Choice content: Change the RIP administrative distance on R3 to 110.
+Choice index: C Choice content: Configure distribute-lists on R3 and R4.
+Choice index: D Choice content: Set the OSPF default metric to 20.
+Choice index: E Choice content: Change the OSPF administrative distance on R3 to 110.

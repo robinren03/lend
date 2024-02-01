@@ -1,0 +1,13 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+A network associate is configuring a router for the Weaver company to provide internet access. The ISP has provided the company six public IP addresses of
+198.18.184.105 - 198.18.184.110. The company has 14 hosts that need to access the internet simultaneously. The hosts in the company LAN have been assigned private space addresses in the range of 192.168.100.17 "" 192.168.100.30.
+(The given image is here)
+The following have already been configured on the router:
+-> The basic router configuration
+-> The appropriate interfaces have been configured for NAT inside and NAT outside
+-> The appropriate static routes have also been configured (since the company will be a stub network, no routing protocol will be required.)
+-> All passwords have been temporarily set to "cisco"
+The task is to complete the NAT configuration using all IP addresses assigned by the ISP to provide internet access for the hosts in the weaver LAN. Functionality can be tested by clicking on the host provided for testing.
+Configuration information:
+(The given image is here)

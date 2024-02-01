@@ -1,0 +1,6 @@
+Refer to the exhibit. Which two statements are correct? (Choose two. Explain your choice.)
+Choice index: A Choice content: This is a default route.
+Choice index: B Choice content: Adding the subnet mask is optional for the ip route command.
+Choice index: C Choice content: This will allow any host on the 172.16.1.0 network to reach all known destinations beyond RouterA.
+Choice index: D Choice content: This command is incorrect, it needs to specify the interface, such as s0/0/0 rather than an IP address.
+Choice index: E Choice content: The same command needs to be entered on RouterA so that hosts on the 172.16.1.0 network can reach network 10.0.0.0.

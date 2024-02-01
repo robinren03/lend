@@ -1,0 +1,27 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+You are implementing EIGRP between the main office and branch offices. In Phase 1, you must implement and verify EIGRP configurations as mentioned in the topology. In Phase 2, your colleague is expected to do NAT and ISP configurations.
+Identity the issues that you are encountering during Phase 1 EIGRP implementation.
+-> Router R1 connects the main office to the Internet and routers R2 and R3 are internal routers.
+-> Routers Branch1 and Branch2 connect to router R2 in the main office.
+-> Users from the Branch1 LAN network 10.20.40.0/24 are expected to perform testing of the application that is hosted on the servers in Server farm1, before servers are available for production.
+-> The GRE tunnel is configured between R3 and Branch1, and traffic between server farm 1 and Branch1 LAN network 10.20.40.0/24 is routed through the GRE tunnel using static routes.
+-> The link between Branch1 and Branch1 is used as a secondary path in the event of failure of the primary path to main office.
+You have console access on R1, R2, R3, Branch1, and Branch2 devices. Use only show commands to troubleshoot the issues.
+Instructions -
+Enter IOS commands on the device to verify network operation and answer for multiple-choice questions.
+THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+Click on the device icon to gain access to the console of the router No console or enable passwords are required.
+To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+There are four multiple questions with this task. Be sure to answer all four questions before selecting the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+You are verifying the EIGRP configurations in the topology. Which statement is true?
+Choice index: A Choice content: Branch2 LAN network 172.16.11.0/24 is not advertised into the EIGRP network.
+Choice index: B Choice content: Branch2 LAN network 172.16.10.0/24 is not advertised into the EIGRP network.
+Choice index: C Choice content: R3 server farm2 network 10.20.30.0/24 is not advertised into the EIGRP network.
+Choice index: D Choice content: Branch1 LAN network 172.16.12.0/24 is not advertised into the EIGRP network.

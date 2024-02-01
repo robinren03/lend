@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. A packet from network 10.0.1.0/24 destined for network 10.0.2.0/24 arrives at R1 on interface Gi0/0, but the router drops the packet instead of transmitting it out interface Gi0/1. Which feature that is configured on R1 can cause this problem?
+Choice index: A Choice content: spanning tree
+Choice index: B Choice content: uRPF
+Choice index: C Choice content: split horizon
+Choice index: D Choice content: UDLD

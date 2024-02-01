@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. All switch ports are assigned to the correct VLANs, but none of the hosts connected to SwitchA can communicate with hosts in the same
+VLAN connected to SwitchB. Based on the output shown, what is the most likely problem?
+Choice index: A Choice content: The access link needs to be configured in multiple VLANs.
+Choice index: B Choice content: The link between the switches is configured in the wrong VLAN.
+Choice index: C Choice content: The link between the switches needs to be configured as a trunk.
+Choice index: D Choice content: VTP is not configured to carry VLAN information between the switches.
+Choice index: E Choice content: Switch IP addresses must be configured in order for traffic to be forwarded between the switches

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+An engineer is configuring a trunking port-channel between switch 1 and switch 2 and receives an error message on switch 1. Which option corrects this error?
+Choice index: A Choice content: disabling BPDU guard on interfae Fa0/23 on switch 2
+Choice index: B Choice content: enabling BPDU guard on interfae Fa0/23 on switch 2
+Choice index: C Choice content: disabling BPDU guard on interfae Fa0/23 on switch 1
+Choice index: D Choice content: enabling BPDU guard on interfae Fa0/23 on switch 1

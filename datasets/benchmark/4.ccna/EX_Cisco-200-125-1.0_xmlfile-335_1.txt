@@ -1,0 +1,20 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Instructions:
+- Enter IOS commands on the device to verify network operation and answer the multiple questions.
+- THIS TASK DOES NOT REQUIRE REVICE CINFIGURATION.
+- Click the device icon to gain access to the console device. No console or enable passwords are required.
+- To access the multiple choice questions, click the numbered boxes on the left of the top panel.
+- there are four multiple-choice questions with this task. Be sure to answer all four questions before clicking Next.
+Examine the R2 configuration. The traffic that is destined to the R3 LAN network that is sourced from R2 is forwarded to R1 instead of R3. What could be an issue?
+R2#traceroute 10.10.12.1 source 10.10.10.1
+Type escape sequence to abort -
+Tracing the route to 10.10.12.1 -
+VRF info: (vrf in name/id, vrf out name/id)
+1 172.16.14.1 0 msec 1 msec 0 msec
+2 172.16.14.1 !H !H *
+R2#
+Choice index: A Choice content: RIPv2 routing updates are suppressed between R2 and R3 using passive interface feature.
+Choice index: B Choice content: RIPv2 is enabled on R3 but the R3 LAN network is not advertised into the RIPv2 domain.
+Choice index: C Choice content: There is no issue. This behavior is normal because the default route is propagated into the RIPv2 domain by R1.
+Choice index: D Choice content: RIPv2 is not enabled on R3.

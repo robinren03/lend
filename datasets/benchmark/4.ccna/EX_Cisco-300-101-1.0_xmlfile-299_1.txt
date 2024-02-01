@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+OSPF chooses routes in which order, regardless of route's administrative distance and metric? (Choose all that apply.)
+Choice index: A Choice content: Intra-Area (O)
+Choice index: B Choice content: Inter-Area (O IA)
+Choice index: C Choice content: External Type 1 (E1)
+Choice index: D Choice content: External Type 2 (E2)
+Choice index: E Choice content: NSSA Type 1 (N1)
+Choice index: F Choice content: NSSA Type 2 (N2)

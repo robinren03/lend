@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+A network administrator is connecting PC hosts A and B directly through their Ethernet interfaces as shown in the graphic. Ping attempts between the hosts are unsuccessful. What can be done to provide connectivity between the hosts? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: A crossover cable should be used in place of the straight-through cable.
+Choice index: B Choice content: A rollover cable should be used in place of the straight-through cable.
+Choice index: C Choice content: The subnet masks should be set to 255.255.255.192
+Choice index: D Choice content: A default gateway needs to be set on each host.
+Choice index: E Choice content: The hosts must be reconfigured to use private IP addresses for direct connections of this type.
+Choice index: F Choice content: The subnet masks should be set to 255.255.255.0

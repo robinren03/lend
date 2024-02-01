@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Users on the 172.17.22.0 network cannot reach the server located on the 172.31.5.0 network. The network administrator connected to router
+Coffee via the console port, issued the show ip route command, and was able to ping the server.
+Based on the output of the show ip route command and the topology shown in the graphic, what is the cause of the failure?
+(The given image is here)
+Choice index: A Choice content: The network has not fully converged.
+Choice index: B Choice content: IP routing is not enabled.
+Choice index: C Choice content: A static route is configured incorrectly.
+Choice index: D Choice content: The FastEthernet interface on Coffee is disabled.
+Choice index: E Choice content: The neighbor relationship table is not correctly updated.
+Choice index: F Choice content: The routing table on Coffee has not updated.

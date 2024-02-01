@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+R1 is configured with the default configuration of OSPF. From the following list of IP addresses configured on R1, which address will the OSPF process select as the router ID?
+(The given image is here)
+Choice index: A Choice content: 192.168.0.1
+Choice index: B Choice content: 172.16.1.1
+Choice index: C Choice content: 172.16.2.1
+Choice index: D Choice content: 172.16.2.225

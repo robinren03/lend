@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The internetwork is using subnets of the address 192.168.1.0 with a subnet mask of 255.255.255.224. The routing protocol in use is RIP version 1. Which address could be assigned to the FastEthernet interface on RouterA?
+(The given image is here)
+Choice index: A Choice content: 192.168.1.31
+Choice index: B Choice content: 192.168.1.64
+Choice index: C Choice content: 192.168.1.127
+Choice index: D Choice content: 192.168.1.190
+Choice index: E Choice content: 192.168.1.192

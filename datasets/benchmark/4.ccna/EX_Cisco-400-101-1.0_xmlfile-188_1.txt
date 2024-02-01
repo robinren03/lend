@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. All routers are running EIGRP and the network has converged. R3 and R4 are configured as EIGRP Stub. If the link between R1 and R3 goes down, which statement is true?
+Choice index: A Choice content: The prefix 192.168.0.0/24 becomes stuck-in-active on R4.
+Choice index: B Choice content: R1 sends traffic destined to 192.168.0.100 via R2.
+Choice index: C Choice content: R3 does not advertise 192.168.0.0/24 to R4 anymore.
+Choice index: D Choice content: R2 does not have a route to 192.168.0.0/24 in the routing table.

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+If CDP is enabled on all devices and interfaces, which devices will appear in the output of a show cdp neighbors command issued from R2?
+Choice index: A Choice content: R1, S1, S2, R3 and S3
+Choice index: B Choice content: R2 and R3
+Choice index: C Choice content: R3 and S2
+Choice index: D Choice content: R1 and R3
+Choice index: E Choice content: R1, S1, S2, and R3

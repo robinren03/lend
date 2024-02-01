@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A problem with network connectivity has been observed. It is suspected that the cable connected to switch port Fa0/9 on Switch1 is disconnected. What would be an effect of this cable being disconnected?
+(The given image is here)
+Choice index: A Choice content: Host B would not be able to access the server in VLAN9 until the cable is reconnected.
+Choice index: B Choice content: Communication between VLAN3 and the other VLANs would be disabled.
+Choice index: C Choice content: The transfer of files from Host B to the server in VLAN9 would be significantly slower.
+Choice index: D Choice content: For less than a minute, Host B would not be able to access the server in VLAN9. Then normal network function would resume.

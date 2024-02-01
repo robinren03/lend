@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+EIGRP has been configured on all routers in the network. What additional configuration statement should be included on router R4 to advertise a default route to its neighbors?
+Choice index: A Choice content: R4(config)# ip default-network 10.0.0.0
+Choice index: B Choice content: R4(config)# ip route 0.0.0.0 0.0.0.0 10.1.1.1
+Choice index: C Choice content: R4(config)# ip route 10.0.0.0 255.0.0.0 10.1.1.1
+Choice index: D Choice content: R4(config-router)# default-information originate

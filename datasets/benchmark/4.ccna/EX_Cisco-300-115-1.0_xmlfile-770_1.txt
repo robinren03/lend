@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which two commands ensure that DSW1 becomes root bridge for VLAN 10? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: DSW1(config)#spanning-tree vlan 10 priority root
+Choice index: B Choice content: DSW1(config)#spanning-tree vlan 10 port-priority 0
+Choice index: C Choice content: DSW1(config)#spanning-tree vlan 10 priority 4096
+Choice index: D Choice content: DSW1(config)#spanning-tree vlan 20 priority 0
+Choice index: E Choice content: DSW2(config)#spanning-tree vlan 10 priority 61440

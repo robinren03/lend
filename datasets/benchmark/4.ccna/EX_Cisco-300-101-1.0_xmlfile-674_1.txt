@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. You notice that traffic from R1 to the 192.168.10.0/24 network prefers the path through R3 instead of the least-cost path through R2.
+What is the most likely reason for this router selection?
+(The given image is here)
+Choice index: A Choice content: OSPF prefers external routers over interarea router.
+Choice index: B Choice content: OSPF prefers interarea routers over intra-area routers.
+Choice index: C Choice content: OSPF prefers external routers over intra-area routers.
+Choice index: D Choice content: OSPF prefers intra-area routers over interarea routers.

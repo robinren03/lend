@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Router 1 cannot ping router 2 via the Frame Relay between them. Which two statements describe the problems? (Choose two.)
+Choice index: A Choice content: Frame Relay map is configured.
+Choice index: B Choice content: DLCI is active.
+Choice index: C Choice content: DLCI isinactive or deleted.
+Choice index: D Choice content: Encapsulation is mismatched.
+Choice index: E Choice content: An access list is needed to allow ping.

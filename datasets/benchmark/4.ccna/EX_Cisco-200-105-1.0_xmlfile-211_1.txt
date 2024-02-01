@@ -1,0 +1,15 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> Enter IOS commands on the Dubai router to verify network operation and answer for multiple-choice questions. THIS TASK DOES NOT REQUIRE DEVICE
+CONFIGURATION.
+-> Click on the Console PC to gain access to the console of the router. No console or enable passwords are required.
+-> To access the multiple-choice questions, click of the numbered boxes on the left of the top panel.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+If required, what password should be configured on the DeepSouth router in the branch office to allow a connection to be established with the MidEast router?
+Choice index: A Choice content: No password is required.
+Choice index: B Choice content: Enable
+Choice index: C Choice content: Secret
+Choice index: D Choice content: Telnet
+Choice index: E Choice content: Console

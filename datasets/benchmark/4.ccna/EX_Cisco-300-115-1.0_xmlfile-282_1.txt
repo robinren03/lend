@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+ABC, Inc. is a medium sized company, with an enterprise network (access, distribution and core switches) that provides LAN connectivity from user PCs to corporate servers. The distribution switches are configured to use HSRP to provide a high availability solution.
+-> DSW1 "" primary device for VLAN 101 VLAN 102 and VLAN 105
+-> DSW2 "" primary device for VLAN 103 and VLAN 104
+-> A failure of GigabitEthemet1/0/1 on primary device should cause the primary device to release its status as the primary device, unless GigabitEthernet1/0/1 on backup device has also failed.
+Troubleshooting has identified several issues. Currently all interfaces are up. Using the running configurations and show commands, you have been asked to investigate and respond to the following question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+All interfaces are active. DSW2 has not become the active device for the VLAN 103 HSRP group. As related to the VLAN 103 HSRP group, what can be done to make the group function properly?
+Choice index: A Choice content: On DSW1, disable preempt.
+Choice index: B Choice content: On DSW1, decrease the priority value to a value less than 190 and greater than 150.
+Choice index: C Choice content: On DSW2, increase the priority value to a value greater 200 and less than 250.
+Choice index: D Choice content: On DSW2, increase the decrement value in the track command to a value greater than 10 and less than 50.

@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+You must complete the configuration on R1 so that a maximum of three links can be used and fragmentation is supported.
+Which additional configuration accomplishes this task?
+Choice index: A Choice content: Interface Multilink19ip address192.168.1.1 255.255.255.252ppp multilinkppp multilink group 19ppp multilink links maximum 3ppp multilink interleave
+Choice index: B Choice content: Interface Multilink19ip address 192.168.1.1 255.255.255.0ppp multilinkppp multilink group 19ppp multilink links minimum 1ppp multilink links maximum 3ppp multilink interleave
+Choice index: C Choice content: Interface Multilink19ip address 192.168.1.1 255.255.255.0ppp multilinkppp multilink group 19pppmultilink links maximum 3ppp multilink fragment delay 20ppp multilink interleave
+Choice index: D Choice content: Interface Multilink19ip address192.168.1.1 255.255.255.0ppp multilinkppp multilink group 19ppp multilink links maximum 3ppp multilink fragment delay 20

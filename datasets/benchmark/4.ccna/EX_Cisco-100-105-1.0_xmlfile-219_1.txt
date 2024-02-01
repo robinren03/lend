@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+The internetwork infrastructure of company XYZ consists of a single OSPF area as shown in the graphic. There is concern that a lack of router resources is impeding internetwork performance. As part of examining the router resources, the OSPF DRs need to be known. All the router OSPF priorities are at the default and the router IDs are shown with each router. Which routers are likely to have been elected as DR? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Corp-1
+Choice index: B Choice content: Corp-2
+Choice index: C Choice content: Corp-3
+Choice index: D Choice content: Corp-4
+Choice index: E Choice content: Branch-1
+Choice index: F Choice content: Branch-2

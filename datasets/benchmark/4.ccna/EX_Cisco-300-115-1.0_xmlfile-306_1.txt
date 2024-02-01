@@ -1,0 +1,18 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+-> Click on R1 and R2 to gain access to the consoles of these devices. No console or enable passwords are required.
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There are four multiple-choice questions with this task. Be sure to answer all four questions before selecting the Next button
+Scenario:
+Your customer has asked you to come in and verify the operation of routers R1 and R2 which are configured to use HSRP. They have questions about how these two devices will perform in the event of a device failure. Click on the devices or the tabs at the bottom of the screens to access the CLI to answer their questions.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+What issue is causing Router R1 and R2 to both be displayed as the HSRP active router for group 2?
+Choice index: A Choice content: The HSRP group number mismatch
+Choice index: B Choice content: The HSRP group authentication is misconfigured
+Choice index: C Choice content: The HSRP Hello packets are blocked
+Choice index: D Choice content: The HSRP timers mismatch
+Choice index: E Choice content: The HSRP group priorities are different

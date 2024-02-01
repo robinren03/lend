@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit A frame on vlan 1on switch s1 is sent to switch s2 when the frame is received on vlan2, what causes this behavior?
+(The given image is here)
+Choice index: A Choice content: trunk mode mismatches
+Choice index: B Choice content: vlans that do not correspond to a unique IP subnet
+Choice index: C Choice content: native vlan mismatches
+Choice index: D Choice content: allowing only vlan 2 on the destination.

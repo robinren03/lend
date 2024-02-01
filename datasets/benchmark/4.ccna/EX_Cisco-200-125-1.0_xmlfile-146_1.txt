@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Both switches are using a default configuration. Which two destination addresses will host 4 use to send data to host 1? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: the IP address of host 1
+Choice index: B Choice content: the IP address of host 4
+Choice index: C Choice content: the MAC address of host 1
+Choice index: D Choice content: the MAC address of host 4
+Choice index: E Choice content: the MAC address of the Fa0/0 interface of the R1 router
+Choice index: F Choice content: the MAC address of the Fa0/1 interface of the R1 router

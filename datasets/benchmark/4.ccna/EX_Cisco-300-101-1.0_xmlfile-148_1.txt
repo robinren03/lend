@@ -1,0 +1,15 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The DHCP client is unable to receive a DHCP address from the DHCP server. Consider the following output: hostname RouterB
+!
+interface fastethernet 0/0
+ip address 172.31.1.1 255.255.255.0
+interface serial 0/0
+ip address 10.1.1.1 255.255.255.252
+!
+ip route 172.16.1.0 255.255.255.0 10.1.1.2
+Which configuration is required on the Router B fastEthernet 0/0 port in order to allow the DHCP client to successfully receive an IP address from the DHCP server?
+(The given image is here)
+Choice index: A Choice content: RouterB(config-if)# ip helper-address 172.16.1.2
+Choice index: B Choice content: RouterB(config-if)# ip helper-address 172.16.1.1
+Choice index: C Choice content: RouterB(config-if)# ip helper-address 172.31.1.1
+Choice index: D Choice content: RouterB(config-if)# ip helper-address 255.255.255.255

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Observe the exhibit.
+(The given image is here)
+If the command variance 3 were added to RTE, which path or paths would be chosen to route traffic to network X?
+Choice index: A Choice content: E-B-A
+Choice index: B Choice content: E-B-A and E-C-A
+Choice index: C Choice content: E-C-A and E-D-A
+Choice index: D Choice content: E-B-A, E-C-A and E-D-A

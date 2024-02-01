@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the topology and partial router configurations shown in the exhibit. The network is fully operational and all routing tables are converged.
+Which route will appear in the output of the show ip route command issued on the Branch router?
+(The given image is here)
+Choice index: A Choice content: S* 0.0.0.0/0 [1/0] via 192.168.10.82
+Choice index: B Choice content: R 172.16.11.4/30 [120/1] via 192.168.10.82, 00:00:22, Serial0/0
+Choice index: C Choice content: R 192.168.10.80/30 [120/0] via 192.168.10.81, 00:00:22, Serial0/0
+Choice index: D Choice content: R 192.168.11.0/24 [120/1] via 192.168.10.81, 00:00:22, Serial0/0
+Choice index: E Choice content: C 192.168.12.0/24 is directly connected, FastEthernet0/0

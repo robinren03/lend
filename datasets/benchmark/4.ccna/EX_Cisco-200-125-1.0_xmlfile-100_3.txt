@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+While troubleshooting a connectivity issue from a PC you obtain the following information:
+(The given image is here)
+You then conduct the following tests from the local PC:
+(The given image is here)
+(The given image is here)
+What is the underlying cause of this problem?
+Choice index: A Choice content: A remote physical layer problem exists.
+Choice index: B Choice content: The host NIC is not functioning.
+Choice index: C Choice content: TCP/IP has not been correctly installed on the host.
+Choice index: D Choice content: A local physical layer problem exists.

@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. SW1 and SW2 are connected to routers R1 and R2 via their L2 trunk ports. Which command can you enter on the switches to allow the hosts on VLAN 20 to join the multicast group 239.10.10.10 via the upstream L2 ports?
+(The given image is here)
+Choice index: A Choice content: ip igmp snooping querier 239.10.10.10
+Choice index: B Choice content: ip igmp snooping vlan 20 mrouter learn cgmp
+Choice index: C Choice content: ip igmp snooping vlan 20 static 239.10.10.10 interface gigabitethernet0/0
+Choice index: D Choice content: ip igmp snooping vlan 20 mrouter interface gigabitethernet0/0

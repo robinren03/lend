@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Multiple hosts on the 10.2.2.0/24 network are sending traffic to the Web server. Which configuration can you apply to R2 so that traffic from host 1 uses the path R2-R1-R3 to reach the web server, without affecting other hosts?
+(The given image is here)
+Choice index: A Choice content: access-list 1 permit 10.2.2.4 0.0.0.0
+Choice index: B Choice content: access-list 1 permit 10.2.2.0 0.0.0.255
+Choice index: C Choice content: access-list 1 permit 10.2.2.3 255.255.255.255
+Choice index: D Choice content: access-list 1 permit 10.2.2.3 0.0.0.0
+Choice index: E Choice content: ip local policy route-map POLICY-ROUTE
+Choice index: F Choice content: interface FastEthernet2/0 in policy route-map POLICY-ROUTE

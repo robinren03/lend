@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. The network administrator is testing connectivity from the branch router to the newly installed application server. Which reason is the most likely for the first ping having a success rate of only 60 percent? Explain your choice.
+Choice index: A Choice content: The branch router LAN interface should be upgraded to FastEthernet.
+Choice index: B Choice content: The branch router had to resolve the application server MAC address.
+Choice index: C Choice content: The network is likely to be congested, with the result that packets are being intermittently dropped.
+Choice index: D Choice content: There is a short delay while NAT translates the server IP address.
+Choice index: E Choice content: A routing table lookup delayed forwarding on the first two ping packets.

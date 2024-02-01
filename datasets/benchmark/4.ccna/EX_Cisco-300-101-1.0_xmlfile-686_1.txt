@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which BGP attribute can be used to influence traffic from AS200 and AS300 to enter AS100 via link 1?
+(The given image is here)
+Choice index: A Choice content: AS-path
+Choice index: B Choice content: weight
+Choice index: C Choice content: local preference
+Choice index: D Choice content: MED

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which technology can be employed to automatically detect a WAN primary link failure and failover to the secondary link?
+Choice index: A Choice content: HSRP
+Choice index: B Choice content: VRRP
+Choice index: C Choice content: IP SLA
+Choice index: D Choice content: multicast

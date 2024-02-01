@@ -1,0 +1,22 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+You have been asked to evaluate how EIGRP is functioning in a customer network. Access the device consoles to answer the questions.
+Instructions -
+- Enter IOS commands on the device to verify network operation and answer for multiple-choice questions.
+- THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+- Click on the individual device icons or use the tab at the bottom of the screen to gain access to the console for each device.
+- No console or enable passwords are required.
+- To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+- There are five multiple-choice questions with this task. Be sure to answer all five questions before selecting the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+What percent of R1"™s interfaces bandwidth is EIGRP allowed to use?
+Choice index: A Choice content: 10
+Choice index: B Choice content: 20
+Choice index: C Choice content: 30
+Choice index: D Choice content: 40

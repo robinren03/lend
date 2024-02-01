@@ -1,0 +1,23 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+You have been asked to evaluate an OSPF network setup in a test lab and to answer questions a customer has about its operation. The customer has disabled your access to the show running-config command.
+Instructions -
+- Enter IOS commands on the device to verify network operation and answer for multiple-choice questions.
+- THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+- Click on the icon or the lab at the bottom of the screen to gain access to the console for each device.
+- No console or enable passwords are required.
+- To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+- There are four multiple-choice questions with this task. Be sure to answer all four questions before selecting the Next button.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Areas of Router 5 and 6 are not normal areas. Inspect their routing tables and determine which statement is true.
+Choice index: A Choice content: R5"™s Loopback and R6"™s Loopback are both present in R5"™s Routing table
+Choice index: B Choice content: R5"™s Loopback and R6"™s Loopback are both present in R6"™s Routing table
+Choice index: C Choice content: Only R5"™s loopback is present in R5"™s Routing table
+Choice index: D Choice content: Only R6"™s loopback is present in R5"™s Routing table
+Choice index: E Choice content: Only R5"™s loopback is present in R6"™s Routing table

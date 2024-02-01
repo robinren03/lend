@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Which option prevents routing updates from being sent to the access layer switches?
+Choice index: A Choice content: DWS1(config-router)# passive-interface default DWS2(config-router)# passive-interface default
+Choice index: B Choice content: ALS1(config-router)# passive-interface default ALS2(config-router)# passive-interface default
+Choice index: C Choice content: DWS1(config-router)# passive-interface gi1/1 DWS1(config-router)# passive-interface gi1/2 DWS2(config-router)# passive-interface gi1/1 DWS2(config-router) # passive-interface gi1/2
+Choice index: D Choice content: ALS1(config-router)# passive-interface gi0/1 ALS1(config-router)# passive-interface gi0/2 ALS2(config-router)# passive-interface gi0/1 ALS2(config-router)# passive-interface gi0/2

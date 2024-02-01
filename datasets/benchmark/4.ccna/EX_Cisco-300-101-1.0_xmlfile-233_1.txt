@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Which networking challenge is the most important issue to address to enable optimal communication between the networks at company A and company B?
+Choice index: A Choice content: IPv4 fragmentation
+Choice index: B Choice content: asymmetric routing
+Choice index: C Choice content: unicast flooding
+Choice index: D Choice content: UDP latency
+Choice index: E Choice content: IPV4 MTU

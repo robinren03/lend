@@ -1,0 +1,21 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+-> Enter IOS commands on the device to verify network operation and answer the multiple-choice questions.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+-> Click on SW1, SW2, New_Switch or SW4 to gain access to the consoles of these devices. No console or enable passwords are required.
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There are four multiple-choice questions with this task. Be sure to answer all four questions before selecting the Next button
+Scenario -
+You have been asked to install and configure a new switch in a customer network. Use the console access to the existing and new switches to configure and verify correct device configuration.
+Topology -
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Examine the VTP configuration. You are required to configure private VLANs for a new server deployment connecting to the SW4 switch. Which of the following configuration steps will allow creating private VLANs?
+Choice index: A Choice content: Disable VTP pruning on SW1 only
+Choice index: B Choice content: Disable VTP pruning on SW2 only
+Choice index: C Choice content: Disable VTP pruning on SW4 only
+Choice index: D Choice content: Disable VTP pruning on SW2, SW4 and New_Switch
+Choice index: E Choice content: Disable VTP pruning on New_Switch and SW4 only.

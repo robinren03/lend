@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+DRAG DROP -
+Refer to the exhibit. You are configuring the R1 Serial0 interface for a multipoint connection. Drag and drop the required configuration statements from the left onto the corresponding locations from the diagram on the right.
+(The given image is here)
+Select and Place:
+(The given image is here)

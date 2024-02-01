@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What can be determined about the interfaces of the Main_Campus router from the output shown?
+(The given image is here)
+Choice index: A Choice content: The LAN interfaces are configured on different subnets.
+Choice index: B Choice content: Interface FastEthernet 0/0 is configured as a trunk.
+Choice index: C Choice content: The Layer 2 protocol of interface Serial 0/1 is NOT operational.
+Choice index: D Choice content: The router is a modular router with five FastEthernet interfaces.
+Choice index: E Choice content: Interface FastEthernet 0/0 is administratively deactivated.

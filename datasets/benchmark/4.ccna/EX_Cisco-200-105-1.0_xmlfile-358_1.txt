@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+Which three EIGRP routes will be present in the router R4's routing table? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: 172.16.1.0/24
+Choice index: B Choice content: 10.1.10.0/30
+Choice index: C Choice content: 10.0.0.0/8
+Choice index: D Choice content: 10.1.11.0/30
+Choice index: E Choice content: 172.16.0.0/16
+Choice index: F Choice content: 192.168.1.0/24

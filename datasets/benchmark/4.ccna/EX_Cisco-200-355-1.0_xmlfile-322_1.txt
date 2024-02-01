@@ -1,0 +1,18 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice questions, click on the numbered box on the left of the top panel.
+-> There is one multiple-choice question with this task. Be sure to answer the question before selecting the Next button
+Scenario:
+A wireless LAN controller, AP, IOS switch, and wireless client have been properly configured. Use the exhibits to answer the question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+When a client associates to ExamSSlD, which network address will be assigned?
+Choice index: A Choice content: The IP address assigned will be based on the AP network assignment of 10.10.10.0.
+Choice index: B Choice content: The IP address assigned will be based on the AP network assignment of 172.16.23.0.
+Choice index: C Choice content: The IP address will be assigned in a round-robin format based on the 172.16.12.0, 172.16.23.0,192.168.14.0 address pools.
+Choice index: D Choice content: The IP address will be assigned in a round-robin format based on the 172.16.12.0, 192.168.14.0,192.168.25.0 pools.
+Choice index: E Choice content: The IP address will be assigned in a round-robin format based on the 172.16.12.0, 172.16.23.0,192.168.14.0,192.168.25.0 pools.

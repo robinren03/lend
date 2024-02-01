@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+A network engineer is working on the network topology and executes the command no ip split-horizon on interface S0/0 of the Hub router.
+What is the result of this command?
+Choice index: A Choice content: routing loop is created.
+Choice index: B Choice content: Each of the spoke routers can see the routes that are advertised from the other spoke routers.
+Choice index: C Choice content: The Spoke routers can see the routes that are advertised by the hub router
+Choice index: D Choice content: The hub router can see the routes that are advertised by the spoke routers.

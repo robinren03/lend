@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+The internetwork shown in the diagram is experiencing network connectivity problems. What is the cause of the problem?
+(The given image is here)
+Choice index: A Choice content: The cabling connecting host A to Switch3 is too long.
+Choice index: B Choice content: The address of host B is a broadcast address.
+Choice index: C Choice content: The IP address of interface Fa0/0 of Router1 is not a usable address.
+Choice index: D Choice content: The cable connecting Switch2 and Switch3 should be a crossover.
+Choice index: E Choice content: The IP address of Server 1 is in the wrong subnet.

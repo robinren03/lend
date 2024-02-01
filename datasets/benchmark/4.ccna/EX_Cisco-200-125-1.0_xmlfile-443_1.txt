@@ -1,0 +1,12 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A network associate has configured the internetwork that is shown in the exhibit, but has failed to configure routing properly.
+(The given image is here)
+Which configuration will allow the hosts on the Branch LAN to access resources on the HQ LAN with the least impact on router processing and WAN bandwidth?
+A.
+(The given image is here)
+B.
+(The given image is here)
+C.
+(The given image is here)
+D.
+(The given image is here)

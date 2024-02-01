@@ -1,0 +1,19 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice questions, click on the numbered box on the left of the top panel.
+-> There is one multiple-choice question with this task. Be sure to answer the question before selecting the Next button
+Scenario:
+A Cisco Wireless LAN Controller has been correctly configured for AP and wireless client access. The WLC and AP have been connected using a configured
+CISCO iOS switch. Unexpected results are occurring for the AP association to the WLC. Refer to the exhibits to answer the question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+The AP is unable to join the WLC. What switch configuration will correct this problem?
+Choice index: A Choice content: interface vlanl ip helper-address 10.10.10.10
+Choice index: B Choice content: interface vlan20 ip helper-address 10.10.10.10
+Choice index: C Choice content: ipdhcp pool vlanl option 43 ascii '10.10.10.10'
+Choice index: D Choice content: ip dhcp pool vlan20 option 43 ascii '10.10.10.10'
+Choice index: E Choice content: ipdhcp pool vlanl option 43 hex f1040a0a0a0a
+Choice index: F Choice content: ip dhcp pool vlan20 option 43 hex f1040a0a0a0a

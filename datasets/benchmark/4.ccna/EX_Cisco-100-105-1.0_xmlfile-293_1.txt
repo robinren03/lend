@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+To allow or prevent load balancing to network 172.16.3.0/24, which of the following commands could be used in R2? (Choose two.)
+Choice index: A Choice content: R2(config-if)#clock rate
+Choice index: B Choice content: R2(config-if)#bandwidth
+Choice index: C Choice content: R2(config-if)#ip ospf cost
+Choice index: D Choice content: R2(config-if)#ip ospf priority
+Choice index: E Choice content: R2(config-router)#distance ospf

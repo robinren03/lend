@@ -1,0 +1,19 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> Refer to the exhibits to answer the questions related to this task.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice question, click on the numbered box on the left of the top panel.
+-> There is one multiple-choice question with this task. Be sure to answer the question before selecting the Next button.
+Scenario:
+You are deploying a small wireless test network in a lab. The network is made up a wireless controller (WLC1), a dual radio access point (AP1) and a switch that is configured as a DHCP server. The IP subnet being used for this network is 10.10.10.0/24.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+In setting up the wireless network, it is desired that the DHCP server that is configured in WLC1 provides IP addressing to the WLAN. When devices attempt to join the network, they fail to receive an IP address in the range provided by the DHCP server in WLC1, but they do receive an IP address from the DHCP server in
+SW1. What is causing this issue?
+Choice index: A Choice content: The external DHCP server in SW1 will always be the preferred DHCP server and WLC1 will always be the secondary DHCP server in the WLAN.
+Choice index: B Choice content: The DHCP server address for SW1 needs to be removed from the DHCP server configuration in WLC1.
+Choice index: C Choice content: The primary DHCP server address in WLC1 is incorrect.
+Choice index: D Choice content: The primary DHCP server configured in WLC1 is not enabled.

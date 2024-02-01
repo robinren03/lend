@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+When running EIGRP, what is required for RouterA to exchange routing updates with RouterC?
+(The given image is here)
+Choice index: A Choice content: AS numbers must be changed to match on all the routers
+Choice index: B Choice content: Loopback interfaces must be configured so a DR is elected
+Choice index: C Choice content: The no auto-summary command is needed on Router A and Router C
+Choice index: D Choice content: Router B needs to have two network statements, one for each connected network

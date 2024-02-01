@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+A network technician is asked to design a small network with redundancy. The exhibit represents this design, with all hosts configured in the same VLAN. What conclusions can be made about this design?
+Choice index: A Choice content: This design will function as intended.
+Choice index: B Choice content: Spanning-tree will need to be used.
+Choice index: C Choice content: The router will not accept the addressing scheme.
+Choice index: D Choice content: The connection between switches should be a trunk.
+Choice index: E Choice content: The router interfaces must be encapsulated with the 802.1Q protocol.

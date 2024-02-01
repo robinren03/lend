@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network setup is running the RIP routing protocol. Which two events will occur following link failure between R2 and R3? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: R2 will advertise network 192.168.2.0/27 with a hop count of 16 to R1.
+Choice index: B Choice content: R2 will not send any advertisements and will remove route 192.168.2.0/27 from its routing table.
+Choice index: C Choice content: R1 will reply to R2 with the advertisement for network 192.168.2.0/27 with a hop count of 16.
+Choice index: D Choice content: After communication fails and after the hold-down timer expires, R1 will remove the 192.168.2.0/27 route from its routing table.
+Choice index: E Choice content: R3 will not accept any further updates from R2, due to the split-horizon loop prevention mechanism.

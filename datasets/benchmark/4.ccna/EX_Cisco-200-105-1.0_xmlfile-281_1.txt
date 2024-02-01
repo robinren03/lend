@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Router4 can ping Router5 (172.16.6.5), but not Router7 (172.16.11.7). There are no routing protocols running in any of the routers, and
+Router4 has Router6 as its default gateway.
+What can be done to address this problem?
+(The given image is here)
+(The given image is here)
+Choice index: A Choice content: Convert to static NAT.
+Choice index: B Choice content: Convert to dynamic NAT.
+Choice index: C Choice content: Add a static route in Router7 back to Router4.
+Choice index: D Choice content: Change the inside and outside NAT commands.

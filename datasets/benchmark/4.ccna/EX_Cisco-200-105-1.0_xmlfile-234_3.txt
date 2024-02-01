@@ -1,0 +1,30 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Lab-CLI Configuration -
+Instructions -
+To configure the router (Gotha) click on the console host icon that is connected to a router by a serial console cable (shown in the diagram as a dashed black line).
+You can click on the buttons below to view the different windows.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+The "Tab" key and most commands that use the "Control" or "Escape" keys are not supported and are not necessary to complete this simulation. The help command does not display all commands of the help system.
+Scenario -
+Central Florida widgets recently installed a new router in their Gotha office. Complete the network installation by performing the initial router configurations and configuring RIPv2 routing using the router command line interface (CLI) on the Gotha router.
+Configure the router per the following requirements:
+Name the router is Gotha -
+Enable-secret password is mi222ke
+The password to access user EXEC mode using the console is G8tors1
+The password to allow telnet access to the router is dun63lap
+IPv4 addresses must be configure as follows:
+-> Ethernet network 209.165.201.0/27 "" router has fourth assignable host address in subnet.
+-> Serial network is 192.0.2.176/28 "" router has last assignable host address in the subnet.
+I -
+nterfaces should be enabled.
+Routing protocol is RIPv2.
+(The given image is here)
+Attention:
+In practical examinations, please note the following, the actual information will prevail.
+1. Name of the router is xxx
+2. Enable. secret password is xxx
+3. Password in access user EXEC mode using the console is xxx
+4. The password to allow telnet access to the router is xxx
+5. IP information
+See the explanation below -

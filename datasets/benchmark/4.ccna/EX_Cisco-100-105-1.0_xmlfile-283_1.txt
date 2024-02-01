@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Two 2950 switches connect through ports fa0/24 using a straight-through cable. Based on the output that is shown in the exhibit and the information that is given, what can be concluded about this network?
+(The given image is here)
+Choice index: A Choice content: STP can not be configured on a FastEthernet ports.
+Choice index: B Choice content: An IP address and default gateway must be configured on each switch.
+Choice index: C Choice content: The switches do not share the same VTP domain.
+Choice index: D Choice content: Port fa0/24 must be configured as a trunk in order for the switches to share neighbor information.
+Choice index: E Choice content: The switches are cabled incorrectly.

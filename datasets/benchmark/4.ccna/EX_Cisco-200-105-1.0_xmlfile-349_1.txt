@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the topology shown in the exhibit. Which ports will be STP designated ports if all the links are operating at the same bandwidth? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: Switch A -Fa0/0
+Choice index: B Choice content: Switch A -Fa0/1
+Choice index: C Choice content: Switch B -Fa0/0
+Choice index: D Choice content: Switch B -Fa0/1
+Choice index: E Choice content: Switch C -Fa0/0
+Choice index: F Choice content: Switch C -Fa0/1

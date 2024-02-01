@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Hosts in network 192.168.2.0 are unable to reach hosts in network 192.168.3.0. Based on the output from RouterA, what are two possible reasons for the failure? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The cable that is connected to S0/0 on RouterA is faulty.
+Choice index: B Choice content: Interface S0/0 on RouterB is administratively down.
+Choice index: C Choice content: Interface S0/0 on RouterA is configured with an incorrect subnet mask.
+Choice index: D Choice content: The IP address that is configured on S0/0 of RouterB is not in the correct subnet.
+Choice index: E Choice content: Interface S0/0 on RouterA is not receiving a clock signal from the CSU/DSU.
+Choice index: F Choice content: The encapsulation that is configured on S0/0 of RouterB does not match the encapsulation that is configured on S0/0 of RouterA

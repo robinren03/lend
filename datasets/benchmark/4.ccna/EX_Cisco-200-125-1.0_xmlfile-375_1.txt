@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Based on the exhibited routing table, how will packets from a host within the 192.168.10.192/26 LAN be forwarded to 192.168.10.1?
+Choice index: A Choice content: The router will forward packets from R3 to R2 to R1.
+Choice index: B Choice content: The router will forward packets from R3 to R1 to R2.
+Choice index: C Choice content: The router will forward packets from R3 to R2 to R1 AND from R3 to R1.
+Choice index: D Choice content: The router will forward packets from R3 to R1.

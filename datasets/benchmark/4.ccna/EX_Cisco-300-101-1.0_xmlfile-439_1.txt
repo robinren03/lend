@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+The configuration of R1 to R6 are posted below for your reference, useless lines are omitted:
+(The given image is here)
+Which key chain is being used for authentication of EIGRP adjacency between R4 and R2?
+Choice index: A Choice content: CISCO
+Choice index: B Choice content: EIGRP
+Choice index: C Choice content: key
+Choice index: D Choice content: MD5

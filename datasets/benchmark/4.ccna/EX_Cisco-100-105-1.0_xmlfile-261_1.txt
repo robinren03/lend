@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to Exhibit. Based on the network shown in the graphic which option contains both the potential networking problem and the protocol or setting that should be used to prevent the problem?
+(The given image is here)
+Choice index: A Choice content: routing loops, hold down timers
+Choice index: B Choice content: switching loops, split horizon
+Choice index: C Choice content: routing loops, split horizon
+Choice index: D Choice content: switching loops, VTP
+Choice index: E Choice content: routing loops, STP
+Choice index: F Choice content: switching loops, STP

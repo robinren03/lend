@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+When policy-based routing (PBR) is being configured, which three criteria can the set command specify? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: All interfaces through which the packets can be routed
+Choice index: B Choice content: All interfaces in the path toward the destination
+Choice index: C Choice content: Adjacent next hop router in the path toward the destination
+Choice index: D Choice content: All routers in the path toward the destination
+Choice index: E Choice content: All networks in the path toward the destination
+Choice index: F Choice content: Type of service and precedence in the IP packets

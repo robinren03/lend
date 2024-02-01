@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+During a recent OSPF election among three routers, RTA was elected the DR and RTB was elected the BDR, as seen in the graphic. Assume that RTA fails, and that RTB takes the place of the DR while RTC becomes the new BDR. What will happen when RTA comes back online?
+(The given image is here)
+Choice index: A Choice content: RTA will take the place of DR immediately upon establishing its adjacencies
+Choice index: B Choice content: RTA will take the place of DR only if RTB fails.
+Choice index: C Choice content: RTA will take the place of DR only if both RTB and RTC fail.
+Choice index: D Choice content: A new election will take place establishing an all new DR and BDR based on configured priority levels and MAC addresses.

@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+The hosts in the LAN are not able to connect to the Internet. Which commands will correct this issue?
+Choice index: A Choice content: Router1(conf)#interface fa0/0 Router1(conf-if)# no shutdown
+Choice index: B Choice content: Router1(conf)#interface fa0/1 Router1(conf-if)# no shutdown
+Choice index: C Choice content: Router1(conf)#interface s0/0 Router1(conf-if)# no shutdown
+Choice index: D Choice content: Router1(conf)#interface s0/1 Router1(conf-if)# no shutdown
+Choice index: E Choice content: Router1(conf)#interface s0/0 Router1(conf-if)# ip address 10.11.12.13 255.255.255.252
+Choice index: F Choice content: Router1(conf)#interface s0/1 Router1(conf-if)# ip address 10.100.1. 1255.255.255.252

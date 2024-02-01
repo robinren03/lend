@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Router E is configured with the EIGRP variance 2 command.
+(The given image is here)
+What path will Router E take to reach Router A?
+Choice index: A Choice content: only E-D-A
+Choice index: B Choice content: only E-B-A
+Choice index: C Choice content: only E-C-A
+Choice index: D Choice content: both E-B-A and E-C-A
+Choice index: E Choice content: both E-B-A and E-D-A
+Choice index: F Choice content: all available paths.

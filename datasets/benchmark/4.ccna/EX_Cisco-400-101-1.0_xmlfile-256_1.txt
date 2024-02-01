@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Router A is connected as a BGP neighbor to routers B and C. Which path does router A use to get to AS 65010?
+Choice index: A Choice content: through router C because it has a higher local preference
+Choice index: B Choice content: through router B because it has the shortest AS path
+Choice index: C Choice content: will load balance because both routes have the same Med value
+Choice index: D Choice content: through router B because the default local preference is 500 and higher than router C

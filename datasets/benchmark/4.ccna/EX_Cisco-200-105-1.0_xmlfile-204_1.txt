@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+This item contains several questions that you must answer. You can view these questions by clicking on the corresponding button to the left. Changing questions can be accomplished by clicking the numbers to the left of each question. In order to complete the questions, you will need to refer to the topology.
+To gain access to the topology, click on the topology button at the bottom of the screen. When you have finished viewing the topology, you can return to your questions by clicking on the Questions button to the left.
+Each of the windows can be minimized by clicking on the [-]. You can also reposition a window by dragging it by the title bar.
+Scenario -
+Refer to the topology. Using the information shown, answer the four questions shown on the Questions tab.
+(The given image is here)
+To allow or prevent load balancing to network 172.16.3.0/24, which of the following commands could be used in R2? (Choose two.)
+Choice index: A Choice content: R2(config-if)#clock rate
+Choice index: B Choice content: R2(config-if)#bandwidth
+Choice index: C Choice content: R2(config-if)#ip ospf cost
+Choice index: D Choice content: R2(config-if)#ip ospf priority
+Choice index: E Choice content: R2(config-router)#distance ospf

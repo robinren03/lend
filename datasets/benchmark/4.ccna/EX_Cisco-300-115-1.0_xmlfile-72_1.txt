@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here) f1/0 and f1/1 have the same end-to-end path cost to the designated bridge. Which action is needed to modify the Layer 2 spanning-tree network so that traffic for
+PC1 VLAN from switch SW3 uses switchport f1/1 as a primary port?
+Choice index: A Choice content: Modify the spanning-tree port-priority on SW1 f1/1 to 0 and f1/0 to 16.
+Choice index: B Choice content: Modify the spanning-tree port-priority on SW1 f1/1 to 16 and f1/0 to 0.
+Choice index: C Choice content: Modify the spanning-tree port-priority on SW2 f1/1 to 0 and f1/0 to 16.
+Choice index: D Choice content: Modify the spanning-tree port-priority on SW2 f1/1 to 16 and f1/0 to 0.

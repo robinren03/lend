@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index, for example, 'A' or 'BCD'.
+Refer to the exhibit. What must be configured to establish a successful connection from Host A to switch SW-A through router RT-A? Explain your choice.
+Choice index: A Choice content: VLAN 1 on RT-A
+Choice index: B Choice content: IP routing on SW-A
+Choice index: C Choice content: default gateway on SW-A
+Choice index: D Choice content: crossover cable connecting SW-A and RT-A

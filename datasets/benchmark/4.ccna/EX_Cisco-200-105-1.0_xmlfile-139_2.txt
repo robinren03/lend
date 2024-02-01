@@ -1,0 +1,21 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+-> Enter Cisco IOS commands on device to verify network operation and answer for multiple-choice questions.
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION.
+-> Click the device icon to gain access to the console of the router. No console or enable passwords are required.
+To access the multiple-choice questions, click the numbered boxes on the left of the top panel.
+(The given image is here)
+-> This task has four multiple-choice questions. Be sure to answer all four questions before clicking the Next button.
+Scenario -
+You are implementing PPP over serial links between R1 router and branch offices. In Phase 1 you must implement and verify PPP and GRE tunnel configurations as mentioned in the topology. In Phase 2 your colleague is expected to do NAT and ISP configurations between R1 and ISP router.
+Identify the issues that you encounter during PPP over serial links implementation.
+Routers Branch1, Branch2, and Branch3 connect to Router R1 in the main office over serial links.
+PPP multilink implementation is recommended between R1 and Branch1 routers.
+The GRE tunnel is configured between R2 and Branch2 routers, and traffic between Server farm1 10.10.10.0/24 network and Branch2 LAN 10.10.20.0/24 network, is routed over GRE tunnel using static route.
+You have console access on R1, R2, Branch1, Branch2, and Branch3 devices. Use only show commands to troubleshoot the issues.
+(The given image is here)
+Why is the Branch2 network 10.10.20.0/24 unable to communicate with the Server farm1 network 10.10.10.0/24 over the GRE tunnel?
+Choice index: A Choice content: The GRE tunnel destination is not configured on the R2 router.
+Choice index: B Choice content: The GRE tunnel destination is not configured on the Branch2 router.
+Choice index: C Choice content: The static route point to the tunnel0 interface that is misconfigured on the Branch2 router.
+Choice index: D Choice content: The static route points to the tunnel0 interface that is misconfigured on the R2 router.

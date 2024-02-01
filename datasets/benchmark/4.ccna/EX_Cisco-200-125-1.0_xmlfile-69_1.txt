@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the diagram. All hosts have connectivity with one another. Which statements describe the addressing scheme that is in use in the network? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: The subnet mask in use is 255.255.255.192.
+Choice index: B Choice content: The subnet mask in use is 255.255.255.128.
+Choice index: C Choice content: The IP address 172.16.1.25 can be assigned to hosts in VLAN1
+Choice index: D Choice content: The IP address 172.16.1.205 can be assigned to hosts in VLAN1
+Choice index: E Choice content: The LAN interface of the router is configured with one IP address.
+Choice index: F Choice content: The LAN interface of the router is configured with multiple IP addresses.

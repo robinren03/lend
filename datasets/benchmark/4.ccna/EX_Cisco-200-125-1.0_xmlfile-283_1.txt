@@ -1,0 +1,19 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Scenario -
+Refer to the topology. Your company has decided to connect the main office with three other remote branch offices using point-to-point serial links.
+You are required to troubleshoot and resolve OSPF neighbor adjacency issues between the main office and the routers located in the remote branch offices.
+Use appropriate show commands to troubleshoot the issues and answer all four questions.
+Instructions -
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+An OSPF neighbor adjacency is not formed between R3 in the main office and R4 in the Branch1 office. What is causing the problem?
+Choice index: A Choice content: There is an area ID mismatch.
+Choice index: B Choice content: There is a Layer 2 issue; an encapsulation mismatch on serial links.
+Choice index: C Choice content: There is an OSPF hello and dead interval mismatch.
+Choice index: D Choice content: The R3 router ID is configured on R4.

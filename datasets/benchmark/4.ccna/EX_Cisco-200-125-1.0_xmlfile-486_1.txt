@@ -1,0 +1,18 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+You work as a network engineer for SASCOM Network Ltd company. On router HQ, a provider link has been enabled and you must configure an IPv6 default route on HQ and make sure that this route is advertised in IPv6 OSPF process. Also, you must troubleshoot another issue. The router HQ is not forming an IPv6
+OSPF neighbor relationship with router BR.
+Topology Details -
+Two routers HQ and BR are connected via serial links.
+Router HQ has interface Ethernet0/1 connected to the provider cloud and interface Ethernet0/0 connected to RA1.
+Router BR has interface Ethernet0/0 connected to another router RA2.
+IPv6 Routing Details -
+All routers are running IPv6 OSPF routing with process ID number 100. Refer to the topology diagram for information about the OSPF areas. The Loopback 0 IPv4 access is the OSPF router ID on each router.
+Configuration requirements -
+Configure IPv6 default route on router HQ with default gateway as 2001:DB8:B:B1B2::1
+Verify by pinging provider test IPv6 address 2001:DB8:0:1111::1 after configuring default route on HQ.
+Make sure that the default route is advertised in IPv6 OSPF on router HQ. This default route should be advertised only when HQ has a default route in its routing table.
+Router HQ is not forming IPv6 OSPF neighbor with BR. You must troubleshoot and resolve this issue.
+Special Note: To gain the maximum numbers of points, you must complete the necessary configurations and fix IPv6 OSPF neighbor issue with router BR. IPv6
+OSPFv3 must be configured without using address families. Do not change the IPv6 OSPF process ID.
+(The given image is here)

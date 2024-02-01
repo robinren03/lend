@@ -1,0 +1,13 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+The headquarter offices for a book retailer are enhancing their wiring closets with Layer3 switches. The new distribution-layer switch has been installed and a new access-layer switch cabled to it. Your task is to configure VTP to share VLAN information from the distribution-layer switch to the access-layer devices.
+Then, it is necessary to configure interVLAN routing on the distribution layer switch to route traffic between the different VLANs that are configured on the access- layer switches; however, it is not necessary for you to make the specific VLAN port assignments on the access-layer switches. Also, because VLAN database mode is being deprecated by Cisco, all VLAN and VTP configurations are to be completed in the global configuration mode.
+Please reference the following table for the VTP and VLAN information to be configured:
+(The given image is here)
+These are your specific tasks:
+1. Configure the VTP information with the distribution layer switch as the VTP server.
+2. Configure the VTP information with the access layer switch as a VTP client.
+3. Configure VLANs on the distribution layer switch.
+4. Configure inter-VLAN routing on the distribution layer switch.
+5. Specific VLAN port assignments will be made as users are added to the access layer switches in the future.
+6. All VLANs and VTP configurations are to completed in the global configuration. To configure the switch, click on the host icon that is connected to the switch be way of a serial console cable.

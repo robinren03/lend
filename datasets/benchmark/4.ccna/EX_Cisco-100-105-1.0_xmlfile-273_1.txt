@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SW-C has just been added to the network shown in the graphic.
+(The given image is here)
+What is the purpose of assigning a default gateway to this switch?
+Choice index: A Choice content: allows connectivity to Router B from the switch prompt
+Choice index: B Choice content: allows console port connectivity to the switch from Host A
+Choice index: C Choice content: allows connectivity to remote network devices from Host B
+Choice index: D Choice content: allows the switch to pass traffic between Host A and Host B

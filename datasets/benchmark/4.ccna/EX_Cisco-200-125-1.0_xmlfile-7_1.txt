@@ -1,0 +1,11 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The network administrator cannot connect to Switch 1 over a Telnet session, although the hosts attached to Switch1 can ping the interface Fa0/0 of the router.
+Given the information in the graphic and assuming that the router and Switch2 are configured properly, which of the following commands should be issued on
+Switch1 to correct this problem?
+Choice index: A Choice content: Switch1(config)# ip default-gateway 192.168.24.1
+Choice index: B Choice content: Switch1(config)# interface fa0/1 Switch1(config-if)# switchport mode trunk
+Choice index: C Choice content: Switch1(config)# line con0 Switch1(config-line)# password cisco Switch1(config-line)# login
+Choice index: D Choice content: Switch1(config)# interface fa0/1 Switch1(config-if)# ip address 192.168.24.3 255.255.255.0
+Choice index: E Choice content: Switch1(config)# interface fa0/1 Switch1(config-if)# duplex full Switch1(confiq-if)# speed 100

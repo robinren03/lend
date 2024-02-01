@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+(The given image is here)
+What interfaces on Router1 have not had any configurations applied? (Choose two.)
+Choice index: A Choice content: Ethernet 0
+Choice index: B Choice content: FastEthernet 0/0
+Choice index: C Choice content: FastEthernet 0/1
+Choice index: D Choice content: Serial 0
+Choice index: E Choice content: Serial 0/0
+Choice index: F Choice content: Serial 0/1

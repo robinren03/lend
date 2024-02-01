@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Users have been complaining that their Frame Relay connection to the corporate site is very slow. The network administrator suspects that the link is overloaded.
+Based on the partial output of the Router # show frame relay pvc command shown in the graphic, which output value indicates to the local router that traffic sent to the corporate site is experiencing congestion?
+(The given image is here)
+Choice index: A Choice content: DLCI=100
+Choice index: B Choice content: last time PVC status changed 00:25:40
+Choice index: C Choice content: in BECN packets 192
+Choice index: D Choice content: in FECN packets 147
+Choice index: E Choice content: in DF packets 0

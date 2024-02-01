@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What are two effects of the given network configuration? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: The 192.168.12.0/24 network is added to the R3 route table
+Choice index: B Choice content: The 192.168.12.0/24 network is added to the R3 database
+Choice index: C Choice content: R1 and R2 fail to form an adjacency
+Choice index: D Choice content: R2 and R3 fail to form an adjacency
+Choice index: E Choice content: R2 advertises the 192.168.12.0/24 network
+Choice index: F Choice content: R2 advertises the 192.168.23.0/24 network

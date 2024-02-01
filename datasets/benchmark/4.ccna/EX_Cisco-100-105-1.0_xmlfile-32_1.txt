@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+The exhibit is showing the topology and the MAC address table. Host A sends a data frame to host D. Which option describes what the switch will do when it receives the frame from host A?
+Choice index: A Choice content: The switch will flood the frame out of all ports except for port Fa0/3.
+Choice index: B Choice content: The switch will add the destination address of the frame to the MAC address table and forward the frame to host D.
+Choice index: C Choice content: The switch will add the source address and port to the MAC address table and forward the frame to host D.
+Choice index: D Choice content: The switch will discard the frame and send an error message back to host A.

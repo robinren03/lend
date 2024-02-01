@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+R1 and R2 both advertise 10.50.1.0/24 to R3 and R4 as shown. R1 is the primary path. Which path does traffic take from the R4 data center to the file server?
+Choice index: A Choice content: All traffic travels from R4 to R2 to the file server.
+Choice index: B Choice content: All traffic travels from R4 to R3 to R1 to the file server.
+Choice index: C Choice content: Traffic is load-balanced from R4 to R2 and R3. Traffic that is directed to R3 then continues to R1 to the file server. Traffic that is directed to R2 continues to the fileserver.
+Choice index: D Choice content: All traffic travels from R4 to R2 to R1 to the file server.

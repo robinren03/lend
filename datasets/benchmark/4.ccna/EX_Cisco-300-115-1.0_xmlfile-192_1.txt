@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the following network diagram:
+(The given image is here)
+You executed the following commands on the swtA switch:
+(The given image is here)
+You executed the following commands on the rtrA switch:
+(The given image is here)
+Which of the following VLANs do(es) NOT participate in inter-VLAN routing through the rtrA router?
+Choice index: A Choice content: VLAN 11 only
+Choice index: B Choice content: VLAN 22 only
+Choice index: C Choice content: VLAN 33 only
+Choice index: D Choice content: VLAN 11 and VLAN 22
+Choice index: E Choice content: VLAN 22 and VLAN 33
+Choice index: F Choice content: VLAN 33 and VLAN 11

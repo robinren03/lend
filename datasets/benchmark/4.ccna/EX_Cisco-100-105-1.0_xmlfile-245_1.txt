@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. PC1 pings PC2. What three things will CORE router do with the data that is received from PC1? (Choose three.)
+(The given image is here)
+Choice index: A Choice content: The data frames will be forwarded out interface FastEthernet0/1 of CORE router.
+Choice index: B Choice content: The data frames will be forwarded out interface FastEthernet1/0 of CORE router.
+Choice index: C Choice content: CORE router will replace the destination IP address of the packets with the IP address of PC2.
+Choice index: D Choice content: CORE router will replace the MAC address of PC2 in the destination MAC address of the frames.
+Choice index: E Choice content: CORE router will put the IP address of the forwarding FastEthernet interface in the place of the source IP address in the packets.
+Choice index: F Choice content: CORE router will put the MAC address of the forwarding FastEthernet interface in the place of the source MAC address.

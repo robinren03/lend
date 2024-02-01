@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Switch A, B, and C are trunked together and have been properly configured for VTP. Switch C receives VLAN information from the VTP server Switch A, but
+Switch B does not receive any VLAN information. What is the most probable cause of this behavior?
+Choice index: A Choice content: Switch B is configured in transparent mode.
+Choice index: B Choice content: Switch B is configured with an access port to Switch A, while Switch C is configured with a trunk port to Switch B.
+Choice index: C Choice content: The VTP revision number of the Switch B is higher than that of Switch A.
+Choice index: D Choice content: The trunk between Switch A and Switch B is misconfigured.

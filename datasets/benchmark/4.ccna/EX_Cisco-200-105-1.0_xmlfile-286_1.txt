@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. A technician is testing connection problems in the internetwork. What is the problem indicated by the output from HostA?
+(The given image is here)
+Choice index: A Choice content: The routing on Router2 is not functioning properly.
+Choice index: B Choice content: An access list is applied to an interface of Router3.
+Choice index: C Choice content: The Fa0/24 interface of Switch1 is down.
+Choice index: D Choice content: The gateway address of HostA is incorrect or not configured.

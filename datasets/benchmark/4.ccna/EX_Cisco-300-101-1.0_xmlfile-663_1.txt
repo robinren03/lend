@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. You want router R1 to perform unequal-cost routing to the 192.168.10.0/24 network.
+(The given image is here)
+What is the smallest EIGRP variance value that you can configure on R1 to achieve this result?
+Choice index: A Choice content: 1
+Choice index: B Choice content: 2
+Choice index: C Choice content: 3
+Choice index: D Choice content: 4

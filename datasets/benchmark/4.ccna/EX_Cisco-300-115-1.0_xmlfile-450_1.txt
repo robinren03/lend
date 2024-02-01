@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. You have configured routers R1 and R2 with VRRP for load sharing as shown. Which two effects of this configuration are true? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Router R1 is the primary gateway for 10.1.0.1 and router R2 is the primary gateway for 10.1.0.10
+Choice index: B Choice content: The four PCs send all requests to router R1, which forward traffic to router R2 as necessary
+Choice index: C Choice content: Router R2 is the primary gateway for 10.1.0.1 and router R1 is the primary gateway for 10.1.0.10
+Choice index: D Choice content: The four PCs send packets round-robin between routers R1 and R2
+Choice index: E Choice content: PC2 and PC4 use router R1 as the primary gateway
+Choice index: F Choice content: PC1 and PC3 use router R1 as the primary gateway

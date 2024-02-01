@@ -1,0 +1,6 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. What is the most efficient summarization that R1 can use to advertise its networks to R2?
+(The given image is here)
+Choice index: A Choice content: 172.1.0.0/24
+Choice index: B Choice content: 172.1.2.0/21
+Choice index: C Choice content: 172.1.4.0/22 D. <img alt="" src="/static/img/exams/Cisco-200-125-1.0/xmlfile-75_2.png] E. [Cisco-200-125-1.0/xmlfile-75_3.png"/>

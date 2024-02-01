@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Switch A is connected to two MSTP domains for the first time. This error is observed on Switch A.
+%SPANTREE-2-PVSTSIN_FAIL: Blocking designated port Fa0/1: Inconsistent superior PVST BPDU received on VLAN 10
+How can this error be resolved?
+Choice index: A Choice content: Map VLAN 10 into an appropriate instance on switch A
+Choice index: B Choice content: Remove the IST root from MST region 2
+Choice index: C Choice content: Map VLAN 10 to interface 0 in all MST regions
+Choice index: D Choice content: Configure PVST + to allow MST Region 1 to be the root for VLAN 10

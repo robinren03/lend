@@ -1,0 +1,21 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions:
+-> THIS TASK DOES NOT REQUIRE DEVICE CONFIGURATION
+-> To access the multiple-choice questions, click on the numbered boxes on the left of the top panel.
+-> There is two multiple-choice question with this task. Be sure to answer the question before selecting the Next button
+Scenario:
+A Cisco Wireless LAN Controller has been correctly configured for AP and wireless client access. The WLC and AP have been connected using a configured
+CISCO iOS switch. Unexpected results are occurring for the AP association to the WLC. Refer to the exhibits to answer the question.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Which four levels of messages will be sent to the logging server? (Choose four.)
+Choice index: A Choice content: alerts
+Choice index: B Choice content: critical
+Choice index: C Choice content: debugging
+Choice index: D Choice content: emergencies
+Choice index: E Choice content: errors
+Choice index: F Choice content: informational
+Choice index: G Choice content: notifications
+Choice index: H Choice content: warnings

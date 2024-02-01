@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Which command would you use to configure a static route on Router1 to network 192.168.202.0/24 with a nondefault administrative distance?
+Choice index: A Choice content: router1(config)#ip route 192.168.202.0 255.255.255.0 192.168.201.2 1
+Choice index: B Choice content: router1(config)#ip route 192.168.202.0 255.255.255.0 192.168.201.2 5
+Choice index: C Choice content: router1(config)#ip route 1 192.168.201.1 255.255.255.0 192.168.201.2
+Choice index: D Choice content: router1(config)#ip route 5 192.168.202.0 255.255.255.0 192.168.201.2

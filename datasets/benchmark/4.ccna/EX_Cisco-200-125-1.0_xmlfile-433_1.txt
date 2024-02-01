@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network administrator requires easy configuration options and minimal routing protocol traffic. What two options provide adequate routing table information for traffic that passes between the two routers and satisfy the requests of the network administrator? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: a dynamic routing protocol on InternetRouter to advertise all routes to CentralRouter.
+Choice index: B Choice content: a dynamic routing protocol on InternetRouter to advertise summarized routes to CentralRouter.
+Choice index: C Choice content: a static route on InternetRouter to direct traffic that is destined for 172.16.0.0/16 to CentralRouter.
+Choice index: D Choice content: a dynamic routing protocol on CentralRouter to advertise all routes to InternetRouter.
+Choice index: E Choice content: a dynamic routing protocol on CentralRouter to advertise summarized routes to InternetRouter.
+Choice index: F Choice content: a static, default route on CentralRouter that directs traffic to InternetRouter.

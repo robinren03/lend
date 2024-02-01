@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+Switch A, B, and C are trunked together and have been properly configured for VTP. Switch B has all VLANs, but Switch C is not receiving traffic from certain
+VLANs. What would cause this issue?
+Choice index: A Choice content: A VTP authentication mismatch occurred between Switch A and Switch B.
+Choice index: B Choice content: The VTP revision number of Switch B is higher than that of Switch A.
+Choice index: C Choice content: VTP pruning is configured globally on all switches and it removed VLANs from the trunk interface that is connected to Switch C.
+Choice index: D Choice content: The trunk between Switch A and Switch B is misconfigured.

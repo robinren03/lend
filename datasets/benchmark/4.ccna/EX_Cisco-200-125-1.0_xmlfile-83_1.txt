@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Host 1 is trying to communicate with Host 2. The e0 interface on Router C is down. Which of the following are true? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Router C will use ICMP to inform Host 1 that Host 2 cannot be reached.
+Choice index: B Choice content: Router C will use ICMP to inform Router B that Host 2 cannot be reached.
+Choice index: C Choice content: Router C will use ICMP to inform Host 1, Router A, and Router B that Host 2 cannot be reached.
+Choice index: D Choice content: Router C will send a Destination Unreachable message type.
+Choice index: E Choice content: Router C will send a Router Selection message type.
+Choice index: F Choice content: Router C will send a Source Quench message type.

@@ -1,0 +1,17 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Lab -Access List Simulation -
+A network associate is adding security to the configuration of the Corp1 router. The user on host C should be able to use a web browser to access financial information from the Finance Web Server. No other hosts from the LAN nor Core should be able to use a web browser to access this server. Since there are multiple resources for the corporation at this location including other resources on the Finance Web Server, all other traffic should be allowed. is to create and apply an access-list with no more than three statements that will allow ONLY host C web access to the Finance Web Server. No other
+The task -
+hosts will have web access to the Finance Web Server. All other traffic is permitted.
+Access to the router CLI can be gained by clicking on the appropriate host.
+All passwords have been temporarily set to "cisco".
+The Core connection uses an IP address of 198.18.196.65
+The computers in the Hosts LAN have been assigned addresses of 192.168.33.1 "" 192.168.33.254.
+-> host A 192.168.33.1
+-> host B 192.168.33.2
+-> host C 192.168.33.3
+-> host D 192.168.33.4
+The computers in the Hosts LAN have been assigned addresses of 172.22.242.17 "" 172.22.242.30
+The Finance Web Server is assigned an IP address of 172.22.242.23
+(The given image is here)

@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Host A can communicate with Host B but not with Hosts C or D. How can the network administrator solve this problem?
+(The given image is here)
+Choice index: A Choice content: Configure Hosts C and D with IP addresses in the 192.168.2.0 network.
+Choice index: B Choice content: Install a router and configure a route to route between VLANs 2 and 3.
+Choice index: C Choice content: Install a second switch and put Hosts C and D on that switch while Hosts A and B remain on the original switch.
+Choice index: D Choice content: Enable the VLAN trunking protocol on the switch.

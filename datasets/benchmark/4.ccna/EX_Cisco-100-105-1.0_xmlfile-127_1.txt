@@ -1,0 +1,14 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Instructions -
+For both the Router and the Switch the simulated console mode needs to start and remain in enabled mode.
+RouterA and SwitchA have been configured to operate in a private network which will connect to the Internet. You have been asked to review the configuration prior to cabling and implementation.
+This task requires the use of various IOS commands to access and inspect the running configuration of RouterA and SwitchA. No configuration changes are necessary.
+You will connect to RouterA and SwilchA via the console devices that are attached to each.
+There are 4 multiple-choice questions with this task. Be sure to answer all of them before leaving this item. In order to score the maximum points you will need to have accessed both SwitchA and RouterA.
+NOTE: The configuration command has been disabled for both the router and switch in this simulation.
+(The given image is here)
+Which of the following is true regarding the configuration of SwitchA?
+Choice index: A Choice content: only 5 simultaneous remote connections are possible
+Choice index: B Choice content: remote connections using ssh will require a username and password
+Choice index: C Choice content: only connections from the local network will be possible
+Choice index: D Choice content: console access to SwitchA requires a password

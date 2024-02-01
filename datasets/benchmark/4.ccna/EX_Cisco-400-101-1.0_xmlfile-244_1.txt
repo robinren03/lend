@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. Your organization has two offices, Site 1 and Site 2, which are connected by provider backbone, as shown. Where must you configure an attachment circuit to allow the two sites to connect over a Layer 2 network using L2TPv3?
+Choice index: A Choice content: PE Site 1 Fa1/0 and PE Site 2 Fa0/0
+Choice index: B Choice content: PE Site 1 Se0/0 and PE Site 2 Se0/0
+Choice index: C Choice content: CE Site 1 Fa0/0 and PE Site 2 Se0/0
+Choice index: D Choice content: CE Site 1 Fa0/0 and CE Site 2 Fa0/0

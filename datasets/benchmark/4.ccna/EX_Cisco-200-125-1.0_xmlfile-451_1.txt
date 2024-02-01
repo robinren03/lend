@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The networks connected to router R2 have been summarized as a 192.168.176.0/21 route and sent to R1. Which two packet destination addresses will R1 forward to R2? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: 192.168.194.160
+Choice index: B Choice content: 192.168.183.41
+Choice index: C Choice content: 192.168.159.2
+Choice index: D Choice content: 192.168.183.255
+Choice index: E Choice content: 192.168.179.4

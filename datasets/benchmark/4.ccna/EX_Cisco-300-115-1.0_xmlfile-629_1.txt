@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here) "" DSW1 (Distribution Switch 1) is the primary device for VLAN 101, 102, 105. "" DSW2 (Distribution Switch 2) is the primary device for VLAN 103 and 104. "" A failure on gig1/0/1 on primary device should cause the primary device to release its status as the primary device, unless GigabitEthernet 1/0/1 on backup device has also failed.
+During routine maintenance, it became necessary to shutdown G1/0/1 on DSW1. All other interfaces were up. During this time, DSW1 remained the active device for VLAN 102"™s HSRP group. You have determined that there is an issue with the decrement value in the track command in VLAN 102"™s
+HSRP group. What need to be done to make the group function properly?
+Choice index: A Choice content: The DSW1"™s decrement value should be configured with a value from 5 to 15.
+Choice index: B Choice content: The DSW1"™s decrement value should be configured with a value from 9 to 15.
+Choice index: C Choice content: The DSW1"™s decrement value should be configured with a value from 11 to 18.
+Choice index: D Choice content: The DSW1"™s decrement value should be configured with a value from 195 to less than 205.
+Choice index: E Choice content: The DSW1"™s decrement value should be configured with a value from 200 to less than 205.
+Choice index: F Choice content: The DSW1"™s decrement value should be greater than 190 and less 200.

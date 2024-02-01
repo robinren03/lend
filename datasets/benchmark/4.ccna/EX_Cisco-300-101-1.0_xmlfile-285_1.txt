@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to Exhibit.
+R1 is unable to ping interface S0/0 of R2.
+What is the issue the configuration that is shown here?
+(The given image is here)
+Choice index: A Choice content: The route-target configuration command is missing.
+Choice index: B Choice content: The interface IP addresses are not in the same subnet.
+Choice index: C Choice content: the syntax of the ping command is wrong.
+Choice index: D Choice content: The default route configuration is missing.
+Choice index: E Choice content: The serial interfaces belong to the global table instead of vrf Yellow.

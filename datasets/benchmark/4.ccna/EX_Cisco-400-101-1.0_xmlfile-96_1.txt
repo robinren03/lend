@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+After you configured DHCP snooping to block a rogue DHCP server from assigning IP addresses to devices on your network, you notice that all ports on the switch are still trusted. Which action can you take to correct the problem?
+Choice index: A Choice content: Disable DHCP snooping on all VLANs
+Choice index: B Choice content: Remove the ip dhcp snooping trust command from all interfaces on the switch except the interface that connects to the company DHCP server
+Choice index: C Choice content: Disable DHCP snooping on VLAN 1 only
+Choice index: D Choice content: Configure the ip dhcp snooping rate limited command to rate-limit the interface that connects to the rogue DHCP server

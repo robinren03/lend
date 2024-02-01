@@ -1,0 +1,19 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+You have three switches connected as shown in the diagram below: S1, S2, and S3.
+(The given image is here)
+You instructed your assistant to configure the switches so that the following requirements would be met:
+Switch 1 should be the root bridge for VLAN A
+VLAN C should forward over the Gig 1/0/1 link between Switch 2 and Switch 3
+VLAN B should forward over the Gig 1/0/2 link between Switch 2 and Switch 3
+However, after your assistant performs the configuration, you discover that:
+Switch 2 is the root bridge for VLAN A
+VLAN C is forwarding over the Gig 1/0/2 link between Switch 2 and Switch 3
+VLAN B is forwarding over the Gig 1/0/1 link between Switch 2 and Switch 3
+When you execute the show spanning tree command on Switch 2, you determine that all link costs and priorities are set at the defaults.
+Which of the following actions performed on Switch 2 would enable the desired configuration? (Choose three.)
+Choice index: A Choice content: switch2(config)# spanning-tree vlan a priority 61440
+Choice index: B Choice content: switch2(config)# spanning-tree vlan a priority 1
+Choice index: C Choice content: switch2(config)# int G1/0/2switch2(config-if)# spanning-tree vlan b cost 1
+Choice index: D Choice content: switch2(config)# int G1/0/2switch2(config-if)# spanning-tree vlan b cost 19
+Choice index: E Choice content: switch2(config)# int G1/0/1switch2(config-if)# spanning-tree vlan c port-priority 64
+Choice index: F Choice content: switch2(config)# int G1/0/1switch2(config-if)# spanning-tree vlan c port-priority 128

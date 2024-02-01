@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+On a network of one department, there are four PCs connected to a switch, as shown in the following figure: After the Switch1 restarts. Host A (the host on the left) sends the first frame to Host C (the host on the right). What the first thing should the switch do?
+(The given image is here)
+Choice index: A Choice content: Switch1 will add 192.168.23.12 to the switching table.
+Choice index: B Choice content: Switch1 will add 192.168.23.4 to the switching table.
+Choice index: C Choice content: Switch1 will add 000A.8A47.E612 to the switching table.
+Choice index: D Choice content: None of the above

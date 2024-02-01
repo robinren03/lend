@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+SIMULATION -
+Lab ""OSPF -
+A sporting goods manufacturer has decided to network three (3) locations to improve efficiency in inventory control. The routers have been named to reflect the location: Boston, Frankfurt, Lancaster. The necessary networking has been completed at each location, and the routers have been configured with single area
+OSPF as the routing protocol. The Lancaster router was recently installed but connectivity is not complete because of incomplete routing tables. Identify and correct any problem you see in the configuration.
+Note: The OSPF process must be configured to allow interfaces in specific subnets to participate in the routing process.
+(The given image is here)

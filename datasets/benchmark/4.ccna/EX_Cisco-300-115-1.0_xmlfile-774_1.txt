@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. All switches are configured with the default port priority value. Which two commands ensure that traffic from PC1 is forwarded over the Gi1/3 trunk port between DSW1 and DSW2? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: DSW1(config-if)#spanning-tree port-priority 16
+Choice index: B Choice content: DSW1(config-if)#spanning-tree port-priority 0
+Choice index: C Choice content: DSW1(config)#interface gi1/3
+Choice index: D Choice content: DSW2(config-if)#spanning-tree port-priority 16
+Choice index: E Choice content: DSW2(config)#interface gi1/3
+Choice index: F Choice content: DSW2(config-if)#spanning-tree port-priority 128

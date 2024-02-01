@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Given this output for SwitchC, what should the network administrator's next action be?
+(The given image is here)
+Choice index: A Choice content: Check the trunk encapsulation mode for SwitchC's fa0/1 port.
+Choice index: B Choice content: Check the duplex mode for SwitchC's fa0/1 port.
+Choice index: C Choice content: Check the duplex mode for SwitchA's fa0/2 port.
+Choice index: D Choice content: Check the trunk encapsulation mode for SwitchA's fa0/2 port.

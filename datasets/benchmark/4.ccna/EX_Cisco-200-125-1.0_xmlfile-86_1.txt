@@ -1,0 +1,9 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. The network shown in the diagram is experiencing connectivity problems. Which of the following will correct the problems? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Configure the gateway on Host A as 10.1.1.1.
+Choice index: B Choice content: Configure the gateway on Host B as 10.1.2.254.
+Choice index: C Choice content: Configure the IP address of Host A as 10.1.2.2.
+Choice index: D Choice content: Configure the IP address of Host B as 10.1.2.2.
+Choice index: E Choice content: Configure the masks on both hosts to be 255.255.255.224.
+Choice index: F Choice content: Configure the masks on both hosts to be 255.255.255.240.

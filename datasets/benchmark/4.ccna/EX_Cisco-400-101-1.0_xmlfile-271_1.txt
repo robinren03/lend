@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. R2 is configured with an IP helper address on Gi0/0/0 and it is sharing routes with R1 using OSPF. If PC1 is configured to request an IP address from the DHCP server, which two statements correctly describe communications between the devices on the network? (Choose two.)
+Choice index: A Choice content: PC1 sends DHCPREQUEST messages to IP address 255.255.255.255
+Choice index: B Choice content: R1 forwards DHCPREQUEST messages to IP address 172.16.1.100
+Choice index: C Choice content: R1 forwards DHCPDISCOVER messages to IP address 255.255.255.255
+Choice index: D Choice content: PC1 sends DHCPDISCOVER messages to IP address 255.255.255.255
+Choice index: E Choice content: R1 forwards DHCPOFFER messages to IP address 172.16.1.100

@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit. Which two statements about laptop A with respect to server B are true? (Choose two.)
+(The given image is here)
+Choice index: A Choice content: Laptop A and server B are in the same subnet
+Choice index: B Choice content: Laptop A can send a broadcast packet and reach server B
+Choice index: C Choice content: Laptop A and server B are in different subnets
+Choice index: D Choice content: Laptop A can communicate with server B at Layer 2
+Choice index: E Choice content: Laptop A does not know the MAC address of server B

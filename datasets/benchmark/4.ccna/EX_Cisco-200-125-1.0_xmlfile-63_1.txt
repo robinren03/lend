@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the graphic. Host A is communicating with the server. What will be the source MAC address of the frames received by Host A from the server?
+(The given image is here)
+Choice index: A Choice content: the MAC address of router interface e0
+Choice index: B Choice content: the MAC address of router interface e1
+Choice index: C Choice content: the MAC address of the server network interface
+Choice index: D Choice content: the MAC address of host A

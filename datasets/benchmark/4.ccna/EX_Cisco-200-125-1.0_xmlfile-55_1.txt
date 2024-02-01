@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+Refer to the exhibit.
+(The given image is here)
+You determine that Computer A cannot ping Computer B. Which reason for the problem is most likely true?
+Choice index: A Choice content: The subnet mask for Computer A is incorrect.
+Choice index: B Choice content: The default gateway address for Computer B is incorrect.
+Choice index: C Choice content: The subnet mask for Computer B is incorrect.
+Choice index: D Choice content: The default gateway address for Computer A is incorrect.

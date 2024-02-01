@@ -1,0 +1,10 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+(The given image is here)
+(The given image is here)
+Which causes routers R1 and R2 to be displayed as HSRP active routers for group 2?
+Choice index: A Choice content: The HSRP group numbers do not match.
+Choice index: B Choice content: The HSRP group authentication misconfigured.
+Choice index: C Choice content: The HSRP Hello packets are blocked.
+Choice index: D Choice content: The HSRP group timers do not match.
+Choice index: E Choice content: The HSRP group priorities do not match.

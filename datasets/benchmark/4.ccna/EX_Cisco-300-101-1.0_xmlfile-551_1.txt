@@ -1,0 +1,8 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to exhibit. If the IGP in AS65000 is RIPv2, which networks are displayed when you enter show ip route on router R2?
+Choice index: A Choice content: VLSM subnets in 10.0.0.0/16 and the major network 10.2.0.0/16 only
+Choice index: B Choice content: VLSM subnets in 10.0.0.0/16 and the major network 10.2.0.0/16 only
+Choice index: C Choice content: VLSM subnets in 10.0.0.0/16 only
+Choice index: D Choice content: major networks 10.1.0.0/16 and 10.2.0.0/16 only
+Choice index: E Choice content: VLSM subnets in 10.0.0.0/16 and the major networks 10.1.0.0/16 10.2.0.0/16

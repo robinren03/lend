@@ -1,0 +1,7 @@
+The question is as follows, choose the most possible choice or choices based on the question. You should evaluate the score of each choice independently and choose the top one or ones. Your answer should be given by the choice index ONLY, for example, 'A' or 'BCD'.
+(The given image is here)
+Refer to the exhibit. You notice that router R2 is experiencing high CPU usage. Which action can you take to correct the problem?
+Choice index: A Choice content: Configure R2 to advertise an area summary route between R2 and R1.
+Choice index: B Choice content: Configure the net-hop address for the R2 default route.
+Choice index: C Choice content: Configure OSPF on the connection between R2 and the ISP
+Choice index: D Choice content: Remote the default-information originate command from the R2 configuration.
