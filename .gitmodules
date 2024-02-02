@@ -1,0 +1,6 @@
+[submodule "src/analyse/src/analyse/lama"]
+	path = src/analyse/src/analyse/lama
+	url = git@github.com:advimman/lama.git
+[submodule "src/analyse/src/analyse/segment-anything"]
+	path = src/analyse/src/analyse/segment-anything
+	url = git@github.com:facebookresearch/segment-anything.git
