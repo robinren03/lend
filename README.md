@@ -20,13 +20,13 @@ LEND shows outstanding performance in icon detection, topology detection, text a
 
 For the overall performance of LEND to other models,
 
-![icon-all](.\figs\icon-all.png)
+![icon-all](figs/icon-all.png)
 
 For each class, each model performs:
 
-![iconp](.\figs\iconp.png)
+![iconp](figs/iconp.png)
 
-![iconr](.\figs\iconr.png)
+![iconr](figs/iconr.png)
 
 ### Topology detection and text attribution
 
@@ -50,7 +50,7 @@ WP - Precision of Text Attribution by Word, WR - Recall of Text Attribution by W
 
 Score compared to other models.
 
-![scores](.\figs\accuracy.png)
+![scores](figs/accuracy.png)
 
 ablation study on task-specific interpreter
 | LEND(GPT-4V)    | full |  -dis ambiguity  | -prompt engineering  |
