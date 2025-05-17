@@ -55,7 +55,7 @@ Score compared to other models.
 ablation study on task-specific interpreter
 | LEND(GPT-4V)    | full |  -dis ambiguity  | -prompt engineering  |
 | -------- | ---- | ---- | ---- |
-| score  | 48.28 | 40.26  | 42.07 |
+| score  | 57.4 | 48.1  | 50.0 |
 
 
 ## Requirement
@@ -67,7 +67,7 @@ You should install the Python  libraries as instructed by `src/README.md` and `s
 
 ### Hardware Requirement
 
-You should have  an NVIDIA(R) GPU with at least 24GB memory as LEND requires to load in ViT-L and other models. Our experiment was conducted on NVIDIA(R) RTX A6000 GPU.
+You should have  an NVIDIA(R) GPU with at least 10GB memory as LEND requires to load in PaddleOCR and other models. Our experiment was conducted on NVIDIA(R) RTX A6000 GPU.
 
 
 
