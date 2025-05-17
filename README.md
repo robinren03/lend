@@ -53,7 +53,7 @@ Score compared to other models.
 ![scores](figs/accuracy.png)
 
 ablation study on task-specific interpreter
-| LEND(GPT-4V)    | full |  -dis ambiguity  | -prompt engineering  |
+| LEND    | full |  -dis ambiguity  | -prompt engineering  |
 | -------- | ---- | ---- | ---- |
 | score  | 57.4 | 48.1  | 50.0 |
 
